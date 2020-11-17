@@ -1,4 +1,4 @@
 - *Search for a gene* - type the name of a gene or other identifier into the search box above
 - *Find a genome* - click in the 'browse a genome' box above and start typing your genome name to find matching genomes
 - [View full list of all Ensembl Bacteria species](/species.html)
-- [Access Ensembl Bacteria programmatically](http://ensemblgenomes.org/info/access/eg_api)
+- [Access Ensembl Bacteria programmatically](http://bacteria.ensembl.org/info/data/api.html)
