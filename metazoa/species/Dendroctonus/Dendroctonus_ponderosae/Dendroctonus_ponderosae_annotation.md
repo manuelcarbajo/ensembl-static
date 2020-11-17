@@ -8,5 +8,5 @@ are imported into Ensembl Genomes from the
 [ENA](http://www.ebi.ac.uk/ena/data/view/GCA_000355655) records that
 were submitted by the same team responsible for the assembly \[1\].
 Non-coding RNA genes were added using the [Ensembl Genomes
-pipeline](http://ensemblgenomes.org/info/data/ncrna), and BLAST hits and
+pipeline](https://metazoa.ensembl.org/info/genome/annotation/ncrna.html), and BLAST hits and
 protein features have been computed.

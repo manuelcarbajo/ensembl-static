@@ -70,5 +70,9 @@ These 710 KASP markers were developed from SNPs between wheat and ten wild relat
 
 LD data calculate [here](https://github.com/Ensembl/ensembl-variation/tree/release/99/C_code) has been added to 820K and 35K Axiom SNP arrays.
 
+**QTL links**
+43 variants from the 820K and 35K Axiom SNP arrays have been linked to QTL in Cereals DB. This will increase as the QTL DB will grow.
+An example can be seen [here](https://plants.ensembl.org/Triticum_aestivum/Variation/Explore?r=5A:438266461-438267461;v=BA00617086;vdb=variation;vf=264386). 
+
 
 

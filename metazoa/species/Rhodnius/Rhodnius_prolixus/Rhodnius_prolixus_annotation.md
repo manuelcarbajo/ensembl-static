@@ -9,4 +9,4 @@ of dipteran and other protein sets, and *R. prolixus* ESTs. The geneset
 presented here (RproC3.3, October 2017) includes annotation by the
 Rhodnius community to improve and validate gene models and non-coding
 RNA genes from the [Ensembl Genomes
-pipeline](http://ensemblgenomes.org/info/data/ncrna).
+pipeline](https://metazoa.ensembl.org/info/genome/annotation/ncrna.html).
