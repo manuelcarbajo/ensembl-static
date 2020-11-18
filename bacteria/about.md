@@ -4,7 +4,7 @@ Ensembl Bacteria is a browser for bacterial and archaeal genomes. These are take
 
 ### Non-redundant genomes
 
-As of release 35 (April 2017), we have only integrated new sequences that are non-redundant when compared to the existing data set, according to the [criteria of the UniProt Knowledgebase](http://insideuniprot.blogspot.com/2015_05_01_archive.html) (DOI: [10.1093/database/baw139](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5199198/)). From release 49, we are only hosting non-redundant prokaryotic genomes. All existing data will continue to be available via the archive sites.
+As of release 35 (April 2017), we have only integrated new sequences that are non-redundant when compared to the existing data set, according to the [criteria of the UniProt Knowledgebase](https://insideuniprot.blogspot.com/2015_05_01_archive.html) (DOI: [10.1093/database/baw139](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5199198/)). From release 49, we are only hosting non-redundant prokaryotic genomes. All existing data will continue to be available via the archive sites.
 
 ### Data access
 
