@@ -1,7 +1,5 @@
-About *Babesia bovis* {#about-babesia-bovis .first}
+About *Babesia bovis* 
 ---------------------
-
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Babesia_bovis)
 
 ***Babesia bovis*** is a single-celled protozoan parasite of cattle
 which occasionally infects humans. It is a member of the phylum

@@ -1,7 +1,7 @@
-About *Bipolaris oryzae ATCC 44560* {#about-bipolaris-oryzae-atcc-44560 .first}
+About *Bipolaris oryzae ATCC 44560* 
 -----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Cochliobolus_miyabeanus)
+
 
 ***Cochliobolus miyabeanus*** (formerly known as *helminthosporium
 oryzae*) is a fungus that causes brown spot disease in rice. This

@@ -1,3 +1,4 @@
+>>
 Other data
 ----------
 
@@ -9,3 +10,10 @@ spiralis* genome and can be viewed on the genome browser:
     (WormBase)
 -   All other reviewed protein sequences from UniProtKB
 -   ESTs and mRNAs from other nematodes in WormBase
+
+Links
+--------
+
+-   [*T. spiralis* at WormBase
+    ParaSite](https://parasite.wormbase.org/Trichinella_spiralis_prjna12603)
+

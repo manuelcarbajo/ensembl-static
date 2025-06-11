@@ -1,7 +1,7 @@
-About *Plasmodium coatneyi* {#about-plasmodium-coatneyi .first}
+About *Plasmodium coatneyi* 
 ---------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_coatneyi)
+
 
 ***Plasmodium coatneyi*** is a parasitic species that is an agent of
 malaria in nonhuman primates. *P. coatneyi* occurs in Southeast Asia.

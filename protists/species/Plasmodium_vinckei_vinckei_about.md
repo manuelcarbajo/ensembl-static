@@ -1,7 +1,7 @@
-About *Plasmodium vinckei vinckei* {#about-plasmodium-vinckei-vinckei .first}
+About *Plasmodium vinckei vinckei* 
 ----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_vinckei)
+
 
 ***Plasmodium vinckei*** is a parasite of the genus *Plasmodium*
 subgenus *Vinckeia*.

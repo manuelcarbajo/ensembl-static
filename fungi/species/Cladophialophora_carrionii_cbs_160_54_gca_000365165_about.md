@@ -1,7 +1,7 @@
-About *Cladophialophora carrionii CBS 160.54 (GCA\_000365165)* {#about-cladophialophora-carrionii-cbs-160.54-gca_000365165 .first}
+About *Cladophialophora carrionii CBS 160.54 (GCA\_000365165)* 
 --------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Cladophialophora_carrionii)
+
 
 ***Cladophialophora carrionii*** is a melanized fungus in the genus
 *Cladophialophora* that is associated with decaying plant material like

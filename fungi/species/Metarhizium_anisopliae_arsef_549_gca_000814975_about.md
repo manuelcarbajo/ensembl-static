@@ -1,7 +1,7 @@
-About *Metarhizium anisopliae ARSEF 549 (GCA\_000814975)* {#about-metarhizium-anisopliae-arsef-549-gca_000814975 .first}
+About *Metarhizium anisopliae ARSEF 549 (GCA\_000814975)* 
 ---------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Metarhizium_anisopliae)
+
 
 ***Metarhizium anisopliae***, formerly known as *Entomophthora
 anisopliae* (basionym), is a fungus that grows naturally in soils

@@ -1,7 +1,7 @@
-About *Macrophomina phaseolina MS6 (GCA\_000302655)* {#about-macrophomina-phaseolina-ms6-gca_000302655 .first}
+About *Macrophomina phaseolina MS6 (GCA\_000302655)* 
 ----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Macrophomina_phaseolina)
+
 
 ***Macrophomina phaseolina*** is a Botryosphaeriaceae plant pathogen
 fungus that causes damping off, seedling blight, collar rot, stem rot,

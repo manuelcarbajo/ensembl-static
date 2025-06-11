@@ -13,4 +13,4 @@ Originally isolated from wild individuals collected in Kenya (Kikuyu,
 College London). There is no colony.
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-christyi "Tendency to inhabit/rest in outdoor areas.")
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000349165.1 "Tendency to inhabit/rest in outdoor areas.")

@@ -1,7 +1,7 @@
-About *Malassezia sympodialis ATCC 42132 (GCA\_900149145)* {#about-malassezia-sympodialis-atcc-42132-gca_900149145 .first}
+About *Malassezia sympodialis ATCC 42132 (GCA\_900149145)* 
 ----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Malassezia_sympodialis)
+
 
 ***Malassezia sympodialis*** is a species in the genus *Malassezia*. It
 is characterized by a pronounced lipophily, unilateral, percurrent or

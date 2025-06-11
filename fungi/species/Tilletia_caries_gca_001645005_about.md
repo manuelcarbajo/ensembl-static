@@ -1,7 +1,7 @@
-About *Tilletia caries str. DAOM 238032 (GCA\_001645005)* {#about-tilletia-caries-str.-daom-238032-gca_001645005 .first}
+About *Tilletia caries str. DAOM 238032 (GCA\_001645005)* 
 ---------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Tilletia_caries)
+
 
 ***Tilletia caries*** (synonymous with ***Tilletia tritici***) is a
 basidiomycete that causes common bunt of wheat. The common names of this

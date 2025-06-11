@@ -1,7 +1,7 @@
-About *Aureobasidium pullulans (GCA\_001678115)* {#about-aureobasidium-pullulans-gca_001678115 .first}
+About *Aureobasidium pullulans (GCA\_001678115)* 
 ------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aureobasidium_pullulans)
+
 
 \_\_NOTOC\_\_
 

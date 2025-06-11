@@ -1,7 +1,7 @@
-About *Plasmodium knowlesi strain H* {#about-plasmodium-knowlesi-strain-h .first}
+About *Plasmodium knowlesi strain H* 
 ------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_knowlesi)
+
 
 ***Plasmodium knowlesi*** is a primate malaria parasite commonly found
 in Southeast Asia. It causes malaria in long-tailed macaques (*Macaca

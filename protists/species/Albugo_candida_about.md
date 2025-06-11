@@ -1,7 +1,7 @@
-About *Albugo candida* {#about-albugo-candida .first}
+About *Albugo candida* 
 ----------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Albugo_candida)
+
 
 **White rust**, ***Albugo candida*** is a species from family
 Albuginaceae; however, all the other species in this family are called

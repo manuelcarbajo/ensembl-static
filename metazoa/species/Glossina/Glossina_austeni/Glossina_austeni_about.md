@@ -13,4 +13,4 @@ Trypanosomosis Research Institute (TTRI) laboratories in Tanga,
 Tanzania.
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/glossina-austeni)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000688735.1)

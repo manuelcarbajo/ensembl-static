@@ -1,7 +1,7 @@
-About *Kluyveromyces marxianus DMKU3-1042* {#about-kluyveromyces-marxianus-dmku3-1042 .first}
+About *Kluyveromyces marxianus DMKU3-1042* 
 ------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Kluyveromyces_marxianus)
+
 
 ***Kluyveromyces marxianus*** is a species of yeast in the genus
 *Kluyveromyces*, and is the sexual form (teleomorph) of *Candida kefyr*.

@@ -10,3 +10,5 @@ seedlings aligned to the genome indicating comprehensive coverage of the
 gene-rich regions. In addition, more than [97% of the conserved core
 eukaryotic genes](http://europepmc.org/abstract/MED/17332020) were
 present in the genome.
+
+Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). Repeats length: 124357288 - Repeats content: 39.2%

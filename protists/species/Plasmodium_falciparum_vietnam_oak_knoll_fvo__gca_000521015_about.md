@@ -1,7 +1,7 @@
-About *Plasmodium falciparum Vietnam Oak-Knoll (FVO)* {#about-plasmodium-falciparum-vietnam-oak-knoll-fvo .first}
+About *Plasmodium falciparum Vietnam Oak-Knoll (FVO)* 
 -----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_falciparum)
+
 
 ***Plasmodium falciparum*** is a unicellular protozoan parasite of
 humans, and the deadliest species of *Plasmodium* that cause malaria in

@@ -1,7 +1,7 @@
-About *Pseudocercospora musae str. CBS 116634 (GCA\_001578225)* {#about-pseudocercospora-musae-str.-cbs-116634-gca_001578225 .first}
+About *Pseudocercospora musae str. CBS 116634 (GCA\_001578225)* 
 ---------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Mycosphaerella_musicola)
+
 
 ***Mycosphaerella musicola*** is a fungal plant pathogen, which is the
 causal agent of Yellow Sigatoka leaf spot disease on banana plants.

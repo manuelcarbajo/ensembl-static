@@ -1,7 +1,7 @@
-About *Stachybotrys chartarum IBT 40293* {#about-stachybotrys-chartarum-ibt-40293 .first}
+About *Stachybotrys chartarum IBT 40293* 
 ----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Stachybotrys_chartarum)
+
 
 ***Stachybotrys chartarum***, also called ***Stachybotrys atra***,
 ***Stachybotrys alternans*** or ***Stilbospora chartarum***, is a black

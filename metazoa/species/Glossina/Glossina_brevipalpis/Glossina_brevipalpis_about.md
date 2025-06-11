@@ -13,4 +13,4 @@ Sequenced strain originating from colony maintained in IAEA laboratories
 in Seibersdorf, Austria.
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/glossina-brevipalpis)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000671755.1)

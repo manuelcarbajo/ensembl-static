@@ -1,7 +1,7 @@
-About *Entamoeba histolytica KU27* {#about-entamoeba-histolytica-ku27 .first}
+About *Entamoeba histolytica KU27* 
 ----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Entamoeba_histolytica)
+
 
 thumb\|right\|450px\|Life-cycle of *Entamoeba histolytica*
 

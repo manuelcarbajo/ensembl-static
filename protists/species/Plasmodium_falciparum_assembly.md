@@ -1,9 +1,9 @@
-Assembly
---------
+### Assembly 
 
 The *Plasmodium falciparum* genome has a total size of 23Mb, organized in 14 chromosomes
 and is available from the ENA/Genbank databases under the accession
-[GCA_000002765.2](http://www.ebi.ac.uk/ena/data/view/GCA_000002765.2)
+[GCA_000002765.3](http://www.ebi.ac.uk/ena/data/view/GCA_000002765.3).
+
 Due to its size and the high AT content, a chromosome-based approach was
 chosen for the sequencing strategy. The chromosomes from *P. falciparum* 3D7 were distributed
 among the sequencing centers that make up the *P. falciparum* Genome Sequencing

@@ -1,7 +1,7 @@
-About *Tilletia walkeri str. DAOM 236422 (GCA\_001645055)* {#about-tilletia-walkeri-str.-daom-236422-gca_001645055 .first}
+About *Tilletia walkeri str. DAOM 236422 (GCA\_001645055)* 
 ----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Ryegrass_bunt)
+
 
 ***Tilletia walkeri*** is a species of fungus in the Tilletiaceae
 family. It causes the disease **Ryegrass bunt**, which affects ryegrass.

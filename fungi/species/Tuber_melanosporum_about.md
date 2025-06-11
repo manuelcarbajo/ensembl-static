@@ -1,4 +1,4 @@
-About *Tuber melansoporum* {#about-tuber-melansoporum .first}
+About *Tuber melansoporum* 
 --------------------------
 
 *Tuber melanosporum*, commonly known as Périgord black truffle, and the

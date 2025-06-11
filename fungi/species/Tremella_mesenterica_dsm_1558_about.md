@@ -1,7 +1,7 @@
-About *Tremella mesenterica DSM 1558* {#about-tremella-mesenterica-dsm-1558 .first}
+About *Tremella mesenterica DSM 1558* 
 -------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Tremella_mesenterica)
+
 
 ***Tremella mesenterica*** (common names include **yellow brain**,
 **golden jelly fungus**, **yellow trembler**, and **witches\'

@@ -1,7 +1,7 @@
-About *Wolfiporia cocos MD-104 SS10 (GCA\_000344635)* {#about-wolfiporia-cocos-md-104-ss10-gca_000344635 .first}
+About *Wolfiporia cocos MD-104 SS10 (GCA\_000344635)* 
 -----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Wolfiporia_extensa)
+
 
 ***Wolfiporia extensa*** (Peck) Ginns (*syn.* *Poria cocos* F.A.Wolf) is
 a fungus in the family Polyporaceae. It is a wood-decay fungus but has a

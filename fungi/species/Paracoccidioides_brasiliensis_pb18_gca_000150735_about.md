@@ -1,7 +1,7 @@
-About *Paracoccidioides brasiliensis Pb18 (GCA\_000150735)* {#about-paracoccidioides-brasiliensis-pb18-gca_000150735 .first}
+About *Paracoccidioides brasiliensis Pb18 (GCA\_000150735)* 
 -----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Paracoccidioides_brasiliensis)
+
 
 ***Paracoccidioides brasiliensis*** is a dimorphic fungus and the
 causative agent of the disease paracoccidioidomycosis. The fungus has

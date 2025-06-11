@@ -1,7 +1,7 @@
-About *Neolentinus lepideus HHB14362 ss-1 (GCA\_001632425)* {#about-neolentinus-lepideus-hhb14362-ss-1-gca_001632425 .first}
+About *Neolentinus lepideus HHB14362 ss-1 (GCA\_001632425)* 
 -----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Neolentinus_lepideus)
+
 
 ***Neolentinus lepideus*** is a basidiomycete mushroom of the genus
 *Neolentinus*, until recently also widely known as ***Lentinus

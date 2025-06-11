@@ -1,7 +1,7 @@
-About *Postia placenta MAD-698-R-SB12 (GCA\_002117355)* {#about-postia-placenta-mad-698-r-sb12-gca_002117355 .first}
+About *Postia placenta MAD-698-R-SB12 (GCA\_002117355)* 
 -------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Rhodonia)
+
 
 ***Rhodonia*** is a fungal genus in the family Fomitopsidaceae. It is a
 monotypic genus, containing the single crust fungus ***Rhodonia

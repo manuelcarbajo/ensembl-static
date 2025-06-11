@@ -6,7 +6,7 @@ between VectorBase, JCVI and the University of Geneva. Automated
 annotation pipelines were run at each centre and the resulting set of
 predictions merged into a canonical set. A first round of manual
 appraisal and editing was undertaken by JCVI to improve the quality of
-the prediction set. The geneset presented here (PhumU2.4, February 2018)
+the prediction set. The geneset presented here (PhumU2.5, July 2019)
 represents the original set integrated with mitochondrial genes and
 non-coding RNA genes from the [Ensembl Genomes
-pipeline](http://ensemblgenomes.org/info/data/ncrna).
+pipeline](https://metazoa.ensembl.org/info/genome/annotation/ncrna.html).

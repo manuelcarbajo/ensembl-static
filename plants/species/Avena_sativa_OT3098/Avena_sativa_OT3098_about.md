@@ -1,0 +1,6 @@
+About *Genus species*
+---------------------
+
+Cultivated oat (*Avena sativa L.*) is an allohexaploid (AACCDD, 2n = 6x = 42) thought to have been domesticated more than 3,000 years ago while growing as a weed in wheat, emmer and barley fields in Anatolia.
+Oat has a low carbon footprint, substantial health benefits and the potential to replace animal-based food products. Oat is a member of Poaceae, an economically important grass family that includes wheat, rice, barley, common millet, maize, sorghum and sugarcane. Avena species exist in nature as diploids, tetraploids and hexaploids and exhibit the greatest genetic diversity around the Mediterranean, Middle East, Canary Islands and Himalayas. Currently, oat is a global crop with production ranking seventh among cereals (http://www.fao.org/faostat/en/, accessed May 2021). Compared with that of other cereals, oat cultivation requires fewer treatments with insecticides, fungicides or fertilizers. Whole-grain oats are a healthy source of antioxidants, polyunsaturated fatty acids, proteins and dietary fibre such as β-glucan, which is important in post-meal glycaemic responses and for preventing cardiovascular disease. Cereals such as wheat, barley and rye store high amounts of gluten proteins in their grain; by contrast, oat and rice store globular proteins in their grain.
+

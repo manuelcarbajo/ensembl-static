@@ -1,7 +1,7 @@
-About *Aspergillus fumigatus Z5* {#about-aspergillus-fumigatus-z5 .first}
+About *Aspergillus fumigatus Z5* 
 --------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_fumigatus)
+
 
 ***Aspergillus fumigatus*** is a fungus of the genus *Aspergillus*, and
 is one of the most common *Aspergillus* species to cause disease in

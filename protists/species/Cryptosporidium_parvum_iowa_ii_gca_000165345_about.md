@@ -1,7 +1,7 @@
-About *Cryptosporidium parvum Iowa II* {#about-cryptosporidium-parvum-iowa-ii .first}
+About *Cryptosporidium parvum Iowa II* 
 --------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Cryptosporidium_parvum)
+
 
 ***Cryptosporidium parvum*** is one of several species that cause
 cryptosporidiosis, a parasitic disease of the mammalian intestinal

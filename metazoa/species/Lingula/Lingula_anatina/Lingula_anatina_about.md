@@ -13,8 +13,8 @@ detected by a short row of three openings through which it takes in
 water (sides) and expels it again (middle). In Thailand, there is
 limited *Lingula anatina* fishery, where it is known as *hoi pak ped*.
 
-([Text](http://en.wikipedia.org/wiki/Lingula_(brachiopod)) from
-[Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+([Text](https://en.wikipedia.org/wiki/Lingula_(brachiopod)) from
+[Wikipedia](https://en.wikipedia.org/), the free encyclopaedia.)
 
 Picture credit (Creative Commons BY-SA 3.0): [Drow
 Male](https://commons.wikimedia.org/wiki/File:Lingula_anatina_7.JPG)

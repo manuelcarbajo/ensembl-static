@@ -1,7 +1,7 @@
-About *Moniliophthora roreri* {#about-moniliophthora-roreri .first}
+About *Moniliophthora roreri* 
 -----------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Moniliophthora_roreri)
+
 
 ***Moniliophthora roreri*** is a basidiomycete fungus that causes frosty
 pod rot disease, one of the most serious problems for cacao (*Theobroma

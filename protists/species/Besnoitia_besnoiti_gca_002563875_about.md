@@ -1,7 +1,7 @@
-About *Besnoitia besnoiti str. Bb-Ger1* {#about-besnoitia-besnoiti-str.-bb-ger1 .first}
+About *Besnoitia besnoiti str. Bb-Ger1* 
 ---------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Besnoitia_besnoiti)
+
 
 ***Besnoitia besnoiti*** is an important parasite that can afflict
 livestock. In particular, cattle are vulnerable to *B. besnoiti*.

@@ -1,7 +1,7 @@
-About *Ichthyophthirius multifiliis* {#about-ichthyophthirius-multifiliis .first}
+About *Ichthyophthirius multifiliis* 
 ------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Ichthyophthirius_multifiliis)
+
 
 ***Ichthyophthirius multifiliis*** (commonly known as **freshwater white
 spot disease**, **freshwater ich**, or **freshwater ick**) is a common

@@ -1,7 +1,7 @@
-About *Eimeria maxima str. Weybridge* {#about-eimeria-maxima-str.-weybridge .first}
+About *Eimeria maxima str. Weybridge* 
 -------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Eimeria_maxima)
+
 
 ***Eimeria maxima*** is a protozoan that causes coccidiosis in poultry.
 It is located in the middle part of the intestine, on either side of

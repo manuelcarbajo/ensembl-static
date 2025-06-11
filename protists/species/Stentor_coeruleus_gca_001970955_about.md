@@ -1,7 +1,7 @@
-About *Stentor coeruleus* {#about-stentor-coeruleus .first}
+About *Stentor coeruleus* 
 -------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Stentor_coeruleus)
+
 
 ***Stentor coeruleus*** is a protist in the family Stentoridae which is
 characterized by being a very large ciliate that measures 0.5 to 2

@@ -1,7 +1,7 @@
-About *Piriformospora indica DSM 11827* {#about-piriformospora-indica-dsm-11827 .first}
+About *Piriformospora indica DSM 11827* 
 ---------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Piriformospora_)
+
 
 ***Piriformospora*** is a fungal genus of the order Sebacinales. It is a
 monotypic genus, containing the single endophytic root-colonising

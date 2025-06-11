@@ -1,7 +1,7 @@
-About *Bipolaris zeicola 26-R-13* {#about-bipolaris-zeicola-26-r-13 .first}
+About *Bipolaris zeicola 26-R-13* 
 ---------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Cochliobolus_carbonum)
+
 
 ***Cochliobolus carbonum*** (anamorph: *Helminthosporium carbonum*) is
 one of more than 40 species of filamentous ascomycetes belonging to the

@@ -1,7 +1,7 @@
-About *Pseudogymnoascus destructans 20631-21* {#about-pseudogymnoascus-destructans-20631-21 .first}
+About *Pseudogymnoascus destructans 20631-21* 
 ---------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Pseudogymnoascus_destructans)
+
 
 ***Pseudogymnoascus destructans*** (formerly known as ***Geomyces
 destructans***) is a psychrophilic (cold-loving) fungus that causes

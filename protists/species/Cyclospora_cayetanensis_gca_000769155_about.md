@@ -1,7 +1,7 @@
-About *Cyclospora cayetanensis str. CHN\_HEN01* {#about-cyclospora-cayetanensis-str.-chn_hen01 .first}
+About *Cyclospora cayetanensis str. CHN\_HEN01* 
 -----------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Cyclospora_cayetanensis)
+
 
 ***Cyclospora cayetanensis*** is a parasite that causes disease in
 humans, and, perhaps, in other primates. It has been linked in the

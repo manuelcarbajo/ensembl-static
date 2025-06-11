@@ -1,7 +1,7 @@
-About *Aspergillus oryzae 100-8* {#about-aspergillus-oryzae-100-8 .first}
+About *Aspergillus oryzae 100-8* 
 --------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_oryzae)
+
 
 ***Aspergillus oryzae***, known in English as ***kōji*** (from Japanese
 *kōji* 麹), is a filamentous fungus (a mold) used in Chinese and other

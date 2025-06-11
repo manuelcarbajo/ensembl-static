@@ -1,7 +1,7 @@
-About *Trichoderma reesei RUT C-30 (GCA\_000513815)* {#about-trichoderma-reesei-rut-c-30-gca_000513815 .first}
+About *Trichoderma reesei RUT C-30 (GCA\_000513815)* 
 ----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trichoderma_reesei)
+
 
 ***Trichoderma reesei***
 

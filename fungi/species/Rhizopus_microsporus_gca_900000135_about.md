@@ -1,7 +1,7 @@
-About *Rhizopus microsporus str. ATCC62417 (GCA\_900000135)* {#about-rhizopus-microsporus-str.-atcc62417-gca_900000135 .first}
+About *Rhizopus microsporus str. ATCC62417 (GCA\_900000135)* 
 ------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Rhizopus_microsporus)
+
 
 ***Rhizopus microsporus*** is a fungal plant pathogen infecting maize,
 sunflower, and rice.

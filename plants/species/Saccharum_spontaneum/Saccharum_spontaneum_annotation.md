@@ -9,7 +9,6 @@ completeness. Out of 1,440 conserved genes, 1,397 (97.1%) were
 re-annotated in the AP85-441 genome, among which 1,101 (76.5%) were
 complete genes.
 
-\
 Repeats were annotated with the [Ensembl Genomes repeat
 feature](http://plants.ensembl.org/info/genome/annotation/repeat_features.html) pipeline.
 There are: 3,066,463 Low complexity (Dust) features, covering 85 Mb
@@ -17,4 +16,4 @@ There are: 3,066,463 Low complexity (Dust) features, covering 85 Mb
 covering 1,257 Mb (43.3% of the genome); 35,078 RepeatMasker features
 (with the RepBase library), covering 4 Mb (0.1% of the genome);
 1,145,071 Tandem repeats (TRF) features, covering 145 Mb (5.0% of the
-genome).
+genome); Repeat Detector repeats length 1.86Gb (64.3% of the genome).

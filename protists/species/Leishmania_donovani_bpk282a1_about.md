@@ -1,7 +1,7 @@
-About *Leishmania donovani BPK282A1* {#about-leishmania-donovani-bpk282a1 .first}
+About *Leishmania donovani BPK282A1* 
 ------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Leishmania_donovani)
+
 
 ***Leishmania donovani*** is a species of intracellular parasitic
 protozoan belonging to the genus *Leishmania*, a group of

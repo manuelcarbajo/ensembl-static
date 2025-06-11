@@ -1,7 +1,7 @@
-About *Malassezia globosa CBS 7966 (GCA\_000181695)* {#about-malassezia-globosa-cbs-7966-gca_000181695 .first}
+About *Malassezia globosa CBS 7966 (GCA\_000181695)* 
 ----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Malassezia)
+
 
 ***Malassezia*** (formerly known as ***Pityrosporum***) is a genus of
 fungi. ***Malassezia*** is naturally found on the skin surfaces of many

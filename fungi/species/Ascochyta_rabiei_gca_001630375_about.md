@@ -1,7 +1,7 @@
-About *Ascochyta rabiei str. ArDII (GCA\_001630375)* {#about-ascochyta-rabiei-str.-ardii-gca_001630375 .first}
+About *Ascochyta rabiei str. ArDII (GCA\_001630375)* 
 ----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Didymella_rabiei)
+
 
 ***Didymella rabiei***, commonly called **chickpea ascochyta blight
 fungus** is a fungal plant pathogen of chickpea. *Didymella rabiei* is

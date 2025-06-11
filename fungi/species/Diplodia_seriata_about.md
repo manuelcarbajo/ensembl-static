@@ -1,7 +1,7 @@
-About *Diplodia seriata* {#about-diplodia-seriata .first}
+About *Diplodia seriata* 
 ------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Diplodia_seriata)
+
 
 ***Diplodia seriata*** is an anamorphic fungus species in the genus
 *Diplodia*. It is a cause of bot canker of grapevine in

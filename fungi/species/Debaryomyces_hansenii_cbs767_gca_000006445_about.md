@@ -1,7 +1,7 @@
-About *Debaryomyces hansenii CBS767 (GCA\_000006445)* {#about-debaryomyces-hansenii-cbs767-gca_000006445 .first}
+About *Debaryomyces hansenii CBS767 (GCA\_000006445)* 
 -----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Debaryomyces_hansenii)
+
 
 ***Debaryomyces hansenii*** is a species of yeast in the family
 Saccharomycetaceae.

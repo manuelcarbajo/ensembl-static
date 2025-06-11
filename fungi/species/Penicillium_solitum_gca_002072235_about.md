@@ -1,7 +1,7 @@
-About *Penicillium solitum (GCA\_002072235)* {#about-penicillium-solitum-gca_002072235 .first}
+About *Penicillium solitum (GCA\_002072235)* 
 --------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_solitum)
+
 
 ***Penicillium solitum*** is an anamorph, mesophilic, salinity-tolerant,
 psychrotolerant species of fungus in the genus *Penicillium* which

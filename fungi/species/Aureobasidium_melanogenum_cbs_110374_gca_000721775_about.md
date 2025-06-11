@@ -1,7 +1,7 @@
-About *Aureobasidium melanogenum CBS 110374 (GCA\_000721775)* {#about-aureobasidium-melanogenum-cbs-110374-gca_000721775 .first}
+About *Aureobasidium melanogenum CBS 110374 (GCA\_000721775)* 
 -------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aureobasidium_melanogenum)
+
 
 ***Aureobasidium melanogenum***, formerly known as ***Aureobasidium
 pullulans* var. *melanogenum*** is a ubiquitous black, yeast-like fungus

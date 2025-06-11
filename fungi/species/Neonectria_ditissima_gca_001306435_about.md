@@ -1,7 +1,7 @@
-About *Neonectria ditissima str. R09/05 (GCA\_001306435)* {#about-neonectria-ditissima-str.-r0905-gca_001306435 .first}
+About *Neonectria ditissima str. R09/05 (GCA\_001306435)* 
 ---------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Neonectria_ditissima)
+
 
 ***Neonectria ditissima*** (syn. ***Neonectria galligena***) is a fungal
 plant pathogen. It causes cankers that can kill branches of trees by

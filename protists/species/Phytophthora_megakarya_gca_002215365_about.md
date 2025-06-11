@@ -1,7 +1,7 @@
 About *Phytophthora megakarya str. zdho120*
 -------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Phytophthora_megakarya)
+
 
 ***Phytophthora megakarya*** is an oomycete plant pathogen that causes
 black pod disease in cocoa trees in west and central Africa. This

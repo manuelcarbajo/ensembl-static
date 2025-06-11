@@ -1,7 +1,7 @@
-About *Plasmodium falciparum CAMP/Malaysia* {#about-plasmodium-falciparum-campmalaysia .first}
+About *Plasmodium falciparum CAMP/Malaysia* 
 -------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_falciparum)
+
 
 ***Plasmodium falciparum*** is a unicellular protozoan parasite of
 humans, and the deadliest species of *Plasmodium* that cause malaria in

@@ -1,7 +1,7 @@
-About *Anncaliia algerae PRA109* {#about-anncaliia-algerae-pra109 .first}
+About *Anncaliia algerae PRA109* 
 --------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Anncaliia_algerae)
+
 
 **Anncaliia algerae** are aquatic microsporidium that most commonly
 infects mosquitoes.

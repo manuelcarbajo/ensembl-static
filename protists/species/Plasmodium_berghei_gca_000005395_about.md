@@ -1,7 +1,7 @@
-About *Plasmodium berghei (GCA\_000005395)* {#about-plasmodium-berghei-gca_000005395 .first}
+About *Plasmodium berghei (GCA\_000005395)* 
 -------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_berghei)
+
 
 ***Plasmodium berghei*** is a protozoan parasite that causes malaria in
 certain rodents. Originally, isolated from thicket rats in Central

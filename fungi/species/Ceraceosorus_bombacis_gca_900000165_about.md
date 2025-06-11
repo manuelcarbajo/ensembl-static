@@ -1,7 +1,7 @@
-About *Ceraceosorus bombacis (GCA\_900000165)* {#about-ceraceosorus-bombacis-gca_900000165 .first}
+About *Ceraceosorus bombacis (GCA\_900000165)* 
 ----------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Ceraceosorales_)
+
 
 The **Ceraceosorales** are an order of smut fungi in the class
 Exobasidiomycetes. It is a monotypic order, consisting of a single

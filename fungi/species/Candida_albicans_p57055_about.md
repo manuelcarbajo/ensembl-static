@@ -1,7 +1,7 @@
-About *Candida albicans P57055* {#about-candida-albicans-p57055 .first}
+About *Candida albicans P57055* 
 -------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Candida_albicans)
+
 
 ***Candida albicans*** is a dimorphic fungus that grows both as yeast
 and filamentous cells and one of the few species of the *Candida* genus

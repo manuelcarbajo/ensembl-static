@@ -1,4 +1,4 @@
-*AmelC2.6* gene set
+*AmelC2.7* gene set
 -------------------
 
-Community annotation patch build for October 2018.
+Community annotation patch build for July 2019.

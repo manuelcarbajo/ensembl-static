@@ -1,7 +1,7 @@
-About *Microdochium bolleyi* {#about-microdochium-bolleyi .first}
+About *Microdochium bolleyi* 
 ----------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Microdochium_bolleyi)
+
 
 ***Microdochium bolleyi*** is a fungal plant pathogen that causes root
 rot in flax and wheat.

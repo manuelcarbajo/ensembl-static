@@ -1,4 +1,4 @@
-About *Puccinia triticina* {#about-puccinia-triticina .first}
+About *Puccinia triticina* 
 --------------------------
 
 *Puccinia triticina* causes \'wheat leaf rust\', a fungal disease that

@@ -1,7 +1,7 @@
-About *Trypanosoma cruzi* {#about-trypanosoma-cruzi .first}
+About *Trypanosoma cruzi* 
 -------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trypanosoma_cruzi)
+
 
 ***Trypanosoma cruzi*** is a species of parasitic euglenoid protozoan.
 Amongst the protozoa, the trypanosomes characteristically bore tissue in

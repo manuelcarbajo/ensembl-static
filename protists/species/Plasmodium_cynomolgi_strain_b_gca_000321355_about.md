@@ -1,7 +1,7 @@
-About *Plasmodium cynomolgi strain B* {#about-plasmodium-cynomolgi-strain-b .first}
+About *Plasmodium cynomolgi strain B* 
 -------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_cynomolgi)
+
 
 ***Plasmodium cynomolgi*** is an apicomplexan parasite that infects
 mosquitoes and Asian Old World monkeys. This species has been used as a

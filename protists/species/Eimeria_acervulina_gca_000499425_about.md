@@ -1,7 +1,7 @@
-About *Eimeria acervulina* {#about-eimeria-acervulina .first}
+About *Eimeria acervulina* 
 --------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Eimeria_acervulina)
+
 
 ***Eimeria acervulina*** is a species of *Eimeria* that causes
 coccidiosis in poultry worldwide. Diagnosis is made by necropsy based on

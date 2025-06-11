@@ -1,7 +1,7 @@
-About *Toxoplasma gondii VAND* {#about-toxoplasma-gondii-vand .first}
+About *Toxoplasma gondii VAND* 
 ------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Toxoplasma_gondii)
+
 
 ***Toxoplasma gondii*** () is an
 

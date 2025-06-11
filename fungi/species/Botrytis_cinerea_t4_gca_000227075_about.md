@@ -1,7 +1,7 @@
-About *Botrytis cinerea T4 (GCA\_000227075)* {#about-botrytis-cinerea-t4-gca_000227075 .first}
+About *Botrytis cinerea T4 (GCA\_000227075)* 
 --------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Botrytis_cinerea)
+
 
 ***Botrytis cinerea*** (\"botrytis\" from Ancient Greek *botrys*
 (βότρυς) meaning \"grapes\" plus the New Latin suffix *-itis* for

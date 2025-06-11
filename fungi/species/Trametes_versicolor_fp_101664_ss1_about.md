@@ -1,7 +1,7 @@
-About *Trametes versicolor FP-101664 SS1* {#about-trametes-versicolor-fp-101664-ss1 .first}
+About *Trametes versicolor FP-101664 SS1* 
 -----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trametes_versicolor)
+
 
 ***Trametes versicolor*** -- also known as *Coriolus versicolor* and
 *Polyporus versicolor* -- is a common polypore mushroom found throughout

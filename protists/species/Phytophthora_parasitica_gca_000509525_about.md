@@ -1,7 +1,7 @@
-About *Phytophthora parasitica (GCA\_000509525)* {#about-phytophthora-parasitica-gca_000509525 .first}
+About *Phytophthora parasitica (GCA\_000509525)* 
 ------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Phytophthora_parasitica)
+
 
 1.  REDIRECT Phytophthora nicotianae
 

@@ -1,7 +1,7 @@
-About *Colletotrichum sublineola str. TX430BB (GCA\_000696135)* {#about-colletotrichum-sublineola-str.-tx430bb-gca_000696135 .first}
+About *Colletotrichum sublineola str. TX430BB (GCA\_000696135)* 
 ---------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Colletotrichum_sublineolum)
+
 
 ***Colletotrichum sublineolum*** is a plant pathogen that causes
 anthracnose in wild rice and sorghum.

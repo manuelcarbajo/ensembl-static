@@ -66,4 +66,4 @@ North, 9.828 East, Campo, 2010), mosquitoes were donated by Carlo
 Costantini. The colony was not subject to isofemale selection.
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-melas)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000473525.2)

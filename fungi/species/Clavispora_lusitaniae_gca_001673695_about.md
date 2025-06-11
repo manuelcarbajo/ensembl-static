@@ -1,7 +1,7 @@
-About *Clavispora lusitaniae str. CBS 6936 (GCA\_001673695)* {#about-clavispora-lusitaniae-str.-cbs-6936-gca_001673695 .first}
+About *Clavispora lusitaniae str. CBS 6936 (GCA\_001673695)* 
 ------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Candida_lusitaniae_)
+
 
 ***Candida lusitaniae*** is a species of yeast in the genus *Candida*.
 

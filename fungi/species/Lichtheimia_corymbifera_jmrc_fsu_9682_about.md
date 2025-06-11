@@ -1,7 +1,7 @@
-About *Lichtheimia corymbifera JMRC:FSU:9682* {#about-lichtheimia-corymbifera-jmrcfsu9682 .first}
+About *Lichtheimia corymbifera JMRC:FSU:9682* 
 ---------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Lichtheimia_corymbifera)
+
 
 ***Lichtheimia corymbifera*** is a saprotrophic fungi in the phylum
 Zygomycota. *Lichtheimia corymbifera* is known to cause pulmonary, CNS,

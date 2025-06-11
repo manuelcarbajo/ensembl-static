@@ -1,7 +1,7 @@
-About *Fusarium mangiferae (GCA\_900044065)* {#about-fusarium-mangiferae-gca_900044065 .first}
+About *Fusarium mangiferae (GCA\_900044065)* 
 --------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Fusarium_mangiferae)
+
 
 ***Fusarium mangiferae*** is a fungal plant pathogen that infects mango
 trees. Its aerial mycelium is white and floccose. Conidiophores on

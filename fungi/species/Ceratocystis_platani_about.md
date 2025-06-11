@@ -1,7 +1,7 @@
-About *Ceratocystis platani* {#about-ceratocystis-platani .first}
+About *Ceratocystis platani* 
 ----------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Ceratocystis_platani)
+
 
 ***Ceratocystis platani*** is a fungus that causes a disease on plane
 trees in the genus *Platanus*.

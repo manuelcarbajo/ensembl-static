@@ -14,4 +14,4 @@ library](http://www.girinst.org/repbase/)), covering 0 Mb (0.3% of the
 genome); 1,654 RepeatMasker features (annotated with the [PGSB-REdat
 library](http://pgsb.helmholtz-muenchen.de/plant/recat/)), covering 0 Mb
 (1.5% of the genome); 1,406 Tandem repeats (TRF) features, covering 0 Mb
-(1.0% of the genome).
+(1.0% of the genome); Repeat Detector repeats length 2.3Mb (17.1% of the genome).

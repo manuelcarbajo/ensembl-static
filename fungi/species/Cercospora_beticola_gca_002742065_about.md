@@ -1,7 +1,7 @@
-About *Cercospora beticola (GCA\_002742065)* {#about-cercospora-beticola-gca_002742065 .first}
+About *Cercospora beticola (GCA\_002742065)* 
 --------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Cercospora_beticola)
+
 
 ***Cercospora beticola*** is a fungal plant pathogen which typically
 infects plants of the genus Beta, within the family of Chenopodiaceae.

@@ -1,7 +1,7 @@
-About *Aphanomyces astaci* {#about-aphanomyces-astaci .first}
+About *Aphanomyces astaci* 
 --------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aphanomyces_astaci)
+
 
 1.  REDIRECT Crayfish plague
 

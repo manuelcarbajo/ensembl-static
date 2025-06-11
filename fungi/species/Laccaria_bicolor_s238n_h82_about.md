@@ -1,7 +1,7 @@
-About *Laccaria bicolor S238N-H82* {#about-laccaria-bicolor-s238n-h82 .first}
+About *Laccaria bicolor S238N-H82* 
 ----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Laccaria_bicolor)
+
 
 ***Laccaria bicolor*** is a small tan-colored mushroom with lilac gills.
 It is edible, but not palatable, and grows in mixed birch and pine

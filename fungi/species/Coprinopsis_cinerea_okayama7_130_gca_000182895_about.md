@@ -1,7 +1,7 @@
-About *Coprinopsis cinerea okayama7\#130 (GCA\_000182895)* {#about-coprinopsis-cinerea-okayama7130-gca_000182895 .first}
+About *Coprinopsis cinerea okayama7\#130 (GCA\_000182895)* 
 ----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Coprinopsis_cinerea)
+
 
 ***Coprinopsis cinerea*** is a species of mushroom in the family
 Psathyrellaceae. Commonly known as the **gray shag**, it is edible, but

@@ -1,7 +1,7 @@
-About *Colletotrichum gloeosporioides Cg-14 (GCA\_000446055)* {#about-colletotrichum-gloeosporioides-cg-14-gca_000446055 .first}
+About *Colletotrichum gloeosporioides Cg-14 (GCA\_000446055)* 
 -------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Glomerella_cingulata)
+
 
 ***Glomerella cingulata*** is the sexual stage (teleomorph) while the
 more commonly referred to asexual stage (anamorph) is called

@@ -1,7 +1,7 @@
-About *Penicillium brasilianum* {#about-penicillium-brasilianum .first}
+About *Penicillium brasilianum* 
 -------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_brasilianum)
+
 
 ***Penicillium brasilianum*** is a fungus species of the genus of
 *Penicillium*.UniProt *Penicillium brasilianum* produces the compounds

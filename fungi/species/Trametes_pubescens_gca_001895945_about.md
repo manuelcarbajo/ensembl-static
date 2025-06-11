@@ -1,7 +1,7 @@
-About *Trametes pubescens str. FBCC735 (GCA\_001895945)* {#about-trametes-pubescens-str.-fbcc735-gca_001895945 .first}
+About *Trametes pubescens str. FBCC735 (GCA\_001895945)* 
 --------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trametes_pubescens)
+
 
 ***Trametes pubescens*** is a small, thin polypore, or bracket fungus.
 It has a cream-colored, finely velvety cap surface. Unlike most other

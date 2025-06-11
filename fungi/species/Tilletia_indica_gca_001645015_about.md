@@ -1,7 +1,7 @@
-About *Tilletia indica str. DAOM 236416 (GCA\_001645015)* {#about-tilletia-indica-str.-daom-236416-gca_001645015 .first}
+About *Tilletia indica str. DAOM 236416 (GCA\_001645015)* 
 ---------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Karnal_bunt)
+
 
 **Karnal bunt** (also known as **partial bunt**) is a fungal disease of
 wheat, durum wheat, and triticale. The smut fungus ***Tilletia

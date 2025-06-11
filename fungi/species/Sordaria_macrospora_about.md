@@ -1,7 +1,7 @@
-About *Sordaria macrospora* {#about-sordaria-macrospora .first}
+About *Sordaria macrospora* 
 ---------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Sordaria_macrospora)
+
 
 ***Sordaria macrospora*** is a species of microscopic fungus. It is one
 of several fungal model organisms in biology, e.g. the model of fruiting

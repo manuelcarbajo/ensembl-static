@@ -1,6 +1,8 @@
+
 Annotation
 ----------
 
 The canonical gene set for *C. elegans* is actively curated by WormBase.
 The annotation represented corresponds with WormBase
-[WS260](ftp://ftp.wormbase.org/pub/wormbase/releases/WS260).
+[WS279](https://downloads.wormbase.org/releases/WS279/species/c_elegans/PRJNA13758/).
+

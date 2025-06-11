@@ -1,7 +1,7 @@
-About *Trypanosoma rangeli* {#about-trypanosoma-rangeli .first}
+About *Trypanosoma rangeli* 
 ---------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trypanosoma_rangeli)
+
 
 ***Trypanosoma rangeli*** is a species of hemoflagellate excavate
 parasites of the genus Trypanosoma. Although infecting a variety of

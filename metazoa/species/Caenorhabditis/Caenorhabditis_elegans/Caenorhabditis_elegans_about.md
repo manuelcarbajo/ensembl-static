@@ -1,10 +1,11 @@
+
 **NOTE:** The genome sequence and annotation for *C. elegans* are
-updated in Ensembl Metazoa approximately once per year. The data here
+updated in Ensembl infrequently. The data here
 corresponds with WormBase
-[WS269](ftp://ftp.wormbase.org/pub/wormbase/releases/WS269). For the
+[WS282](https://downloads.wormbase.org/releases/WS282/species/c_elegans/PRJNA13758/). For the
 latest genome and annotation, please visit [WormBase
-ParaSite](http://parasite.wormbase.org) (for an Ensembl-oriented view),
-or [WormBase](http://www.wormbase.org).
+ParaSite](https://parasite.wormbase.org/Caenorhabditis_elegans_prjna13758) (for an Ensembl-oriented view),
+or [WormBase](https://wormbase.org/species/c_elegans).
 
 About *Caenorhabditis elegans*
 ------------------------------
@@ -20,7 +21,7 @@ application of genomic data to functional biology in animals.
 
 *C. elegans* is a small, free-living nematode found in decaying plant
 material, especially compost and mushroom beds in temperate regions
-throughout the world. It feeds on the bacteria and other micro-organisms
+throughout the world. It feeds on the bacteria and other microorganisms
 associated with plant decay, and is frequently found associated with
 snails, slugs, millipedes, mites and pill bugs, which are presumed to
 transport worms from one location to another. The animal has a short
@@ -29,8 +30,11 @@ generation time, developing through four larval stages into an adult.
 characterised nematodes which have both male and female adult animals.
 
 -   [*C. elegans* data at
-    WormBase](http://www.wormbase.org/species/c_elegans)
+    WormBase](http://www.wormbase.org/species/c_elegans).
 -   [*C. elegans* data at WormBase
-    ParaSite](http://parasite.wormbase.org/Caenorhabditis_elegans/Info/Index)
+    ParaSite](https://parasite.wormbase.org/Caenorhabditis_elegans_prjna13758).
 -   [Roundworm Genome Sequencing white
-    paper](http://www.genome.gov/11007952)
+    paper](https://www.genome.gov/11007952/roundworm-genome-sequencing).
+
+Picture credit:
+[Bob Goldstein](http://bio.unc.edu/people/faculty/goldstein/), UNC Chapel Hill [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by-sa/3.0) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:CelegansGoldsteinLabUNC.jpg)

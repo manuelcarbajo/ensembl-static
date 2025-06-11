@@ -1,7 +1,7 @@
-About *Plasmodium chabaudi chabaudi* {#about-plasmodium-chabaudi-chabaudi .first}
+About *Plasmodium chabaudi chabaudi* 
 ------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_chabaudi)
+
 
 ***Plasmodium chabaudi*** is a parasite of the genus *Plasmodium*
 subgenus *Vinckeia*. As in all *Plasmodium* species, *P. chabaudi* has

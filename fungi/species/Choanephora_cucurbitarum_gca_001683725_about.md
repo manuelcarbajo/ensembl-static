@@ -1,7 +1,7 @@
-About *Choanephora cucurbitarum str. KUS-F28377 (GCA\_001683725)* {#about-choanephora-cucurbitarum-str.-kus-f28377-gca_001683725 .first}
+About *Choanephora cucurbitarum str. KUS-F28377 (GCA\_001683725)* 
 -----------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Choanephora_cucurbitarum)
+
 
 The fungus ***Choanephora cucurbitarum*** is a plant pathogen that
 causes fruit and blossom rot of various cucurbits. It can also affect

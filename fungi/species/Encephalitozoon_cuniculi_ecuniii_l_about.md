@@ -1,7 +1,7 @@
-About *Encephalitozoon cuniculi EcunIII-L* {#about-encephalitozoon-cuniculi-ecuniii-l .first}
+About *Encephalitozoon cuniculi EcunIII-L* 
 ------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Encephalitozoon_cuniculi)
+
 
 ***Encephalitozoon cuniculi*** is a eukaryotic organism belonging to the
 phylum Microsporidia, in the kingdom Fungi. An obligate intracellular

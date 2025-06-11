@@ -1,7 +1,7 @@
-About *Batrachochytrium salamandrivorans str. BS (GCA\_002006685)* {#about-batrachochytrium-salamandrivorans-str.-bs-gca_002006685 .first}
+About *Batrachochytrium salamandrivorans str. BS (GCA\_002006685)* 
 ------------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Batrachochytrium_salamandrivorans)
+
 
 ***Batrachochytrium salamandrivorans*** (*Bsal*) is a pathogenic chytrid
 fungus that infects salamanders and newts and emerged only recently as a

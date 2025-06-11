@@ -1,7 +1,7 @@
-About *Candida parapsilosis CDC317* {#about-candida-parapsilosis-cdc317 .first}
+About *Candida parapsilosis CDC317* 
 -----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Candida_parapsilosis)
+
 
 ***Candida parapsilosis*** is a fungal species of the yeast family that
 has become a significant cause of sepsis and of wound and tissue

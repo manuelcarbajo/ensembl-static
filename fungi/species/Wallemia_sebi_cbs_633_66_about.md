@@ -1,7 +1,7 @@
-About *Wallemia sebi CBS 633.66* {#about-wallemia-sebi-cbs-633.66 .first}
+About *Wallemia sebi CBS 633.66* 
 --------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Wallemia_sebi)
+
 
 ***Wallemia sebi*** is a brown mold or hyphomycete commonly found in
 indoor air dust, soil and dried and salty foods (bread, cakes, sugar,

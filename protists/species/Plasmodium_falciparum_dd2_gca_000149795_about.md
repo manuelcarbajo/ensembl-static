@@ -1,7 +1,7 @@
-About *Plasmodium falciparum Dd2* {#about-plasmodium-falciparum-dd2 .first}
+About *Plasmodium falciparum Dd2* 
 ---------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_falciparum)
+
 
 ***Plasmodium falciparum*** is a unicellular protozoan parasite of
 humans, and the deadliest species of *Plasmodium* that cause malaria in

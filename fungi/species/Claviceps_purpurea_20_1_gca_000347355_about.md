@@ -1,7 +1,7 @@
-About *Claviceps purpurea 20.1 (GCA\_000347355)* {#about-claviceps-purpurea-20.1-gca_000347355 .first}
+About *Claviceps purpurea 20.1 (GCA\_000347355)* 
 ------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Claviceps_purpurea)
+
 
 ***Claviceps purpurea*** is an ergot fungus that grows on the ears of
 rye and related cereal and forage plants. Consumption of grains or seeds

@@ -1,7 +1,7 @@
-About *Trichophyton rubrum MR1448 (GCA\_000616905)* {#about-trichophyton-rubrum-mr1448-gca_000616905 .first}
+About *Trichophyton rubrum MR1448 (GCA\_000616905)* 
 ---------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trichophyton_rubrum)
+
 
 ***Trichophyton rubrum*** is a dermatophytic fungus in the phylum
 Ascomycota, class Euascomycetes. It is an exclusively clonal,

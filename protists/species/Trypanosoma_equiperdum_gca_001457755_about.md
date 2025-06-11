@@ -1,7 +1,7 @@
-About *Trypanosoma equiperdum* {#about-trypanosoma-equiperdum .first}
+About *Trypanosoma equiperdum* 
 ------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trypanosoma_equiperdum)
+
 
 ***Τrypanosoma equiperdum*** is a species of kinetoplastid parasites
 that causes Dourine or covering sickness in horses and other animals in

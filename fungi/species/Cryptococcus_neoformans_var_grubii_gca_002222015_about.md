@@ -1,7 +1,7 @@
-About *Cryptococcus neoformans var. grubii str. RCT54 (GCA\_002222015)* {#about-cryptococcus-neoformans-var.-grubii-str.-rct54-gca_002222015 .first}
+About *Cryptococcus neoformans var. grubii str. RCT54 (GCA\_002222015)* 
 -----------------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Cryptococcus_neoformans)
+
 
 ***Cryptococcus neoformans*** is an encapsulated yeast and an obligate
 aerobe that can live in both plants and animals. Its teleomorph is

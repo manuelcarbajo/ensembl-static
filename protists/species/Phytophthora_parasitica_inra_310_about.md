@@ -1,7 +1,7 @@
-About *Phytophthora parasitica INRA-310* {#about-phytophthora-parasitica-inra-310 .first}
+About *Phytophthora parasitica INRA-310* 
 ----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Phytophthora_parasitica)
+
 
 1.  REDIRECT Phytophthora nicotianae
 

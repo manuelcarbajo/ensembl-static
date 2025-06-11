@@ -1,7 +1,7 @@
-About *Leishmania infantum JPCM5* {#about-leishmania-infantum-jpcm5 .first}
+About *Leishmania infantum JPCM5* 
 ---------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Leishmania_infantum)
+
 
 thumb\|left\|Cutaneous leishmaniasis in North Africa; *Leishmania
 infantum* infected areas are in green

@@ -1,7 +1,7 @@
-About *Puccinia coronata var. avenae f. sp. avenae (GCA\_002873275)* {#about-puccinia-coronata-var.-avenae-f.-sp.-avenae-gca_002873275 .first}
+About *Puccinia coronata var. avenae f. sp. avenae (GCA\_002873275)* 
 --------------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Puccinia_coronata)
+
 
 ***Puccinia coronata*** is a plant pathogen and causal agent of oat and
 barley crown rust. The pathogen occurs worldwide, infecting both wild

@@ -1,7 +1,7 @@
-About *Histoplasma capsulatum G186AR (GCA\_000150115)* {#about-histoplasma-capsulatum-g186ar-gca_000150115 .first}
+About *Histoplasma capsulatum G186AR (GCA\_000150115)* 
 ------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Histoplasma_capsulatum)
+
 
 ***Histoplasma capsulatum*** is a species of dimorphic fungi.
 

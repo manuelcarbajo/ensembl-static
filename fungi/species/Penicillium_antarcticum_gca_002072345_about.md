@@ -1,7 +1,7 @@
-About *Penicillium antarcticum (GCA\_002072345)* {#about-penicillium-antarcticum-gca_002072345 .first}
+About *Penicillium antarcticum (GCA\_002072345)* 
 ------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_antarcticum)
+
 
 ***Penicillium antarcticum*** is an ubiquitous, endophytic fungus
 species of the genus *Penicillium*. *Penicillium antarcticum* produces

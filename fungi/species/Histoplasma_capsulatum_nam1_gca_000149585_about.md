@@ -1,7 +1,7 @@
-About *Histoplasma capsulatum NAm1 (GCA\_000149585)* {#about-histoplasma-capsulatum-nam1-gca_000149585 .first}
+About *Histoplasma capsulatum NAm1 (GCA\_000149585)* 
 ----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Histoplasma_capsulatum)
+
 
 ***Histoplasma capsulatum*** is a species of dimorphic fungi.
 

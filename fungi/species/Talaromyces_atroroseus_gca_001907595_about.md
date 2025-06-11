@@ -1,7 +1,7 @@
-About *Talaromyces atroroseus str. IBT 11181 (GCA\_001907595)* {#about-talaromyces-atroroseus-str.-ibt-11181-gca_001907595 .first}
+About *Talaromyces atroroseus str. IBT 11181 (GCA\_001907595)* 
 --------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Talaromyces_atroroseus)
+
 
 ***Talaromyces atroroseus*** is a species of fungus described as new to
 science in 2013. Found in soil and fruit, it was first identified from

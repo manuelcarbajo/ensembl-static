@@ -12,4 +12,5 @@ are: 703004 Low complexity (Dust) features, covering 18 Mb (3.0% of the
 genome); 279122 RepeatMasker features (with the REdat library), covering
 102 Mb (16.9% of the genome); 5846 RepeatMasker features (with the
 RepBase library), covering 1 Mb (0.1% of the genome); 242601 Tandem
-repeats (TRF) features, covering 26 Mb (4.3% of the genome).
+repeats (TRF) features, covering 26 Mb (4.3% of the genome);
+Repeat Detector repeats length 224Mb (37.2% of the genome).

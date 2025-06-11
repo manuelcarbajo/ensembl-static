@@ -1,0 +1,4 @@
+About *Vigna unguiculata*
+---------------------
+Cowpea (*Vigna unguiculata* [L.] Walp.) is one of the most important food and nutritional security crops, providing the main source of protein to millions of people in developing countries. In sub‐Saharan Africa, smallholder farmers are the major producers and consumers of cowpea, which is grown for its grains, tender leaves and pods as food for human consumption, with the crop residues being used for fodder or added back to the soil to improve fertility. Cowpea was domesticated in Africa, from where it spread into all continents and now is commonly grown in many parts of Asia, Europe, USA, and Central and South America. One of the strengths of cowpea is its high resilience to harsh conditions, including hot and dry environments, and poor soils.
+

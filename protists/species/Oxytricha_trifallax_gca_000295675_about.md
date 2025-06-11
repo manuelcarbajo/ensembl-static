@@ -1,7 +1,7 @@
-About *Oxytricha trifallax (GCA\_000295675)* {#about-oxytricha-trifallax-gca_000295675 .first}
+About *Oxytricha trifallax (GCA\_000295675)* 
 --------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Oxytricha_trifallax)
+
 
 ***Oxytricha trifallax*** is a ciliate protozoan species in the genus
 *Oxytricha*. *O. trifallax* is notable for its ability to split its

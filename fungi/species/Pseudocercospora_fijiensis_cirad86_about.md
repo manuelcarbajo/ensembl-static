@@ -1,7 +1,7 @@
-About *Pseudocercospora fijiensis CIRAD86* {#about-pseudocercospora-fijiensis-cirad86 .first}
+About *Pseudocercospora fijiensis CIRAD86* 
 ------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Black_sigatoka)
+
 
 **Black sigatoka** is a leaf-spot disease of banana plants caused by the
 ascomycete fungus *Mycosphaerella fijiensis* (Morelet). Also known as

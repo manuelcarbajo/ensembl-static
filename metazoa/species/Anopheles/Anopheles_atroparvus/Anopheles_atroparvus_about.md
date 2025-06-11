@@ -55,4 +55,4 @@ to genome sequencing. For more details [click
 here](https://www.beiresources.org/Catalog/BEIVectors/MRA-493.aspx).
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-atroparvus)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000473505.1)

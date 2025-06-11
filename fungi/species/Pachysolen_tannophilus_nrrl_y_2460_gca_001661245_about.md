@@ -1,7 +1,7 @@
-About *Pachysolen tannophilus NRRL Y-2460 (GCA\_001661245)* {#about-pachysolen-tannophilus-nrrl-y-2460-gca_001661245 .first}
+About *Pachysolen tannophilus NRRL Y-2460 (GCA\_001661245)* 
 -----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Pachysolen_tannophilus)
+
 
 ***Pachysolen*** is a genus of yeast discovered from sulfite liquor by
 Boidin and Adzet (1957) and isolated by Wickerham (1970).

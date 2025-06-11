@@ -1,7 +1,7 @@
-About *Entamoeba histolytica KU27* {#about-entamoeba-histolytica-ku27 .first}
+About *Entamoeba histolytica KU27* 
 ----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Entamoeba_histolytica)
+
 
 ***Entamoeba histolytica*** is an anaerobic parasitic amoebozoan, part
 of the genus *Entamoeba*. Predominantly infecting humans and other

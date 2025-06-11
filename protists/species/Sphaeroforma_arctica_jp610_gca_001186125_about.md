@@ -1,7 +1,7 @@
-About *Sphaeroforma arctica JP610* {#about-sphaeroforma-arctica-jp610 .first}
+About *Sphaeroforma arctica JP610* 
 ----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Sphaeroforma_arctica)
+
 
 ***Sphaeroforma arctica***, is a unicellular eukaryote with a pivotal
 position in the tree of life. It was first isolated from the arctic

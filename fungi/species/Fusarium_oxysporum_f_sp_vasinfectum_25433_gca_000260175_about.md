@@ -1,7 +1,7 @@
-About *Fusarium oxysporum f. sp. vasinfectum 25433 str. 25433 (Cotton) (GCA\_000260175)* {#about-fusarium-oxysporum-f.-sp.-vasinfectum-25433-str.-25433-cotton-gca_000260175 .first}
+About *Fusarium oxysporum f. sp. vasinfectum 25433 str. 25433 (Cotton) (GCA\_000260175)* 
 ----------------------------------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Fusarium_oxysporum)
+
 
 ***Fusarium oxysporum*** (Schlecht as emended by Snyder and Hansen), an
 ascomycete fungus, comprises all the species, varieties and forms

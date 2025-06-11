@@ -1,7 +1,7 @@
-About *Aspergillus parasiticus SU-1* {#about-aspergillus-parasiticus-su-1 .first}
+About *Aspergillus parasiticus SU-1* 
 ------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_parasiticus)
+
 
 ***Aspergillus parasiticus*** is a mold known to produce aflatoxins (a
 potent liver carcinogen), although strains of it that do not produce

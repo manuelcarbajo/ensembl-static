@@ -1,7 +1,7 @@
-About *Saccharomyces cerevisiae RM11-1a* {#about-saccharomyces-cerevisiae-rm11-1a .first}
+About *Saccharomyces cerevisiae RM11-1a* 
 ----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)
+
 
 ***Saccharomyces cerevisiae*** is a species of yeast. It has been
 instrumental to winemaking, baking, and brewing since ancient times. It

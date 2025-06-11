@@ -1,7 +1,7 @@
-About *Leishmania infantum* {#about-leishmania-infantum .first}
+About *Leishmania infantum* 
 ---------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Leishmania_infantum)
+
 
 ***Leishmania infantum*** is the causative agent of infantile visceral
 leishmaniasis in the Mediterranean region and in Latin America, where it

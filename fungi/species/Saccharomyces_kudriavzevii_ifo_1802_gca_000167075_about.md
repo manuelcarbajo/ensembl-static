@@ -1,7 +1,7 @@
-About *Saccharomyces kudriavzevii IFO 1802 (GCA\_000167075)* {#about-saccharomyces-kudriavzevii-ifo-1802-gca_000167075 .first}
+About *Saccharomyces kudriavzevii IFO 1802 (GCA\_000167075)* 
 ------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Saccharomyces_kudriavzevii)
+
 
 ***Saccharomyces kudriavzevii***, is a species of yeast in the
 *Saccharomyces sensu stricto* complex. Its type strain is NCYC 2889T. It

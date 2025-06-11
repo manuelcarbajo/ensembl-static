@@ -1,7 +1,7 @@
-About *Penicillium expansum str. MD-8 (GCA\_000769745)* {#about-penicillium-expansum-str.-md-8-gca_000769745 .first}
+About *Penicillium expansum str. MD-8 (GCA\_000769745)* 
 -------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_expansum)
+
 
 ***Penicillium expansum*** is a psychrophilic blue mold that is common
 throughout the world in soil. It causes Blue Mold of apples, one of the

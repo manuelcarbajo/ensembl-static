@@ -1,7 +1,7 @@
-About *Nosema apis BRL 01* {#about-nosema-apis-brl-01 .first}
+About *Nosema apis BRL 01* 
 --------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Nosema_apis)
+
 
 ***Nosema apis*** is a microsporidian, a small, unicellular parasite
 recently reclassified as a fungus that mainly affects honey bees. It

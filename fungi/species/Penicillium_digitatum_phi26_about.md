@@ -1,7 +1,7 @@
-About *Penicillium digitatum PHI26* {#about-penicillium-digitatum-phi26 .first}
+About *Penicillium digitatum PHI26* 
 -----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_digitatum)
+
 
 ***Penicillium digitatum*** (/ˌpɛnɪˈsɪlɪəm/digitatum/) is a mesophilic
 fungus found in the soil of citrus-producing areas. It is a major source

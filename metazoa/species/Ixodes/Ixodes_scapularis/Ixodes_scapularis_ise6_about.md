@@ -25,7 +25,7 @@ phenotype", Oliver et al, Exp Appl Acarol. 2015 Jul; 66(3): 427--442.
 doi: 10.1007/s10493-015-9908-1).
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/ixodes-scapularis)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_002892825.2)
 
 Picture credit (public domain): [Scott
 Bauer](http://commons.wikimedia.org/wiki/File:Adult_deer_tick.jpg)

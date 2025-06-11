@@ -1,7 +1,7 @@
-About *Penicillium roqueforti FM164 (GCA\_000513255)* {#about-penicillium-roqueforti-fm164-gca_000513255 .first}
+About *Penicillium roqueforti FM164 (GCA\_000513255)* 
 -----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_roqueforti)
+
 
 ***Penicillium roqueforti*** is a common saprotrophic fungus in the
 genus *Penicillium*. Widespread in nature, it can be isolated from soil,

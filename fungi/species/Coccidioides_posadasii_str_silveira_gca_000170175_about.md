@@ -1,7 +1,7 @@
-About *Coccidioides posadasii str. Silveira (GCA\_000170175)* {#about-coccidioides-posadasii-str.-silveira-gca_000170175 .first}
+About *Coccidioides posadasii str. Silveira (GCA\_000170175)* 
 -------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Coccidioides_posadasii)
+
 
 ***Coccidioides posadasii*** is a pathogenic fungus that, along with
 *Coccidioides immitis*, is the causative agent of coccidioidomycosis, or

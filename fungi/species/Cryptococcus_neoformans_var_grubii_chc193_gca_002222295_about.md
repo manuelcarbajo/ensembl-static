@@ -1,7 +1,7 @@
-About *Cryptococcus neoformans var. grubii CHC193 (GCA\_002222295)* {#about-cryptococcus-neoformans-var.-grubii-chc193-gca_002222295 .first}
+About *Cryptococcus neoformans var. grubii CHC193 (GCA\_002222295)* 
 -------------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Cryptococcus_neoformans)
+
 
 ***Cryptococcus neoformans*** is an encapsulated yeast and an obligate
 aerobe that can live in both plants and animals. Its teleomorph is

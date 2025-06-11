@@ -1,6 +1,6 @@
 ### Variation
 
-Five sources of barley variation data are shown:
+The following variation datasets were remapped from assembly IBSC_v2 to MorexV3:
 
 1.  [Variation data from WGS survey sequencing of four
     cultivars](http://europepmc.org/abstract/MED/23075845), Barke,

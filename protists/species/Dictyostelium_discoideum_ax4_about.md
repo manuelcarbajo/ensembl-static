@@ -1,7 +1,7 @@
-About *Dictyostelium discoideum AX4* {#about-dictyostelium-discoideum-ax4 .first}
+About *Dictyostelium discoideum AX4* 
 ------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Dictyostelium_discoideum)
+
 
 ***Dictyostelium discoideum*** is a species of soil-living amoeba
 belonging to the phylum Mycetozoa. Commonly referred to as slime mold,

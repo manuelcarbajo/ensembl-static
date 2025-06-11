@@ -1,7 +1,7 @@
-About *Arthrobotrys oligospora ATCC 24927 (GCA\_000225545)* {#about-arthrobotrys-oligospora-atcc-24927-gca_000225545 .first}
+About *Arthrobotrys oligospora ATCC 24927 (GCA\_000225545)* 
 -----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Arthrobotrys_oligospora)
+
 
 ***Arthrobotrys oligospora*** was discovered in Europe in 1850 by Georg
 Fresenius. \'A. oligospora\' is the model organism for interactions

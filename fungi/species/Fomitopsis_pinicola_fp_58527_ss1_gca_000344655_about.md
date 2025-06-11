@@ -1,7 +1,7 @@
-About *Fomitopsis pinicola FP-58527 SS1 (GCA\_000344655)* {#about-fomitopsis-pinicola-fp-58527-ss1-gca_000344655 .first}
+About *Fomitopsis pinicola FP-58527 SS1 (GCA\_000344655)* 
 ---------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Fomitopsis_pinicola)
+
 
 ***Fomitopsis pinicola***, is a stem decay fungus. Its conk (fruit body)
 is known as the **red belt conk**. The species is common throughout the

@@ -1,7 +1,7 @@
-About *Aspergillus tubingensis CBS 134.48 (GCA\_001890745)* {#about-aspergillus-tubingensis-cbs-134.48-gca_001890745 .first}
+About *Aspergillus tubingensis CBS 134.48 (GCA\_001890745)* 
 -----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_tubingensis)
+
 
 ***Aspergillus tubingensis*** is a darkly pigmented species of fungus in
 the genus *Aspergillus* section Nigri. It is often confused with

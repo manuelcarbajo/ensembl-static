@@ -107,7 +107,7 @@ diagnostic of the *A. gambiae M* and *S* molecular forms. The last known
 isolate of the *A. gambiae PEST* colony was lost in about 2005.
 
 Source:
-[VectorBase](http://https://www.vectorbase.org/organisms/anopheles-gambiae)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000005575.2)
 
 Picture credit (public domain): [James
 Gathany](http://phil.cdc.gov/phil/details_linked.asp?pid=1354) (CDC)

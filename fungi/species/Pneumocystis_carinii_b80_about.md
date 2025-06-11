@@ -1,7 +1,7 @@
-About *Pneumocystis carinii B80* {#about-pneumocystis-carinii-b80 .first}
+About *Pneumocystis carinii B80* 
 --------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Pneumocystis_jirovecii_)
+
 
 ***Pneumocystis jirovecii*** is a yeast-like fungus of the genus
 *Pneumocystis*. The causative organism of *Pneumocystis* pneumonia, it

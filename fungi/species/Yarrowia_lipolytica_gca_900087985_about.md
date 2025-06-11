@@ -1,7 +1,7 @@
-About *Yarrowia lipolytica (GCA\_900087985)* {#about-yarrowia-lipolytica-gca_900087985 .first}
+About *Yarrowia lipolytica (GCA\_900087985)* 
 --------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Yarrowia)
+
 
 ***Yarrowia*** is a fungal genus in the family Dipodascaceae. For a
 while the genus was monotypic, containing the single species *Yarrowia

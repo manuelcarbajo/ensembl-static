@@ -1,7 +1,7 @@
-About *Giardia intestinalis (GCA\_000498715)* {#about-giardia-intestinalis-gca_000498715 .first}
+About *Giardia intestinalis (GCA\_000498715)* 
 ---------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Giardia_intestinalis)
+
 
 1.  REDIRECT Giardia lamblia
 

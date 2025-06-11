@@ -1,7 +1,7 @@
-About *Calocera viscosa TUFC12733 (GCA\_001630345)* {#about-calocera-viscosa-tufc12733-gca_001630345 .first}
+About *Calocera viscosa TUFC12733 (GCA\_001630345)* 
 ---------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Calocera_viscosa)
+
 
 ***Calocera viscosa***, commonly known as the **yellow stagshorn**, is a
 jelly fungus, a member of the Dacrymycetales, an order of fungi

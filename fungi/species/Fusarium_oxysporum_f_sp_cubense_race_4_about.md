@@ -1,7 +1,7 @@
-About *Fusarium oxysporum f. sp. cubense race 4* {#about-fusarium-oxysporum-f.-sp.-cubense-race-4 .first}
+About *Fusarium oxysporum f. sp. cubense race 4* 
 ------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Fusarium_oxysporum)
+
 
 The ascomycete fungus ***Fusarium oxysporum*** Schlecht. as emended by
 Snyder and Hansen comprises all the species, varieties and forms

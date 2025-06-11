@@ -6,5 +6,5 @@ The protein-coding genes in Ensembl Metazoa were imported from
 and are a subset of the Official Gene Set v2.2 available from the
 [*Zootermopsis nevadensis* Genome Project](http://termitegenome.org).
 Non-coding RNA genes were added using the [Ensembl Genomes
-pipeline](http://ensemblgenomes.org/info/data/ncrna), and BLAST hits and
+pipeline](https://metazoa.ensembl.org/info/genome/annotation/ncrna.html), and BLAST hits and
 protein features have been computed.

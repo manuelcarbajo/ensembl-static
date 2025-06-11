@@ -1,7 +1,7 @@
-About *Phytophthora palmivora var. palmivora str. sbr112.9* {#about-phytophthora-palmivora-var.-palmivora-str.-sbr112.9 .first}
+About *Phytophthora palmivora var. palmivora str. sbr112.9* 
 -----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Phytophthora_palmivora)
+
 
 ***Phytophthora palmivora*** is an oomycete that causes bud-rot of
 palms, fruit-rot or kole-roga of coconut and areca nut. These are among

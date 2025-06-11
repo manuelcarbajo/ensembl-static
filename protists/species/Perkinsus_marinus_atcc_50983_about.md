@@ -1,7 +1,7 @@
-About *Perkinsus marinus ATCC 50983* {#about-perkinsus-marinus-atcc-50983 .first}
+About *Perkinsus marinus ATCC 50983* 
 ------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Perkinsus_marinus)
+
 
 ***Perkinsus marinus*** is a species of protist belonging to the phylum
 Perkinsozoa. It is known as a prevalent pathogen of oysters, causing

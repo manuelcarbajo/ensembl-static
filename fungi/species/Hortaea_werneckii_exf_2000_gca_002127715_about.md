@@ -1,7 +1,7 @@
-About *Hortaea werneckii EXF-2000 (GCA\_002127715)* {#about-hortaea-werneckii-exf-2000-gca_002127715 .first}
+About *Hortaea werneckii EXF-2000 (GCA\_002127715)* 
 ---------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Hortaea_werneckii)
+
 
 ***Hortaea werneckii*** is a species of yeast in the family
 Teratosphaeriaceae.

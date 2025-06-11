@@ -1,7 +1,7 @@
-About *Exophiala dermatitidis NIH/UT8656 (GCA\_000230625)* {#about-exophiala-dermatitidis-nihut8656-gca_000230625 .first}
+About *Exophiala dermatitidis NIH/UT8656 (GCA\_000230625)* 
 ----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Exophiala_dermatitidis)
+
 
 ***Exophiala dermatitidis*** is a thermophilic black yeast, and a member
 of the Herpotrichiellaceae. While the species is only found at low

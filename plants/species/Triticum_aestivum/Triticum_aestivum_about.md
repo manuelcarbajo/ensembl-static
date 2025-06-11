@@ -6,7 +6,7 @@ essential to human nutrition. Wheat was one of the first cereals to be
 domesticated, originating in the [fertile
 crescent](http://en.wikipedia.org/wiki/Fertile_Crescent) around 7000
 years ago. Bread wheat is hexaploid, with a genome size estimated at
-\~17 Gb, composed of three closely-related and independently maintained
+~17 Gb, composed of three closely-related and independently maintained
 genomes that are the result of a series of naturally occurring
 hybridisation events. The ancestral progenitor genomes are considered to
 be [*Triticum

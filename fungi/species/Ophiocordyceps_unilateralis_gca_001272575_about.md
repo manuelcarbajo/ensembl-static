@@ -1,7 +1,7 @@
-About *Ophiocordyceps unilateralis str. SC16a (GCA\_001272575)* {#about-ophiocordyceps-unilateralis-str.-sc16a-gca_001272575 .first}
+About *Ophiocordyceps unilateralis str. SC16a (GCA\_001272575)* 
 ---------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis)
+
 
 ***Ophiocordyceps unilateralis*** is an entomopathogen, or
 insect-pathogenising fungus, discovered by the British naturalist Alfred

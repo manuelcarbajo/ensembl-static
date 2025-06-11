@@ -1,7 +1,7 @@
 About *Pisolithus tinctorius Marx 270*
 --------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Pisolithus_arrhizus)
+
 
 ***Pisolithus arrhizus*** (also spelled **Pisolithus arhizus**) is a
 widespread earth-ball like fungus, which may in fact be several closely

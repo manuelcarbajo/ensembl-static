@@ -1,7 +1,7 @@
-About *Metarhizium anisopliae str. E6 (GCA\_000739145)* {#about-metarhizium-anisopliae-str.-e6-gca_000739145 .first}
+About *Metarhizium anisopliae str. E6 (GCA\_000739145)* 
 -------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Metarhizium_anisopliae)
+
 
 ***Metarhizium anisopliae***, formerly known as *Entomophthora
 anisopliae* (basionym), is a fungus that grows naturally in soils

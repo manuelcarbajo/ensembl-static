@@ -48,9 +48,5 @@ of the true genome size ([Sharakhova et al.
 addition of the mitochondrial genome (L20934, 16,655 bp) which includes
 13 protein-coding and 24 ncRNAs (22 tRNA and 2 rRNA genes).**
 
-Additional notes compiled on known assembly issues from the initial
-VectorBase project can be found
-[here](https://www.vectorbase.org/content/notes-scaffolds-anopheles-gambiae-pest-whole-genome-shotgun-assembly).
-
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-gambiae/pest/agamp4).
+[VEuPathDB VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000005575.2)

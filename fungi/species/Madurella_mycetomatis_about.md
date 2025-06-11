@@ -1,7 +1,7 @@
-About *Madurella mycetomatis* {#about-madurella-mycetomatis .first}
+About *Madurella mycetomatis* 
 -----------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Madurella_mycetomatis)
+
 
 **Madurella mycetomatis** is a species of *Madurella*. May cause a
 disease called eumycetoma.

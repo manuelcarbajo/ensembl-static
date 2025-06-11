@@ -1,7 +1,7 @@
-About *Angomonas deanei* {#about-angomonas-deanei .first}
+About *Angomonas deanei* 
 ------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Angomonas_deanei)
+
 
 ***Angomonas deanei*** is a flagellated trypanosomatid protozoan. It is
 an obligate parasite in the gastrointestinal tract of insects, and is in

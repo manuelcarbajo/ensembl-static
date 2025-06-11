@@ -1,4 +1,4 @@
-About *Paramecium tetraurelia* {#about-paramecium-tetraurelia .first}
+About *Paramecium tetraurelia* 
 ------------------------------
 
 *Paramecium tetraurelia* is a unicellular ciliate, which is a model

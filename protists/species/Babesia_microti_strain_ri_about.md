@@ -1,7 +1,7 @@
-About *Babesia microti strain RI* {#about-babesia-microti-strain-ri .first}
+About *Babesia microti strain RI* 
 ---------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Theileria_microti)
+
 
 **Theileria microti** is a parasitic blood-borne piroplasm transmitted
 by deer ticks. It was previously in the taxonomic genus *Babesia*, as

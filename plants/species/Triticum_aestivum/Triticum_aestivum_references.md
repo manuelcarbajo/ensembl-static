@@ -54,3 +54,18 @@
     Surbhi Grewal, Stella Hubbart‐Edwards, Caiyun Yang, Urmila Devi, Lauren Baker, Jack Heath, Stephen Ashling, Duncan Scholefield, 
     Caroline Howells, Jermaine Yarde, Peter Isaac, Ian P. King and Julie King.
     2016. Plant Biotechnology Journal. 18:743–755.
+
+11. [Integrating genomic resources to present full gene and putative promoter capture probe sets for bread wheat](https://academic.oup.com/gigascience/article/8/4/giz018/5304888).\
+	Gardiner LJ, Brabbs T, Akhunov A, Jordan K, Budak H et al. 2019. Gigascience 8(4): giz018
+
+12. [Efficient genome-wide detection and cataloging of EMS-induced mutations using next-generation sequencing and exome capture](http://www.plantcell.org/content/26/4/1382).\
+	Henry IM, Nagalakshmi U, Lieberman MC, Ngo KJ, Krasileva KV et al. 2014. Plant Cell 26:1382–1397
+
+13. [High-density genotyping of the A.E. Watkins Collection of hexaploid landraces identifies a large molecular diversity compared to elite bread wheat](https://pubmed.ncbi.nlm.nih.gov/28500796/).\
+	Mark O Winfield, Alexandra M Allen, Paul A Wilkinson, Amanda J Burridge, Gary L A Barker, Jane Coghill, Christy Waterfall, Luzie U Wingen, Simon Griffiths, Keith J Edwards. 2018. Plant Biotechnol J. 16(1):165-175
+
+14. [Exome sequencing highlights the role of wild-relative introgression in shaping the adaptive landscape of the wheat genome](https://www.nature.com/articles/s41588-019-0382-2).\
+	Fei He, Raj Pasam, Fan Shi, Surya Kant et al. 2019. Nature Genetics 51, 896-904 
+
+15. [Harnessing landrace diversity empowers wheat breeding](https://www.nature.com/articles/s41586-024-07682-9#data-availability).\
+	Cheng, S., Feng, C., Wingen, L.U. et al. 2024. Nature 632, 823–831.

@@ -1,7 +1,7 @@
-About *Plasmodiophora brassicae* {#about-plasmodiophora-brassicae .first}
+About *Plasmodiophora brassicae* 
 --------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodiophora_brassicae)
+
 
 1.  REDIRECT Clubroot
 

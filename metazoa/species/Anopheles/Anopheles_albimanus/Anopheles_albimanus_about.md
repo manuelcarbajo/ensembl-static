@@ -47,4 +47,7 @@ performed prior to genome sequencing. For more details [click
 here.](http://www.mr4.org/MR4ReagentsSearch/livingMosquitoes/MRA-126.aspx)
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-albimanus "Tendency to inhabit/rest in outdoor areas.")
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000349125.2 "Tendency to inhabit/rest in outdoor areas.")
+
+Picture credit:
+James Gathany, CDC [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Anopheles_albimanus_mosquito.jpg)

@@ -1,7 +1,7 @@
-About *Trichophyton interdigitale MR816 (GCA\_000622975)* {#about-trichophyton-interdigitale-mr816-gca_000622975 .first}
+About *Trichophyton interdigitale MR816 (GCA\_000622975)* 
 ---------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trichophyton_interdigitale)
+
 
 ***Trichophyton interdigitale*** is a species of *Trichophyton*. It can
 produce penicillin.

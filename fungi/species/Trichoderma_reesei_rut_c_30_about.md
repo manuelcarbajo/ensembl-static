@@ -1,7 +1,7 @@
-About *Trichoderma reesei RUT C-30* {#about-trichoderma-reesei-rut-c-30 .first}
+About *Trichoderma reesei RUT C-30* 
 -----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trichoderma_reesei)
+
 
 ***Trichoderma reesei*** is a mesophilic and filamentous fungus. It is
 an anamorph of the fungus ***Hypocrea jecorina***. *T. reesei* has the

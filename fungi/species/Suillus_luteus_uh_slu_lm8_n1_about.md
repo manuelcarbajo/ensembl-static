@@ -1,7 +1,7 @@
-About *Suillus luteus UH-Slu-Lm8-n1* {#about-suillus-luteus-uh-slu-lm8-n1 .first}
+About *Suillus luteus UH-Slu-Lm8-n1* 
 ------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Suillus_luteus)
+
 
 ***Suillus luteus*** is a basidiomycete fungus, and the type species of
 the genus *Suillus*. It is a common fungus indigenous to coniferous

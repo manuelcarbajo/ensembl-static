@@ -1,4 +1,4 @@
-*AatrE1.6* gene set
+*AatrE3.2* gene set
 -------------------
 
-Community annotation patch build for October 2017.
+Community annotation patch build for July 2019.

@@ -1,7 +1,7 @@
-About *Diaporthe helianthi str. 7/96 (GCA\_001702395)* {#about-diaporthe-helianthi-str.-796-gca_001702395 .first}
+About *Diaporthe helianthi str. 7/96 (GCA\_001702395)* 
 ------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Diaporthe_helianthi)
+
 
 ***Diaporthe helianthi*** is a fungal pathogen that causes ***Phomopsis*
 stem canker of sunflowers**. In sunflowers, *Phomopsis helianthi*

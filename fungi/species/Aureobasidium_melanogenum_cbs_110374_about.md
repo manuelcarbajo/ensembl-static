@@ -1,7 +1,7 @@
-About *Aureobasidium melanogenum CBS 110374* {#about-aureobasidium-melanogenum-cbs-110374 .first}
+About *Aureobasidium melanogenum CBS 110374* 
 --------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aureobasidium_melanogenum)
+
 
 *Aureobasidium melanogenum*, formerly known as *Aureobasidium pullulans*
 var. *melanogenum* is a ubiquitous black, yeast-like fungus that is

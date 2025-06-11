@@ -1,7 +1,7 @@
-About *Diplocarpon rosae (GCA\_002317995)* {#about-diplocarpon-rosae-gca_002317995 .first}
+About *Diplocarpon rosae (GCA\_002317995)* 
 ------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Diplocarpon_rosae)
+
 
 ***Diplocarpon rosae*** is a fungus that creates the rose black spot
 disease. Because it was observed by people of various countries around

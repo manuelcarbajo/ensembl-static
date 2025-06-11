@@ -1,7 +1,7 @@
-About *Candida dubliniensis CD36* {#about-candida-dubliniensis-cd36 .first}
+About *Candida dubliniensis CD36* 
 ---------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Candida_dubliniensis)
+
 
 ***Candida dubliniensis*** is a fungal opportunistic pathogen originally
 isolated from AIDS patients. It is also occasionally isolated from

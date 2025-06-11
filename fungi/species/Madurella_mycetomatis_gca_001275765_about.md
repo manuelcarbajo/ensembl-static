@@ -1,7 +1,7 @@
-About *Madurella mycetomatis str. mm55 (GCA\_001275765)* {#about-madurella-mycetomatis-str.-mm55-gca_001275765 .first}
+About *Madurella mycetomatis str. mm55 (GCA\_001275765)* 
 --------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Madurella_mycetomatis)
+
 
 ***Madurella mycetomatis*** is a fungus primarily reported in Central
 Africa as a cause of mycetoma in humans. It has been misclassified for

@@ -1,7 +1,7 @@
-About *Penicillium solitum* {#about-penicillium-solitum .first}
+About *Penicillium solitum* 
 ---------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_solitum)
+
 
 ***Penicillium solitum*** is an anamorph, mesophilic, salinity-tolerant,
 psychrotolerant species of the genus of *Penicillium* which produces

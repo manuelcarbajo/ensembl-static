@@ -1,7 +1,7 @@
-About *Alternaria alternata str. SRC1lrK2f (GCA\_001642055)* {#about-alternaria-alternata-str.-src1lrk2f-gca_001642055 .first}
+About *Alternaria alternata str. SRC1lrK2f (GCA\_001642055)* 
 ------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Alternaria_alternata)
+
 
 ***Alternaria alternata*** is a fungus which has been recorded causing
 leaf spot and other diseases on over 380 host species of plant. It is an

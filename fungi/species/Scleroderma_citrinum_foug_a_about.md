@@ -1,7 +1,7 @@
-About *Scleroderma citrinum Foug A* {#about-scleroderma-citrinum-foug-a .first}
+About *Scleroderma citrinum Foug A* 
 -----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Scleroderma_citrinum)
+
 
 ***Scleroderma citrinum***, commonly known as the **common earthball**,
 **pigskin poison puffball**, or **common earth ball**, is the most

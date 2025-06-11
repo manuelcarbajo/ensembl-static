@@ -1,7 +1,7 @@
-About *Aureobasidium subglaciale EXF-2481 (GCA\_000721755)* {#about-aureobasidium-subglaciale-exf-2481-gca_000721755 .first}
+About *Aureobasidium subglaciale EXF-2481 (GCA\_000721755)* 
 -----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aureobasidium_subglaciale)
+
 
 ***Aureobasidium subglaciale***, formerly known as *Aureobasidium
 pullulans* var. *subglaciale*, is a ubiquitous black, yeast-like fungus

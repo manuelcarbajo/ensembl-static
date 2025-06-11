@@ -1,7 +1,7 @@
-About *Colletotrichum gloeosporioides Cg-14* {#about-colletotrichum-gloeosporioides-cg-14 .first}
+About *Colletotrichum gloeosporioides Cg-14* 
 --------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Glomerella_cingulata)
+
 
 ***Glomerella cingulata*** is a plant pathogenic fungus that causes
 disease on many different hosts including quince and apple bitter rot

@@ -1,7 +1,7 @@
-About *Torulaspora delbrueckii* {#about-torulaspora-delbrueckii .first}
+About *Torulaspora delbrueckii* 
 -------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Torulaspora_delbrueckii)
+
 
 ***Torulaspora delbrueckii*** is a ubiquitous
 

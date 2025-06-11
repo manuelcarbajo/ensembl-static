@@ -1,5 +1,7 @@
 ### Variation
 
+The following variation datasets were remapped from assembly B73_RefGen_v4 to Zm-B73-REFERENCE-NAM-5.0
+
 #### HapMap2 dataset
 
 A variation set which comprises the maize HapMap2 data (Chia *et al.*,

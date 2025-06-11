@@ -1,7 +1,7 @@
-About *Trichophyton equinum CBS 127.97 (GCA\_000151175)* {#about-trichophyton-equinum-cbs-127.97-gca_000151175 .first}
+About *Trichophyton equinum CBS 127.97 (GCA\_000151175)* 
 --------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trichophyton)
+
 
 *Trichophyton* is a genus of fungi, which includes the parasitic
 varieties that cause tinea, including athlete\'s foot, ringworm, jock

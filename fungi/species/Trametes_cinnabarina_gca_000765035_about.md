@@ -1,7 +1,7 @@
-About *Trametes cinnabarina str. BRFM137 (GCA\_000765035)* {#about-trametes-cinnabarina-str.-brfm137-gca_000765035 .first}
+About *Trametes cinnabarina str. BRFM137 (GCA\_000765035)* 
 ----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trametes_cinnabarina)
+
 
 1.  redirectPycnoporus sanguineus
 

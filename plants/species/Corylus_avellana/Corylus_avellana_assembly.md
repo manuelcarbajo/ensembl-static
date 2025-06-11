@@ -1,0 +1,2 @@
+
+The genome sequence assembly of the commercially important Turkish cultivar Tombul was generated using a hybrid approach. Illumina whole genome shotgun sequences & Oxford Nanopore Technologies MinION long reads were assembled de novo using MaSurCA. Contigs from this assembly were ordered into chromosome-sized scaffolds through chromosome conformational capture sequencing (Dovetail Genomics Chicago & HiC). A high-quality 370-Mb assembly covering 97.8% of the estimated genome size was obtained, in close agreement with cytogenetic studies and genetic maps. 

@@ -1,7 +1,7 @@
-About *Phanerochaete carnosa HHB-10118-sp (GCA\_000300595)* {#about-phanerochaete-carnosa-hhb-10118-sp-gca_000300595 .first}
+About *Phanerochaete carnosa HHB-10118-sp (GCA\_000300595)* 
 -----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Phanerochaete_carnosa)
+
 
 ***Phanerochaete carnosa*** is a species of crust fungus in the family
 Phanerochaetaceae. It is a plant pathogen that infects plane trees. The

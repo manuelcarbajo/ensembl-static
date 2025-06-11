@@ -1,7 +1,7 @@
-About *Trichophyton verrucosum HKI 0517 (GCA\_000151505)* {#about-trichophyton-verrucosum-hki-0517-gca_000151505 .first}
+About *Trichophyton verrucosum HKI 0517 (GCA\_000151505)* 
 ---------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trichophyton_verrucosum)
+
 
 ***Trichophyton verrucosum***, commonly known as the cattle ringworm
 fungus, is a dermatophyte largely responsible for fungal skin disease in

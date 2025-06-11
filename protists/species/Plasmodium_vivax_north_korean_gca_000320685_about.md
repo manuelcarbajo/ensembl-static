@@ -1,7 +1,7 @@
-About *Plasmodium vivax North Korean* {#about-plasmodium-vivax-north-korean .first}
+About *Plasmodium vivax North Korean* 
 -------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_vivax)
+
 
 ***Plasmodium vivax*** is a protozoal parasite and a human pathogen.
 This parasite is the most frequent and widely distributed cause of

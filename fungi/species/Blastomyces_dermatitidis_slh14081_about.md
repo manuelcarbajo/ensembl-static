@@ -1,7 +1,7 @@
-About *Blastomyces dermatitidis SLH14081* {#about-blastomyces-dermatitidis-slh14081 .first}
+About *Blastomyces dermatitidis SLH14081* 
 -----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Blastomyces)
+
 
 ***Blastomyces dermatitidis*** is the causal agent of blastomycosis, an
 invasive and often serious fungal infection found occasionally in humans

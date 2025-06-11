@@ -1,7 +1,7 @@
-About *Armillaria ostoyae (GCA\_900157425)* {#about-armillaria-ostoyae-gca_900157425 .first}
+About *Armillaria ostoyae (GCA\_900157425)* 
 -------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Armillaria_ostoyae)
+
 
 ***Armillaria ostoyae*** (sometimes called ***Armillaria solidipes***)
 is a species of plant pathogenic fungus in the Physalacriaceae family.

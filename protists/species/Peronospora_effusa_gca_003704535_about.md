@@ -1,7 +1,7 @@
-About *Peronospora effusa* {#about-peronospora-effusa .first}
+About *Peronospora effusa* 
 --------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Peronospora_farinosa)
+
 
 ***Peronospora farinosa*** is a plant pathogen. It causes downy mildew
 on leaves of wild and cultivated *Amaranthaceae*: *Amaranthus*,

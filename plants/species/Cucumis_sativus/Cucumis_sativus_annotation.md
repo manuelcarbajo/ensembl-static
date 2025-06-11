@@ -15,3 +15,5 @@ supported by multiple gene finders. About 81% of the genes have
 homologues in the TrEMBL protein database, and 66% can be classified by
 InterPro. In total, 82% of the genes have either known homologues or can
 be functionally classified.
+
+Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). Repeats length: 93375853 - Repeats content: 48.2%

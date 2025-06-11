@@ -1,7 +1,7 @@
-About *Fusarium oxysporum f. sp. cubense tropical race 4 54006 str. 54006 (II5) (GCA\_000260195)* {#about-fusarium-oxysporum-f.-sp.-cubense-tropical-race-4-54006-str.-54006-ii5-gca_000260195 .first}
+About *Fusarium oxysporum f. sp. cubense tropical race 4 54006 str. 54006 (II5) (GCA\_000260195)* 
 -------------------------------------------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Fusarium_oxysporum)
+
 
 ***Fusarium oxysporum*** (Schlecht as emended by Snyder and Hansen), an
 ascomycete fungus, comprises all the species, varieties and forms

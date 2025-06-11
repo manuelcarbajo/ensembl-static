@@ -1,7 +1,7 @@
-About *Paracoccidioides brasiliensis str. CNH (GCA\_001713695)* {#about-paracoccidioides-brasiliensis-str.-cnh-gca_001713695 .first}
+About *Paracoccidioides brasiliensis str. CNH (GCA\_001713695)* 
 ---------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Paracoccidioides_brasiliensis)
+
 
 ***Paracoccidioides brasiliensis*** is a dimorphic fungus and the
 causative agent of the disease paracoccidioidomycosis. The fungus has

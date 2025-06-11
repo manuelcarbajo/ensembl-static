@@ -1,7 +1,7 @@
-About *Babesia bigemina str. Bond* {#about-babesia-bigemina-str.-bond .first}
+About *Babesia bigemina str. Bond* 
 ----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Babesia_bigemina)
+
 
 ***Babesia bigemina*** is a species of alveolates belonging to the
 phylum Apicomplexa and the family Babesiidae. In cattle, it causes

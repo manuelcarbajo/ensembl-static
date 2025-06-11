@@ -1,7 +1,7 @@
 About *Theileria parva str. Muguga*
 -----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Theileria_parva)
+
 
 ***Theileria parva*** is a species of parasites, named in honour of
 Arnold Theiler, that causes East Coast fever (theileriosis) in cattle, a

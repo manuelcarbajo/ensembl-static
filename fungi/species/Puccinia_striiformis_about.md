@@ -1,7 +1,7 @@
 About *Puccinia striiformis f. sp. tritici PST-130*
 ---------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Puccinia_striiformis_var._striiformis)
+
 
 ***Puccinia striiformis* var. *striiformis*** is a plant pathogen. It
 causes stripe rust on

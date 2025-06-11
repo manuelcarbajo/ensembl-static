@@ -1,7 +1,7 @@
-About *Pneumocystis jirovecii RU7 (GCA\_001477535)* {#about-pneumocystis-jirovecii-ru7-gca_001477535 .first}
+About *Pneumocystis jirovecii RU7 (GCA\_001477535)* 
 ---------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Pneumocystis_jirovecii)
+
 
 ***Pneumocystis jirovecii*** (previously *P. carinii*) is a yeast-like
 fungus of the genus *Pneumocystis*. The causative organism of

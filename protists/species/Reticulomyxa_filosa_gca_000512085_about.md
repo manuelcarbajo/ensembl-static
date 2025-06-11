@@ -1,7 +1,7 @@
-About *Reticulomyxa filosa* {#about-reticulomyxa-filosa .first}
+About *Reticulomyxa filosa* 
 ---------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Reticulomyxa)
+
 
 ***Reticulomyxa*** is a monospecific genus of freshwater foraminiferans.
 The organism has unique bidirectional cytoplasmic streaming throughout

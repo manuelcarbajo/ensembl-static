@@ -1,4 +1,4 @@
-*AquaS1.11* gene set
+*AquaS1.12* gene set
 --------------------
 
-Community annotation patch build for February 2019
+Community annotation patch build for July 2019

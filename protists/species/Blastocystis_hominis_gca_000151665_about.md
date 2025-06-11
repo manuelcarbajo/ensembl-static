@@ -1,7 +1,7 @@
-About *Blastocystis hominis str. Singapore isolate B (sub-type 7)* {#about-blastocystis-hominis-str.-singapore-isolate-b-sub-type-7 .first}
+About *Blastocystis hominis str. Singapore isolate B (sub-type 7)* 
 ------------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Blastocystis)
+
 
 ***Blastocystis*** is a genus of single-celled heterokont parasites
 belonging to a group of organisms that are known as the Stramenopiles

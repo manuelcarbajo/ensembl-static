@@ -1,7 +1,7 @@
-About *Trichophyton soudanense CBS 452.61* {#about-trichophyton-soudanense-cbs-452.61 .first}
+About *Trichophyton soudanense CBS 452.61* 
 ------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Trichophyton_rubrum)
+
 
 ***Trichophyton rubrum*** is a dermatophytic fungus in the phylum
 Ascomycota, class Euascomycetes. It is an exclusively clonal,

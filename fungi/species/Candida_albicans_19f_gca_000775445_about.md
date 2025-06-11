@@ -1,7 +1,7 @@
-About *Candida albicans 19F (GCA\_000775445)* {#about-candida-albicans-19f-gca_000775445 .first}
+About *Candida albicans 19F (GCA\_000775445)* 
 ---------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Candida_albicans)
+
 
 ***Candida albicans*** is an opportunistic pathogenic yeast It is one of
 the few species of the genus *Candida* that causes the human infection

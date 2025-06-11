@@ -1,7 +1,7 @@
-About *Verticillium alfalfae VaMs.102* {#about-verticillium-alfalfae-vams.102 .first}
+About *Verticillium alfalfae VaMs.102* 
 --------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Verticillium_alfalfae)
+
 
 ***Verticillium alfalfae*** is a fungus. It causes verticillium wilt in
 some plant species, particularly alfalfa. It produces yellow-pigmented

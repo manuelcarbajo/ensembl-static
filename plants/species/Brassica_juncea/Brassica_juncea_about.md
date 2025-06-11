@@ -1,0 +1,5 @@
+About *Brassica juncea*
+---------------------
+Brassica juncea (L.) Czern & Coss is a diverse and important agricultural species. An allotetraploid (AABB, 2n = 36), B. juncea derived from interspecific hybridization between the diploid progenitors Brassica rapa (AA, 2n = 20) and Brassica nigra (BB, 2n = 16)2. Four subspecies have been proposed based on crop use and morphology: juncea (seed mustard), integrifolia (leaf mustard), napiformis (root mustard) and tumida (stem mustard). B. juncea has a wide geographic range as native plants, adapted crops and introduced weeds, spanning the continents of Asia, Europe, Africa, America and Australia. B. juncea is an important oilseed crop in India, Bangladesh, China and Ukraine, and is recently also gaining importance in Canada and Australia. Meanwhile, it is grown as a condiment in Europe, North America, Argentina and China. Root mustard is distributed in Mongolia and northeastern China, whereas leaf mustards are most common in China and Southeast Asia. Brassica juncea is regarded as one of the earliest domesticated plants, with mustard mentioned as a condiment in Sanskrit and Sumerian texts from as early as 3,000 BC.
+
+

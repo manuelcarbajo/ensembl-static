@@ -1,7 +1,7 @@
-About *Amanita muscaria Koide BX008* {#about-amanita-muscaria-koide-bx008 .first}
+About *Amanita muscaria Koide BX008* 
 ------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Amanita_muscaria)
+
 
 ***Amanita muscaria***, commonly known as the **fly agaric** or **fly
 amanita**, is a mushroom and psychoactive basidiomycete fungus, one of

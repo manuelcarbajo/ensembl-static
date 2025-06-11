@@ -1,6 +1,6 @@
 Annotation
 ----------
 
-AaegL5.2
+AaegL5.3
 
-Community annotation patch build for April 2019
+Community annotation patch build for June 2020

@@ -1,7 +1,7 @@
-About *Cryptococcus neoformans var. neoformans B-3501A* {#about-cryptococcus-neoformans-var.-neoformans-b-3501a .first}
+About *Cryptococcus neoformans var. neoformans B-3501A* 
 -------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Cryptococcus_neoformans)
+
 
 ***Cryptococcus neoformans*** is an encapsulated yeast that can live in
 both plants and animals. Its teleomorph is *Filobasidiella neoformans*,

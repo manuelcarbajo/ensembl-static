@@ -4,7 +4,7 @@ Ensembl Plants datasets are constructed in a direct collaboration with the [Gram
 
 <p class="rtecenter"><a href="http://www.gramene.org/"><img alt="Gramene logo" src="/img/gramene_logo.png" style="height:60px; width:150px" /></a></p>
 
-The development of resources for wheat is funded by the BBSRC-funded [Designing Future Wheat ISP](https://www.jic.ac.uk/research/designing-future-wheat/).
+The development of resources for wheat is funded by the BBSRC-funded [Designing Future Wheat ISP](https://www.jic.ac.uk/research/designing-future-wheat/) and [PanOryza](https://gtr.ukri.org/projects?ref=BB%2FT015691%2F1) grants.
 
 <p class="rtecenter"><a href="http://www.bbsrc.ac.uk/home/home.aspx"><img alt="BBSRC logo" src="/img/bbsrc.png" style="height:60px" /></a></p>
 

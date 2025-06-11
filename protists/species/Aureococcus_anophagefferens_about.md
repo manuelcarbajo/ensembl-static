@@ -1,7 +1,7 @@
-About *Aureococcus anophagefferens* {#about-aureococcus-anophagefferens .first}
+About *Aureococcus anophagefferens* 
 -----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aureococcus_anophagefferens)
+
 
 ***Aureococcus anophagefferens*** is a species of heterokont alga. Its
 cells have a single chloroplast, nucleus, and mitochondrion and an

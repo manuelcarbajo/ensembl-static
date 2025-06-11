@@ -1,7 +1,7 @@
-About *Ordospora colligata OC4* {#about-ordospora-colligata-oc4 .first}
+About *Ordospora colligata OC4* 
 -------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Ordospora_colligata)
+
 
 ***Ordospora colligata*** is an intracellular parasite belonging to the
 Microsporidia. It is an obligatory gut parasite with the crustacean

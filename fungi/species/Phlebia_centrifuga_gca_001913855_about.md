@@ -1,7 +1,7 @@
-About *Phlebia centrifuga str. FBCC195 (GCA\_001913855)* {#about-phlebia-centrifuga-str.-fbcc195-gca_001913855 .first}
+About *Phlebia centrifuga str. FBCC195 (GCA\_001913855)* 
 --------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Phlebia_centrifuga)
+
 
 ***Phlebia centrifuga*** is a species of crust fungus in the family
 Meruliaceae. It was described in 1881 by Petter Karsten.

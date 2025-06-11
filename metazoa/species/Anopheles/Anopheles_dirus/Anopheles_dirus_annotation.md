@@ -1,4 +1,4 @@
-*AdirW1.8* gene set
+*AdirW1.9* gene set
 -------------------
 
-Community annotation patch build for October 2018.
+Community annotation patch build for July 2019.

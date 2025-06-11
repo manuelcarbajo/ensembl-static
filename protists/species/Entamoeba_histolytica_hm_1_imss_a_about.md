@@ -1,7 +1,7 @@
-About *Entamoeba histolytica HM-1:IMSS-A* {#about-entamoeba-histolytica-hm-1imss-a .first}
+About *Entamoeba histolytica HM-1:IMSS-A* 
 -----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Entamoeba_histolytica)
+
 
 thumb\|right\|450px\|Life-cycle of *Entamoeba histolytica*
 

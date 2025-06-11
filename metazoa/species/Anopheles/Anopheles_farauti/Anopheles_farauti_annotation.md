@@ -1,4 +1,4 @@
-*AfarF2.6* gene set
+*AfarF2.7* gene set
 -------------------
 
-Community annotation patch build for April 2019.
+Community annotation patch build for July 2019.

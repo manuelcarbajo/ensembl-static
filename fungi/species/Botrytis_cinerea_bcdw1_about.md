@@ -1,7 +1,7 @@
-About *Botrytis cinerea BcDW1* {#about-botrytis-cinerea-bcdw1 .first}
+About *Botrytis cinerea BcDW1* 
 ------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Botrytis_cinerea)
+
 
 ***Botrytis cinerea*** (\"botrytis\" from Ancient Greek *botrys
 (βότρυς)* meaning \"grapes\" plus the Neolatin suffix *-itis* for

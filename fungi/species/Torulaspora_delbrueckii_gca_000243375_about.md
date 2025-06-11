@@ -1,7 +1,7 @@
-About *Torulaspora delbrueckii str. CBS 1146 (GCA\_000243375)* {#about-torulaspora-delbrueckii-str.-cbs-1146-gca_000243375 .first}
+About *Torulaspora delbrueckii str. CBS 1146 (GCA\_000243375)* 
 --------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Torulaspora_delbrueckii)
+
 
 ***Torulaspora delbrueckii*** is a ubiquitous yeast species with both
 wild and anthropic habitats. The type strain of *T. delbrueckii* is CBS

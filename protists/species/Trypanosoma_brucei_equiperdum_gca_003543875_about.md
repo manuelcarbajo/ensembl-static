@@ -1,7 +1,7 @@
-About *Trypanosoma brucei equiperdum str. IVM-t1* {#about-trypanosoma-brucei-equiperdum-str.-ivm-t1 .first}
+About *Trypanosoma brucei equiperdum str. IVM-t1* 
 -------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trypanosoma_brucei)
+
 
 ***Trypanosoma brucei*** is a species of parasitic kinetoplastid
 belonging to the genus *Trypanosoma*. The parasite is the cause of a

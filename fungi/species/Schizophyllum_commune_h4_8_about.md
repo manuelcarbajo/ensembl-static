@@ -1,7 +1,7 @@
-About *Schizophyllum commune H4-8* {#about-schizophyllum-commune-h4-8 .first}
+About *Schizophyllum commune H4-8* 
 ----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Schizophyllum_commune)
+
 
 ***Schizophyllum commune*** is a very common species of mushroom in the
 genus Schizophyllum. It was initially described as a morphological

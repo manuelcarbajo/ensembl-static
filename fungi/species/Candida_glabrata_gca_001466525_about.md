@@ -1,7 +1,7 @@
-About *Candida glabrata (GCA\_001466525)* {#about-candida-glabrata-gca_001466525 .first}
+About *Candida glabrata (GCA\_001466525)* 
 -----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Candida_glabrata)
+
 
 ***Candida glabrata*** is a haploid yeast of the genus Candida,
 previously known as *Torulopsis glabrata*. This species of yeast is

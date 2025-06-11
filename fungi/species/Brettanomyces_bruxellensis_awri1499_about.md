@@ -1,7 +1,7 @@
-About *Brettanomyces bruxellensis AWRI1499* {#about-brettanomyces-bruxellensis-awri1499 .first}
+About *Brettanomyces bruxellensis AWRI1499* 
 -------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Brettanomyces_bruxellensis)
+
 
 ***Brettanomyces bruxellensis*** (the anamorph of *Dekkera
 bruxellensis*) is a yeast associated with and named after, the Senne

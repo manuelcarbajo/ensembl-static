@@ -1,7 +1,7 @@
-About *Encephalitozoon intestinalis ATCC 50506* {#about-encephalitozoon-intestinalis-atcc-50506 .first}
+About *Encephalitozoon intestinalis ATCC 50506* 
 -----------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Encephalitozoon_intestinalis)
+
 
 ***Encephalitozoon intestinalis*** is a parasite. It can cause
 microsporidiosis.

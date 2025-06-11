@@ -1,7 +1,7 @@
-About *Phellinus noxius (GCA\_002287475)* {#about-phellinus-noxius-gca_002287475 .first}
+About *Phellinus noxius (GCA\_002287475)* 
 -----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Phellinus_noxius)
+
 
 ***Phellinus noxius*** is a plant pathogen.
 

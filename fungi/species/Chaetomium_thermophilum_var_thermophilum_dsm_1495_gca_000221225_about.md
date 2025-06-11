@@ -1,7 +1,7 @@
-About *Chaetomium thermophilum var. thermophilum DSM 1495 (GCA\_000221225)* {#about-chaetomium-thermophilum-var.-thermophilum-dsm-1495-gca_000221225 .first}
+About *Chaetomium thermophilum var. thermophilum DSM 1495 (GCA\_000221225)* 
 ---------------------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Chaetomium_thermophilum)
+
 
 ***Chaetomium thermophilum*** is a thermophilic filamentous fungus. It
 grows on dung or compost (rotten organics). It is notable for being a

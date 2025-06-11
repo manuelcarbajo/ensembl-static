@@ -1,7 +1,7 @@
-About *Sporisorium scitamineum* {#about-sporisorium-scitamineum .first}
+About *Sporisorium scitamineum* 
 -------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Sugarcane_smut_)
+
 
 **Sugarcane smut** is a fungal disease of sugarcane caused by the fungus
 ***Sporisorium scitamineum***. The disease is known as culmicolous,

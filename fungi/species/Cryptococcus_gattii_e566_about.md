@@ -1,7 +1,7 @@
-About *Cryptococcus gattii E566* {#about-cryptococcus-gattii-e566 .first}
+About *Cryptococcus gattii E566* 
 --------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Cryptococcus_gattii)
+
 
 ***Cryptococcus gattii***, formerly known as *Cryptococcus neoformans*
 var *gattii*, is an encapsulated yeast found primarily in tropical and

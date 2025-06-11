@@ -34,7 +34,7 @@ laboratory strain. It was used for the generation of the VectorBase
 reference assembly LdelU1
 
 Sources:
-[Vectorbase.org](https://www.vectorbase.org/organisms/leptotrombidium-deliense)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_003675905.1)
 and [Wikipedia](https://en.wikipedia.org/wiki/Leptotrombidium).
 
 Picture credit: Dr Kittipong Chaisiri, Mahidol University

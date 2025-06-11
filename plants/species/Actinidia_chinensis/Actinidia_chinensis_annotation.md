@@ -9,3 +9,6 @@ Information Resource (KIR v2). The quality of the new gene models was
 tested by fully sequencing 550 cloned \'Hort16A\' cDNAs and comparing
 with the predicted protein models for Red5. Overall, 90.9% had a match
 with 90% identity or better.
+
+Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). Repeats length: 204260489 - Repeats content: 36.8%
+

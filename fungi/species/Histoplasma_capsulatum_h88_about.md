@@ -1,7 +1,7 @@
-About *Histoplasma capsulatum H88* {#about-histoplasma-capsulatum-h88 .first}
+About *Histoplasma capsulatum H88* 
 ----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Histoplasma_)
+
 
 ***Histoplasma*** is a genus of dimorphic fungi commonly found in guano
 (the feces of birds and bats) and in soil where guano falls. It is most

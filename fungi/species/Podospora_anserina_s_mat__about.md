@@ -1,7 +1,7 @@
-About *Podospora anserina S mat+* {#about-podospora-anserina-s-mat .first}
+About *Podospora anserina S mat+* 
 ---------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Podospora_anserina)
+
 
 ***Podospora anserina*** is a model filamentous, ascomycete fungi. It is
 non-pathogenic to humans. It is a herbivore dung-colonizing

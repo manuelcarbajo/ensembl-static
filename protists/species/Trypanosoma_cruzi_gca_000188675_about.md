@@ -1,7 +1,7 @@
-About *Trypanosoma cruzi (GCA\_000188675)* {#about-trypanosoma-cruzi-gca_000188675 .first}
+About *Trypanosoma cruzi (GCA\_000188675)* 
 ------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trypanosoma_cruzi)
+
 
 ***Trypanosoma cruzi*** is a species of parasitic euglenoid protozoan.
 Amongst the protozoa, the trypanosomes characteristically bore tissue in

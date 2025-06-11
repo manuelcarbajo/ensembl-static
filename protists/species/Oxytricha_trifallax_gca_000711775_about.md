@@ -1,7 +1,7 @@
-About *Oxytricha trifallax str. JRB310* {#about-oxytricha-trifallax-str.-jrb310 .first}
+About *Oxytricha trifallax str. JRB310* 
 ---------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Oxytricha_trifallax)
+
 
 ***Sterkiella histriomuscorum***, formerly ***Oxytricha trifallax***, is
 a ciliate species in the genus *Sterkiella*, known for its highly

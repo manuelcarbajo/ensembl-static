@@ -1,7 +1,7 @@
-About *Kluyveromyces marxianus DMKU3-1042 (GCA\_001417885)* {#about-kluyveromyces-marxianus-dmku3-1042-gca_001417885 .first}
+About *Kluyveromyces marxianus DMKU3-1042 (GCA\_001417885)* 
 -----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Kluyveromyces_marxianus)
+
 
 ***Kluyveromyces marxianus*** in ascomycetous yeast and member of the
 genus, *Kluyveromyces*. It is the sexual stage of *Atelosaccharomyces

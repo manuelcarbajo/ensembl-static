@@ -1,7 +1,7 @@
-About *Rhizophagus irregularis DAOM 197198w str. DAOM197198w (GCA\_000597685)* {#about-rhizophagus-irregularis-daom-197198w-str.-daom197198w-gca_000597685 .first}
+About *Rhizophagus irregularis DAOM 197198w str. DAOM197198w (GCA\_000597685)* 
 ------------------------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Rhizophagus_irregularis)
+
 
 ***Rhizophagus irregularis*** (previously known as *Glomus
 intraradices*) is an arbuscular mycorrhizal fungus used as a soil

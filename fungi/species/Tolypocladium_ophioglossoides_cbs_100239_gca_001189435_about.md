@@ -1,7 +1,7 @@
-About *Tolypocladium ophioglossoides CBS 100239 (GCA\_001189435)* {#about-tolypocladium-ophioglossoides-cbs-100239-gca_001189435 .first}
+About *Tolypocladium ophioglossoides CBS 100239 (GCA\_001189435)* 
 -----------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Tolypocladium_ophioglossoides)
+
 
 ***Tolypocladium ophioglossoides***, also known by two of its better
 known synonyms *Elaphocordyceps ophioglossoides* and *Cordyceps

@@ -1,4 +1,4 @@
-*AaraD1.11* gene set
+*AaraD1.12* gene set
 --------------------
 
-Community annotation patch build for April 2019.
+Community annotation patch build for July 2019.

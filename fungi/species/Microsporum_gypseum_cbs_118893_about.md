@@ -1,7 +1,7 @@
-About *Microsporum gypseum CBS 118893* {#about-microsporum-gypseum-cbs-118893 .first}
+About *Microsporum gypseum CBS 118893* 
 --------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Microsporum_gypseum)
+
 
 ***Microsporum gypseum*** is a soil-associated dermatophyte that
 occasionally is known to infect the upper dead layers of the skin of

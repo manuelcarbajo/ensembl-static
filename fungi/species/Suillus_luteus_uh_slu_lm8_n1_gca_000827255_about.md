@@ -1,7 +1,7 @@
-About *Suillus luteus UH-Slu-Lm8-n1 (GCA\_000827255)* {#about-suillus-luteus-uh-slu-lm8-n1-gca_000827255 .first}
+About *Suillus luteus UH-Slu-Lm8-n1 (GCA\_000827255)* 
 -----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Suillus_luteus)
+
 
 ***Suillus luteus*** is a bolete fungus, and the type species of the
 genus *Suillus*. A common fungus native to Eurasia, from the British

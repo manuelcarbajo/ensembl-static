@@ -1,5 +1,3 @@
-Annotation
-----------
+### Annotation 
 
-Annotation of the *T. gondii* genome has been derived from
-[ToxoDB](http://toxodb.org) (release 36).
+The annotation has been imported from [VEuPathDB](https://veupathdb.org/).

@@ -1,7 +1,7 @@
-About *Penicillium roqueforti FM164* {#about-penicillium-roqueforti-fm164 .first}
+About *Penicillium roqueforti FM164* 
 ------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_roqueforti)
+
 
 ***Penicillium roqueforti*** is a common saprotrophic fungus from the
 family Trichocomaceae. Widespread in nature, it can be isolated from

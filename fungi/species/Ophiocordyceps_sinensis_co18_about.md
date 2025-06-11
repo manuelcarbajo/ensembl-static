@@ -1,7 +1,7 @@
-About *Ophiocordyceps sinensis CO18* {#about-ophiocordyceps-sinensis-co18 .first}
+About *Ophiocordyceps sinensis CO18* 
 ------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Ophiocordyceps_sinensis)
+
 
 ***Ophiocordyceps sinensis*** is a fungus that parasitizes larvae of
 ghost moths and produces a fruiting body valued as an herbal remedy

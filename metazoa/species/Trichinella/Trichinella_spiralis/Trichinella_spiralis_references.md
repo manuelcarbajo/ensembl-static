@@ -1,3 +1,4 @@
+
 ### References
 
 1.  [The draft genome of the parasitic nematode *Trichinella
@@ -7,4 +8,4 @@
     43:228-235.
 
 Picture credit: Dickson Despommier
-([trichinella.org](http://www.trichinella.org/gallery/DDD-HQ-Main.htm))
+([trichinella.org](https://www.trichinella.org/gallery))

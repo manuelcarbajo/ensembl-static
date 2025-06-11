@@ -1,7 +1,7 @@
-About *Trypanosoma rangeli SC58* {#about-trypanosoma-rangeli-sc58 .first}
+About *Trypanosoma rangeli SC58* 
 --------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trypanosoma_rangeli)
+
 
 ***Trypanosoma rangeli*** is a hemoflagellate protozoan parasite species
 of the genus Trypanosoma. Although infecting a variety of mammalian

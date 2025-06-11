@@ -1,7 +1,7 @@
-About *Pseudocercospora fijiensis CIRAD86 (GCA\_000340215)* {#about-pseudocercospora-fijiensis-cirad86-gca_000340215 .first}
+About *Pseudocercospora fijiensis CIRAD86 (GCA\_000340215)* 
 -----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Black_sigatoka)
+
 
 **Black tsigatoka** is a leaf-spot disease of banana plants caused by
 the ascomycete fungus *Mycosphaerella fijiensis* (Morelet). Also known

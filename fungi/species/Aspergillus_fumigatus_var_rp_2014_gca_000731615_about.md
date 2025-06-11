@@ -1,7 +1,7 @@
-About *Aspergillus fumigatus var. RP-2014 (GCA\_000731615)* {#about-aspergillus-fumigatus-var.-rp-2014-gca_000731615 .first}
+About *Aspergillus fumigatus var. RP-2014 (GCA\_000731615)* 
 -----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_fumigatus)
+
 
 ***Aspergillus fumigatus*** is a species of fungus in the genus
 *Aspergillus*, and is one of the most common *Aspergillus* species to

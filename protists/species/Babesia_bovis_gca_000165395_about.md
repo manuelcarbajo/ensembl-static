@@ -1,7 +1,7 @@
-About *Babesia bovis str. T2Bo* {#about-babesia-bovis-str.-t2bo .first}
+About *Babesia bovis str. T2Bo* 
 -------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Babesia_bovis)
+
 
 ***Babesia bovis*** is a single-celled parasite of cattle which
 occasionally infects humans. It is a member of the phylum Apicomplexa,

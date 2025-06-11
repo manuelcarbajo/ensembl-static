@@ -10,8 +10,8 @@ cooperative brood care. The queen is monandrous which means she mates
 with only one male. *B. terrestris* workers learn flower colours and
 forage efficiently.
 
-([Text](http://en.wikipedia.org/wiki/Bombus_terrestris) from
-[Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+([Text](https://en.wikipedia.org/wiki/Bombus_terrestris) from
+[Wikipedia](https://en.wikipedia.org/), the free encyclopaedia.)
 
 Picture credit: [Copyright
 Entomart](https://commons.wikimedia.org/wiki/File:Bombus_terrestris01.jpg)

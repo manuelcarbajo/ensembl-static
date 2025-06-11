@@ -1,7 +1,7 @@
-About *Heterobasidion irregulare TC 32-1* {#about-heterobasidion-irregulare-tc-32-1 .first}
+About *Heterobasidion irregulare TC 32-1* 
 -----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Heterobasidion_irregulare)
+
 
 ***Heterobasidion irregulare*** is a tree root rotting pathogenic fungus
 that belongs to the genus *Heterobasidion*, which includes important

@@ -1,7 +1,7 @@
-About *Ogataea polymorpha str. NCYC 495 leu1.1 (GCA\_001664045)* {#about-ogataea-polymorpha-str.-ncyc-495-leu1.1-gca_001664045 .first}
+About *Ogataea polymorpha str. NCYC 495 leu1.1 (GCA\_001664045)* 
 ----------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Ogataea_polymorpha)
+
 
 ***Ogataea polymorpha*** is a methylotrophic yeast with unusual
 characteristics. It is used as a protein factory for pharmaceuticals.

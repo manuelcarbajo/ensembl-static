@@ -1,7 +1,7 @@
-About *Beauveria bassiana D1-5 (GCA\_000770705)* {#about-beauveria-bassiana-d1-5-gca_000770705 .first}
+About *Beauveria bassiana D1-5 (GCA\_000770705)* 
 ------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Beauveria_bassiana)
+
 
 ***Beauveria bassiana*** is a fungus that grows naturally in soils
 throughout the world and acts as a parasite on various arthropod

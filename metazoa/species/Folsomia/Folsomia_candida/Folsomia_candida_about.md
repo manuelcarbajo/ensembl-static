@@ -6,3 +6,6 @@ standardized soil toxicity test has been developed for this species and
 further details can be obtained from the genome portal
 ([www.collembolomics.nl](http://www.collembolomics.nl)) at the
 Department of Ecological Science, Vrije Universiteit Amsterdam.
+
+Picture credit:
+Andy Murray [Creative Commons Attribution 2.0](https://creativecommons.org/licenses/by-sa/2.0) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Folsomia_candida_(8416640195).jpg)

@@ -1,4 +1,4 @@
-*LlonJ1* gene set
+*LlonJ1.6* gene set
 -----------------
 
-Community annotation patch build for October 2018.
+Community annotation patch build for July 2019.

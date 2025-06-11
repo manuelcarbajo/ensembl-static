@@ -1,7 +1,7 @@
-About *Phaeomoniella chlamydospora (GCA\_001006345)* {#about-phaeomoniella-chlamydospora-gca_001006345 .first}
+About *Phaeomoniella chlamydospora (GCA\_001006345)* 
 ----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Phaeomoniella_chlamydospora)
+
 
 ***Phaeomoniella chlamydospora*** is a fungus species of mitosporic
 ascomycota in the genus *Phaeomoniella*.

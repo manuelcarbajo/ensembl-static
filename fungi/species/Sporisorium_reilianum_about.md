@@ -1,4 +1,4 @@
-About *Sporisorium reilianum* {#about-sporisorium-reilianum .first}
+About *Sporisorium reilianum* 
 -----------------------------
 
 *Sporisorium reilianum* is the causal agent of maize head smut. This

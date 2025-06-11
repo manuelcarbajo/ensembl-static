@@ -1,7 +1,7 @@
-About *Penicillium brasilianum str. LaBioMMi 136 (GCA\_002016555)* {#about-penicillium-brasilianum-str.-labiommi-136-gca_002016555 .first}
+About *Penicillium brasilianum str. LaBioMMi 136 (GCA\_002016555)* 
 ------------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_brasilianum)
+
 
 ***Penicillium brasilianum*** is a fungus species of the genus of
 *Penicillium*. *Penicillium brasilianum* produces the compounds

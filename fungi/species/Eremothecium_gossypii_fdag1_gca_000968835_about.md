@@ -1,7 +1,7 @@
-About *Eremothecium gossypii FDAG1 (GCA\_000968835)* {#about-eremothecium-gossypii-fdag1-gca_000968835 .first}
+About *Eremothecium gossypii FDAG1 (GCA\_000968835)* 
 ----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Eremothecium_gossypii)
+
 
 (also known as **Ashbya gossypii**) is a filamentous fungus or mold
 closely related to yeast, but growing exclusively in a filamentous way.

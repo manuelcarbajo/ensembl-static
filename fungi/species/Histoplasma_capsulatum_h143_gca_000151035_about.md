@@ -1,7 +1,7 @@
-About *Histoplasma capsulatum H143 (GCA\_000151035)* {#about-histoplasma-capsulatum-h143-gca_000151035 .first}
+About *Histoplasma capsulatum H143 (GCA\_000151035)* 
 ----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Histoplasma_capsulatum)
+
 
 ***Histoplasma capsulatum*** is a species of dimorphic fungi.
 

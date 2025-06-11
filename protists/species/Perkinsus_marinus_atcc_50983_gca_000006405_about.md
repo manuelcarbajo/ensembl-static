@@ -1,7 +1,7 @@
-About *Perkinsus marinus ATCC 50983 str. PmCV4CB5 2B3 D4* {#about-perkinsus-marinus-atcc-50983-str.-pmcv4cb5-2b3-d4 .first}
+About *Perkinsus marinus ATCC 50983 str. PmCV4CB5 2B3 D4* 
 ---------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Perkinsus_marinus)
+
 
 ***Perkinsus marinus*** is a species of alveolates belonging to the
 phylum Perkinsozoa. It is known as a prevalent pathogen of oysters,

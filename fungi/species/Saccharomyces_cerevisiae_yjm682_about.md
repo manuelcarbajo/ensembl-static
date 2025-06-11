@@ -1,7 +1,7 @@
-About *Saccharomyces cerevisiae YJM682* {#about-saccharomyces-cerevisiae-yjm682 .first}
+About *Saccharomyces cerevisiae YJM682* 
 ---------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)
+
 
 ***Saccharomyces cerevisiae*** is a species of yeast. It is perhaps the
 most useful yeast, having been instrumental to winemaking, baking, and

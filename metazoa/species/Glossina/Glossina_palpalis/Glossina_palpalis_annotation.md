@@ -1,4 +1,4 @@
-*GpapI1.4* gene set
+*GpapI1.5* gene set
 -------------------
 
-Community annotation patch build for October 2018.
+Community annotation patch build for July 2019.

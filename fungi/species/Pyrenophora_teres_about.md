@@ -1,4 +1,4 @@
-About *Pyrenophora teres* {#about-pyrenophora-teres .first}
+About *Pyrenophora teres* 
 -------------------------
 
 *Pyrenophora teres* is the major cause of \'net blotch\' of barley. It

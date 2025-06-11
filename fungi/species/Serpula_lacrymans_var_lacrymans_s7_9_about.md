@@ -1,7 +1,7 @@
-About *Serpula lacrymans var. lacrymans S7.9* {#about-serpula-lacrymans-var.-lacrymans-s7.9 .first}
+About *Serpula lacrymans var. lacrymans S7.9* 
 ---------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Serpula_lacrymans)
+
 
 ***Serpula lacrymans*** is one of the fungi that causes damage to timber
 referred to as dry rot. It is a basidiomycete in the order Boletales.

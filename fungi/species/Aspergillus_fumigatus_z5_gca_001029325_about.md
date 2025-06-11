@@ -1,7 +1,7 @@
-About *Aspergillus fumigatus Z5 (GCA\_001029325)* {#about-aspergillus-fumigatus-z5-gca_001029325 .first}
+About *Aspergillus fumigatus Z5 (GCA\_001029325)* 
 -------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_fumigatus)
+
 
 ***Aspergillus fumigatus*** is a species of fungus in the genus
 *Aspergillus*, and is one of the most common *Aspergillus* species to

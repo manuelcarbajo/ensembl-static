@@ -1,7 +1,7 @@
-About *Saccharomyces cerevisiae RM11-1a (GCA\_000149365)* {#about-saccharomyces-cerevisiae-rm11-1a-gca_000149365 .first}
+About *Saccharomyces cerevisiae RM11-1a (GCA\_000149365)* 
 ---------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)
+
 
 ***Saccharomyces cerevisiae*** () is a species of yeast. It has been
 instrumental to winemaking, baking, and brewing since ancient times. It

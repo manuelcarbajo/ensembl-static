@@ -1,7 +1,7 @@
-About *Candida parapsilosis str. CDC317 (GCA\_000182765)* {#about-candida-parapsilosis-str.-cdc317-gca_000182765 .first}
+About *Candida parapsilosis str. CDC317 (GCA\_000182765)* 
 ---------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Candida_parapsilosis)
+
 
 ***Candida parapsilosis*** is a fungal species of yeast that has become
 a significant cause of sepsis and of wound and tissue infections in

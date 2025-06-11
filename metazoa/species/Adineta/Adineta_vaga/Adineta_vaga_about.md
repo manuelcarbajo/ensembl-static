@@ -12,8 +12,8 @@ environments by entering a state of desiccation-induced dormancy
 \"ancient asexuals\" due to their unique asexual history that spans back
 to over 25 million years ago through fossil evidence.
 
-([Text](http://en.wikipedia.org/wiki/Bdelloidea) from
-[Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+([Text](https://en.wikipedia.org/wiki/Bdelloidea) from
+[Wikipedia](https://en.wikipedia.org/), the free encyclopaedia.)
 
 Picture credit (CC-BY-NC 3.0): [Rotifer World
 Catalog](http://www.rotifera.hausdernatur.at/Species/Index/2251)

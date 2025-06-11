@@ -1,7 +1,7 @@
-About *Cordyceps militaris CM01* {#about-cordyceps-militaris-cm01 .first}
+About *Cordyceps militaris CM01* 
 --------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Cordyceps_militaris)
+
 
 ***Cordyceps militaris*** is a species of fungus in the family
 Clavicipitaceae, and the type species of the genus *Cordyceps*. It was

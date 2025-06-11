@@ -1,7 +1,7 @@
-About *Colletotrichum sublineola* {#about-colletotrichum-sublineola .first}
+About *Colletotrichum sublineola* 
 ---------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Colletotrichum_sublineolum)
+
 
 ***Colletotrichum sublineolum*** is a plant pathogen that causes
 anthracnose in wild rice and sorghum.

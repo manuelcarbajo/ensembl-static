@@ -1,7 +1,7 @@
-About *Nosema bombycis CQ1 (GCA\_000383075)* {#about-nosema-bombycis-cq1-gca_000383075 .first}
+About *Nosema bombycis CQ1 (GCA\_000383075)* 
 --------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Nosema_(microsporidian)_)
+
 
 ***Nosema*** is a genus of microsporidian parasites. The genus,
 circumscribed by Swiss botanist Karl Wilhelm von Nägeli in 1857,

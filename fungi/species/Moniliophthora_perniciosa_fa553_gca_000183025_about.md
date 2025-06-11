@@ -1,7 +1,7 @@
-About *Moniliophthora perniciosa FA553 (GCA\_000183025)* {#about-moniliophthora-perniciosa-fa553-gca_000183025 .first}
+About *Moniliophthora perniciosa FA553 (GCA\_000183025)* 
 --------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Moniliophthora_perniciosa)
+
 
 ***Moniliophthora perniciosa*** (previously *Crinipellis perniciosa*) is
 a fungus that causes \"witches\' broom disease\" (WBD) of the cocoa tree

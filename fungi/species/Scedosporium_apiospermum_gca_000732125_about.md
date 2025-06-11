@@ -1,7 +1,7 @@
-About *Scedosporium apiospermum str. IHEM 14462 (GCA\_000732125)* {#about-scedosporium-apiospermum-str.-ihem-14462-gca_000732125 .first}
+About *Scedosporium apiospermum str. IHEM 14462 (GCA\_000732125)* 
 -----------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Pseudallescheria_boydii)
+
 
 ***Pseudallescheria boydii*** is a species of fungus classified in the
 Ascomycota. and pseudallescheriasis. Typically found in stagnant and

@@ -1,7 +1,7 @@
-About *Penicillium polonicum (GCA\_002072265)* {#about-penicillium-polonicum-gca_002072265 .first}
+About *Penicillium polonicum (GCA\_002072265)* 
 ----------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_polonicum)
+
 
 ***Penicillium polonicum*** is a species of fungus in the genus
 *Penicillium* which produces penicillic acid, verucosidin, patulin,

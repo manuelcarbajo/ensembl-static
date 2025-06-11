@@ -1,7 +1,7 @@
-About *Saccharomyces cerevisiae YJM978 (GCA\_000976485)* {#about-saccharomyces-cerevisiae-yjm978-gca_000976485 .first}
+About *Saccharomyces cerevisiae YJM978 (GCA\_000976485)* 
 --------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)
+
 
 ***Saccharomyces cerevisiae*** () is a species of yeast. It has been
 instrumental to winemaking, baking, and brewing since ancient times. It

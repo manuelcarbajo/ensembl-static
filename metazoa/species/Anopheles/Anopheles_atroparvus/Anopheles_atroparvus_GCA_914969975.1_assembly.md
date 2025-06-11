@@ -1,0 +1,7 @@
+**Assembly**
+------------------------
+The genome assembly presented here is linked to the assembly accession [[GCA\_914969975.1](http://www.ebi.ac.uk/ena/data/view/GCA_914969975.1)]. This genome assembly was produced as part of the Infravec2 project to study *A. atroparvus*. This material sample is from *A. atroparvus* strain 'EBRE', made available as biological resource for distribution via the Infravec product catalog (https://infravec2.eu/). The assembly produced from a single PacBio SMRT cell (CLR) HIFI library ([ERX6138161](https://www.ebi.ac.uk/ena/browser/view/ERX6138161)). Assembly was generated de-novo on a set of taxonomically pre-filtered genomic reads (Kraken2 [9]), assembled with HIFIasm v0.15 [10] and finally examined with Blobtools [11] to identify and remove potential non Anopheles contaminant scaffolds. 
+
+Redudant/partial mitochondrial scaffolds were removed, retaining the single longest which was rescaffolded and fully annotated with MitoFinder [12]. The finalised assembly is composed of 225 scaffolds, 227.7Mb (8.9% scaffolds > 1Mb; 2.7% scaffolds > 10Mb) with a scaffold N50 of 44.9Mb and an L50 of 3. Draft quality and performance assessed with comparison to a previous Infravec reference assembly for *A. atroparvus* (AatrE3); which itself was 
+generated via rescaffolding of a short read Illumina assembly (AatrE1)[[13]](https://doi.org/10.1186/s12864-018-4663-4). High concordance of 
+chromosomal sequecne overlap was observed between AatrE3 and this reference assembly.

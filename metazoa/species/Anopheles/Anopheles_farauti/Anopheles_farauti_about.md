@@ -90,4 +90,7 @@ sequencing. This tsrain is available from [BEI
 resources.](https://www.beiresources.org)
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-farauti)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000473445.2)
+
+Picture credit: 
+James Gathany, CDC [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Anopheles-farauti.png)

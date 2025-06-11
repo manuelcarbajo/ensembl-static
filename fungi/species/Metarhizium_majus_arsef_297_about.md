@@ -1,7 +1,7 @@
-About *Metarhizium majus ARSEF 297* {#about-metarhizium-majus-arsef-297 .first}
+About *Metarhizium majus ARSEF 297* 
 -----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Metarhizium_majus)
+
 
 ***Metarhizium majus*** is the new name given to a group of fungal
 isolates that are known to be virulent against Scarabaeidae, a family of

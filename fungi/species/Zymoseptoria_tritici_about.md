@@ -1,4 +1,4 @@
-About *Zymoseptoria tritici* {#about-zymoseptoria-tritici .first}
+About *Zymoseptoria tritici* 
 ----------------------------
 
 *Zymoseptoria tritici* (formely known as *Mycosphaerella graminicola*)

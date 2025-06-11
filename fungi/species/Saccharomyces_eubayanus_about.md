@@ -1,7 +1,7 @@
-About *Saccharomyces eubayanus* {#about-saccharomyces-eubayanus .first}
+About *Saccharomyces eubayanus* 
 -------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Saccharomyces_eubayanus)
+
 
 ***Saccharomyces eubayanus***, a type of yeast, is a likely parent of
 the lager brewing yeast, *Saccharomyces pastorianus*.

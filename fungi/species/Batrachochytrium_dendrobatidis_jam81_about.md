@@ -1,7 +1,7 @@
-About *Batrachochytrium dendrobatidis JAM81* {#about-batrachochytrium-dendrobatidis-jam81 .first}
+About *Batrachochytrium dendrobatidis JAM81* 
 --------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Batrachochytrium)
+
 
 ***Batrachochytrium dendrobatidis***, ( ) also known as ***Bd*** or the
 **amphibian chytrid fungus**, is a chytrid fungus that causes the

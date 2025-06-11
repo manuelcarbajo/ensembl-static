@@ -1,7 +1,7 @@
-About *Rosellinia necatrix* {#about-rosellinia-necatrix .first}
+About *Rosellinia necatrix* 
 ---------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Rosellinia_necatrix)
+
 
 ***Rosellinia necatrix*** is a fungal plant pathogen infecting several
 hosts including apples, apricots, avocados, cassava, strawberries,

@@ -1,0 +1,3 @@
+### Annotation
+Gene annotation was performed using the MAKER pipeline (v3.01.02) with 34.1% of the fonio genome masked as repetitive. Transcript sequences of CM05836 from flag leaves, grains, panicles, and whole above-ground seedlings in combination with protein sequences of publicly available plant genomes were used to annotate the CM05836 assembly. This resulted in the annotation of 59,844 protein-coding genes (57,023 on 18 pseudomolecules and 2821 on unanchored chromosome) with an average length of 2.5 kb and an average exon number of 4.6. The analysis of the four CM05836 RNA-seq samples showed that 44,542 protein coding genes (74.3%) were expressed (>0.5 transcripts per million), which is comparable to the annotation of the bread wheat genome.
+

@@ -1,7 +1,7 @@
-About *Hypholoma sublateritium FD-334 SS-4* {#about-hypholoma-sublateritium-fd-334-ss-4 .first}
+About *Hypholoma sublateritium FD-334 SS-4* 
 -------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Hypholoma_lateritium)
+
 
 ***Hypholoma lateritium***, sometimes called **brick cap**, is rarer and
 less well-known than its relatives, the inedible, and poisonous sulfur

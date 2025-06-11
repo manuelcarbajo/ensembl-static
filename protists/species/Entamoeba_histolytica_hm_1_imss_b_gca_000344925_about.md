@@ -1,7 +1,7 @@
-About *Entamoeba histolytica HM-1:IMSS-B str. HM3:IMSS-B* {#about-entamoeba-histolytica-hm-1imss-b-str.-hm3imss-b .first}
+About *Entamoeba histolytica HM-1:IMSS-B str. HM3:IMSS-B* 
 ---------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Entamoeba_histolytica)
+
 
 ***Entamoeba histolytica*** is an anaerobic parasitic amoebozoan, part
 of the genus *Entamoeba*. Predominantly infecting humans and other

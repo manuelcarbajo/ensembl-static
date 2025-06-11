@@ -1,7 +1,7 @@
-About *Setosphaeria turcica Et28A* {#about-setosphaeria-turcica-et28a .first}
+About *Setosphaeria turcica Et28A* 
 ----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Setosphaeria_turcica)
+
 
 ***Setosphaeria turcica*** (anamorph *Exserohilum turcicum*; formerly
 known as *Helminthosporium turcicum*) is the causal agent of northern

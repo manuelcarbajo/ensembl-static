@@ -1,7 +1,7 @@
-About *Rhizophagus irregularis str. A5* {#about-rhizophagus-irregularis-str.-a5 .first}
+About *Rhizophagus irregularis str. A5* 
 ---------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Rhizophagus_irregularis)
+
 
 ***Rhizophagus irregularis*** (previously known as *Glomus
 intraradices*) is an arbuscular mycorrhizal fungus used as a soil

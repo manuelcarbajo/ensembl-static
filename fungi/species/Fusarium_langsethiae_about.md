@@ -1,7 +1,7 @@
-About *Fusarium langsethiae* {#about-fusarium-langsethiae .first}
+About *Fusarium langsethiae* 
 ----------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Fusarium_langsethiae)
+
 
 ***Fusarium langsethiae*** is a species of fungus in the family
 Nectriaceae. It is a suspected plant pathogen. This species was isolated

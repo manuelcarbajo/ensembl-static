@@ -1,4 +1,4 @@
-About *Melampsora larici-populina* {#about-melampsora-larici-populina .first}
+About *Melampsora larici-populina* 
 ----------------------------------
 
 *Melampsora larici-populina* is one of the causal agents of poplar rust,

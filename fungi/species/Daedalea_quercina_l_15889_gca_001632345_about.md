@@ -1,7 +1,7 @@
-About *Daedalea quercina L-15889 (GCA\_001632345)* {#about-daedalea-quercina-l-15889-gca_001632345 .first}
+About *Daedalea quercina L-15889 (GCA\_001632345)* 
 --------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Daedalea_quercina)
+
 
 ***Daedalea quercina*** is a species of mushroom in the order
 Polyporales, and the type species of the genus *Daedalea*. Commonly

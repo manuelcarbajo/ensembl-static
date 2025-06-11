@@ -1,7 +1,7 @@
-About *Metarhizium brunneum ARSEF 3297* {#about-metarhizium-brunneum-arsef-3297 .first}
+About *Metarhizium brunneum ARSEF 3297* 
 ---------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Metarhizium_brunneum)
+
 
 ***Metarhizium brunneum***, is the re-instated name of a group of
 reassigned *Metarhizium* isolates, previously grouped in the species

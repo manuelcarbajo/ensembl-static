@@ -1,7 +1,7 @@
-About *Gloeophyllum trabeum ATCC 11539 (GCA\_000344685)* {#about-gloeophyllum-trabeum-atcc-11539-gca_000344685 .first}
+About *Gloeophyllum trabeum ATCC 11539 (GCA\_000344685)* 
 --------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Gloeophyllum_trabeum)
+
 
 ***Gloeophyllum trabeum*** is a species of fungus in the family
 Gloeophyllaceae.

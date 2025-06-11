@@ -1,7 +1,7 @@
-About *Leishmania mexicana MHOM/GT/2001/U1103* {#about-leishmania-mexicana-mhomgt2001u1103 .first}
+About *Leishmania mexicana MHOM/GT/2001/U1103* 
 ----------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Leishmania_mexicana)
+
 
 \[\[Image:LeishmaniaMexicana Promastigote
 SEM.jpg\|thumb\|right\|250px\|False colour SEM micrograph of

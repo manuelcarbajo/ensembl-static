@@ -1,7 +1,7 @@
-About *Plasmodium reichenowi* {#about-plasmodium-reichenowi .first}
+About *Plasmodium reichenowi* 
 -----------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_reichenowi)
+
 
 **Plasmodium reichenowi** is a malaria parasite that infects
 chimpanzees.

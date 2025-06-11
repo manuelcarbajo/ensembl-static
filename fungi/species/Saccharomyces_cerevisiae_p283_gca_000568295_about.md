@@ -1,7 +1,7 @@
-About *Saccharomyces cerevisiae P283 (GCA\_000568295)* {#about-saccharomyces-cerevisiae-p283-gca_000568295 .first}
+About *Saccharomyces cerevisiae P283 (GCA\_000568295)* 
 ------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)
+
 
 ***Saccharomyces cerevisiae*** () is a species of yeast. It has been
 instrumental to winemaking, baking, and brewing since ancient times. It

@@ -1,7 +1,7 @@
-About *Exidia glandulosa HHB12029 (GCA\_001632375)* {#about-exidia-glandulosa-hhb12029-gca_001632375 .first}
+About *Exidia glandulosa HHB12029 (GCA\_001632375)* 
 ---------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Exidia_glandulosa)
+
 
 ***Exidia glandulosa*** (common names **black witches\' butter**,
 **black jelly roll**, or **warty jelly fungus**) is a jelly fungus in

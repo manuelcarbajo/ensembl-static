@@ -1,7 +1,7 @@
-About *Bipolaris maydis ATCC 48331* {#about-bipolaris-maydis-atcc-48331 .first}
+About *Bipolaris maydis ATCC 48331* 
 -----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Cochliobolus_heterostrophus)
+
 
 ***Cochliobolus heterostrophus*** is a fungal plant pathogen. It can
 cause Southern corn leaf blight in Maize.

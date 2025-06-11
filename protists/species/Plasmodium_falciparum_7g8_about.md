@@ -1,7 +1,7 @@
-About *Plasmodium falciparum 7G8* {#about-plasmodium-falciparum-7g8 .first}
+About *Plasmodium falciparum 7G8* 
 ---------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_falciparum)
+
 
 ***Plasmodium falciparum*** is a protozoan parasite, one of the species
 of *Plasmodium* that cause malaria in humans. It is transmitted by the

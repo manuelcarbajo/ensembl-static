@@ -1,7 +1,7 @@
-About *Coccidioides immitis H538.4* {#about-coccidioides-immitis-h538.4 .first}
+About *Coccidioides immitis H538.4* 
 -----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Coccidioides_immitis)
+
 
 \[\[Image:Coccidioides immitis on Sabouraud\'s
 medium.jpg\|thumb\|right\|200px\|Sputum culture of *Coccidioides

@@ -1,7 +1,7 @@
-About *Zygosaccharomyces bailii ISA1307 (GCA\_000530735)* {#about-zygosaccharomyces-bailii-isa1307-gca_000530735 .first}
+About *Zygosaccharomyces bailii ISA1307 (GCA\_000530735)* 
 ---------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Zygosaccharomyces_bailii)
+
 
 ***Zygosaccharomyces bailii*** is a species in the genus
 *Zygosaccharomyces*. It was initially described as *Saccharomyces

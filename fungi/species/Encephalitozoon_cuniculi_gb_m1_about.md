@@ -1,7 +1,7 @@
-About *Encephalitozoon cuniculi GB-M1* {#about-encephalitozoon-cuniculi-gb-m1 .first}
+About *Encephalitozoon cuniculi GB-M1* 
 --------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Encephalitozoon_cuniculi)
+
 
 ***Encephalitozoon cuniculi*** is a eukaryotic organism belonging to the
 phylum Microsporidia, in the kingdom Fungi. An obligate intracellular

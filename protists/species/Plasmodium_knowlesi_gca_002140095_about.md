@@ -1,7 +1,7 @@
-About *Plasmodium knowlesi str. Malayan Strain Pk1 (A+)* {#about-plasmodium-knowlesi-str.-malayan-strain-pk1-a .first}
+About *Plasmodium knowlesi str. Malayan Strain Pk1 (A+)* 
 --------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_knowlesi)
+
 
 ***Plasmodium knowlesi*** is a primate malaria parasite commonly found
 in Southeast Asia. This is an emerging infection that was reported for

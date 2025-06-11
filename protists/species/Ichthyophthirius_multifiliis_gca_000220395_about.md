@@ -1,7 +1,7 @@
-About *Ichthyophthirius multifiliis str. G5* {#about-ichthyophthirius-multifiliis-str.-g5 .first}
+About *Ichthyophthirius multifiliis str. G5* 
 --------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Ichthyophthirius_multifiliis)
+
 
 ***Ichthyophthirius multifiliis*** is an ectoparasite of freshwater fish
 which causes a disease commonly known as **white spot disease**, or

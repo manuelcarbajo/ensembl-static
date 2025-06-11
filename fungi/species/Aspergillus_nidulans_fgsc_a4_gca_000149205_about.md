@@ -1,7 +1,7 @@
-About *Aspergillus nidulans FGSC A4 (GCA\_000149205)* {#about-aspergillus-nidulans-fgsc-a4-gca_000149205 .first}
+About *Aspergillus nidulans FGSC A4 (GCA\_000149205)* 
 -----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_nidulans)
+
 
 ***Aspergillus nidulans*** (also called ***Emericella nidulans*** when
 referring to its sexual form, or teleomorph) is one of many species of

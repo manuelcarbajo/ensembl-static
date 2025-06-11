@@ -1,3 +1,4 @@
+
 ### References
 
 1.  [Genomics of *Loa loa*, a Wolbachia-free filarial parasite of
@@ -8,3 +9,4 @@
 
 Picture credit: Microfilaria of *L. loa* in a thin blood smear, stained
 with Giemsa (CDC)
+

@@ -1,7 +1,7 @@
-About *Eimeria necatrix* {#about-eimeria-necatrix .first}
+About *Eimeria necatrix* 
 ------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Eimeria_necatrix)
+
 
 ***Eimeria necatrix*** is a species of *Eimeria* that causes very severe
 intestinal coccidiosis in older poultry characterized by congestion,

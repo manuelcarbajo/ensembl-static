@@ -58,8 +58,8 @@ Coari. Gravid females were allowed to spawn and DNA extracted from 4th
 stage larvae.
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-darlingi)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000211455.3)
 
-Picture credit (public domain): [Wikimedia
+Picture credit (public domain): James Gathany, CDC [Wikimedia
 Commons](http://commons.wikimedia.org/wiki/File:Anophelesdarlingi.jpg)
 2011

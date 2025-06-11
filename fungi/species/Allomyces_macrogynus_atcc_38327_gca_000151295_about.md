@@ -1,7 +1,7 @@
-About *Allomyces macrogynus ATCC 38327 (GCA\_000151295)* {#about-allomyces-macrogynus-atcc-38327-gca_000151295 .first}
+About *Allomyces macrogynus ATCC 38327 (GCA\_000151295)* 
 --------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Allomyces_macrogynus)
+
 
 ***Allomyces macrogynus*** is a species of fungus in the family
 Blastocladiaceae. It was first described by mycologist Ralph Emerson in

@@ -1,7 +1,7 @@
-About *Penicillium camemberti FM 013* {#about-penicillium-camemberti-fm-013 .first}
+About *Penicillium camemberti FM 013* 
 -------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_camemberti)
+
 
 ***Penicillium camemberti*** is a species of fungus in the family
 Trichocomaceae. It is used in the production of Camembert, Brie,

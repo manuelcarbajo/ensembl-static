@@ -7,8 +7,8 @@ mostly on salmon, particularly on Pacific salmon, but is also sometimes
 found on the three-spined stickleback. It lives off the mucus, skin and
 blood of the fish.
 
-([Text](http://en.wikipedia.org/wiki/Salmon_louse) from
-[Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+([Text](https://en.wikipedia.org/wiki/Salmon_louse) from
+[Wikipedia](https://en.wikipedia.org/), the free encyclopaedia.)
 
 Picture credit (Creative Commons BY-NC-SA): [BIO Photography
 Group](http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=24355)

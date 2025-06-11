@@ -1,7 +1,7 @@
-About *Pneumocystis jirovecii RU7* {#about-pneumocystis-jirovecii-ru7 .first}
+About *Pneumocystis jirovecii RU7* 
 ----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Pneumocystis_jirovecii)
+
 
 ***Pneumocystis jirovecii*** is a yeast-like fungus of the genus
 *Pneumocystis*. The causative organism of *Pneumocystis* pneumonia, it

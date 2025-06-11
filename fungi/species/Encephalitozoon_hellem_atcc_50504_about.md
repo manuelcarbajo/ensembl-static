@@ -1,7 +1,7 @@
-About *Encephalitozoon hellem ATCC 50504* {#about-encephalitozoon-hellem-atcc-50504 .first}
+About *Encephalitozoon hellem ATCC 50504* 
 -----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Microsporidiosis_)
+
 
 **Microsporidiosis** is an opportunistic intestinal infection that
 causes diarrhea and wasting in immunocompromised individuals (HIV, for

@@ -1,7 +1,7 @@
-About *Vitrella brassicaformis CCMP3155* {#about-vitrella-brassicaformis-ccmp3155 .first}
+About *Vitrella brassicaformis CCMP3155* 
 ----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Vitrella_brassicaformis)
+
 
 ***Vitrella brassicaformis***, also known as a \'chromerid\', is a
 species of protist isolated from the Great Barrier Reef. Its closest

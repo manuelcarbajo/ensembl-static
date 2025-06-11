@@ -1,7 +1,7 @@
-About *Zygosaccharomyces bailii CLIB 213 (GCA\_000442885)* {#about-zygosaccharomyces-bailii-clib-213-gca_000442885 .first}
+About *Zygosaccharomyces bailii CLIB 213 (GCA\_000442885)* 
 ----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Zygosaccharomyces_bailii)
+
 
 ***Zygosaccharomyces bailii*** is a species in the genus
 *Zygosaccharomyces*. It was initially described as *Saccharomyces

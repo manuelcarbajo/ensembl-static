@@ -9,9 +9,11 @@ release parasites in their faeces immediately after a blood meal.
 Infection occurs after the human host scratches the bite area, thus
 transferring parasites into the bite wound.
 
-Picture credit (public domain): [Dr. Erwin
-Huebner](http://commons.wikimedia.org/wiki/File:Rhodnius_prolixus70-300.jpg)
+Picture credit [Public domain](https://commons.wikimedia.org/wiki/Main_Page): [Dr. Erwin
+Huebner via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rhodnius_prolixus70-300.jpg)
 2009\
+
+Taxonomy ID [13249](https://www.uniprot.org/taxonomy/13249)
 
 Strain CDC\
 The *Rhodnius prolixus* CDC strain from the colony at the Centers for

@@ -1,7 +1,7 @@
-About *Blumeria graminis f. sp. tritici 96224 (GCA\_000418435)* {#about-blumeria-graminis-f.-sp.-tritici-96224-gca_000418435 .first}
+About *Blumeria graminis f. sp. tritici 96224 (GCA\_000418435)* 
 ---------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Blumeria_graminis)
+
 
 ***Blumeria graminis*** (commonly called **barley powdery mildew** or
 **corn mildew**) is a fungus that causes powdery mildew on grasses,

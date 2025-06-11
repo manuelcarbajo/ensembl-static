@@ -1,7 +1,7 @@
-About *Purpureocillium lilacinum (GCA\_001653205)* {#about-purpureocillium-lilacinum-gca_001653205 .first}
+About *Purpureocillium lilacinum (GCA\_001653205)* 
 --------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Purpureocillium_lilacinum)
+
 
 ***Purpureocillium lilacinum*** is a species of filamentous fungus in
 the family Ophiocordycipitaceae. *P. lilacinum* has shown promising

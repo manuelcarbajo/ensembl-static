@@ -1,7 +1,7 @@
-About *Blastomyces dermatitidis ER-3 (GCA\_000003525)* {#about-blastomyces-dermatitidis-er-3-gca_000003525 .first}
+About *Blastomyces dermatitidis ER-3 (GCA\_000003525)* 
 ------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Blastomyces_dermatitidis)
+
 
 ***Blastomyces dermatitidis*** is the causal agent of blastomycosis, an
 invasive and often serious fungal infection found occasionally in humans

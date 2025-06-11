@@ -1,7 +1,7 @@
-About *Fusarium oxysporum f. sp. lycopersici 4287 (GCA\_000149955)* {#about-fusarium-oxysporum-f.-sp.-lycopersici-4287-gca_000149955 .first}
+About *Fusarium oxysporum f. sp. lycopersici 4287 (GCA\_000149955)* 
 -------------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Fusarium_oxysporum)
+
 
 ***Fusarium oxysporum*** (Schlecht as emended by Snyder and Hansen), an
 ascomycete fungus, comprises all the species, varieties and forms

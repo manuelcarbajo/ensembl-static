@@ -1,7 +1,7 @@
-About *Mucor circinelloides f. circinelloides 1006PhL (GCA\_000401635)* {#about-mucor-circinelloides-f.-circinelloides-1006phl-gca_000401635 .first}
+About *Mucor circinelloides f. circinelloides 1006PhL (GCA\_000401635)* 
 -----------------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Mucor_circinelloides)
+
 
 ***Mucor circinelloides*** is a dimorphic fungus belonging to the Order
 Mucorales (Division Mucormycota). It has a worldwide distribution, found

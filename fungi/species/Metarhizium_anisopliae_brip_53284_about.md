@@ -1,7 +1,7 @@
-About *Metarhizium anisopliae BRIP 53284* {#about-metarhizium-anisopliae-brip-53284 .first}
+About *Metarhizium anisopliae BRIP 53284* 
 -----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Metarhizium_anisopliae)
+
 
 ***Metarhizium anisopliae***, formerly known as *Entomophthora
 anisopliae* (basionym), is a fungus that grows naturally in soils

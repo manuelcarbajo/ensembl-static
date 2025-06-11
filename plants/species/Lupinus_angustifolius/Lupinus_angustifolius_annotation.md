@@ -12,5 +12,6 @@ whole-genome assembly. Proteogenomic comparison of peptide-mapping
 versus gene annotation supported between 94 and 1134 annotations per
 tissue type, and provided valuable information on tissue localisation
 for the products of these genes. InterPro terms were the most
-informative functional annotation assigned to NLL proteins with 26,580
-(80.4%) proteins annotated.
+informative functional annotation.
+
+Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). Repeats length: 259903442 - Repeats content: 42.6%

@@ -1,7 +1,7 @@
-About *Nematocida parisii ERTm3 (GCA\_000190615)* {#about-nematocida-parisii-ertm3-gca_000190615 .first}
+About *Nematocida parisii ERTm3 (GCA\_000190615)* 
 -------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Nematocida_parisii)
+
 
 ***Nematocida parisii***, the nematode-killer from Paris, is a species
 of Microsporidia fungi. It is found in wild isolates of *Caenorhabditis

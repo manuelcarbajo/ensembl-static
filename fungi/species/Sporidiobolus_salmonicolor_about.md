@@ -1,7 +1,7 @@
-About *Sporidiobolus salmonicolor* {#about-sporidiobolus-salmonicolor .first}
+About *Sporidiobolus salmonicolor* 
 ----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Sporidiobolus_salmonicolor)
+
 
 ***Sporoidiobolus salmonicolor*** is a yeast-like fungus in the
 Basidiomycota more commonly known by the name of its asexual yeast-like

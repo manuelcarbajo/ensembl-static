@@ -1,7 +1,7 @@
-About *Cladophialophora carrionii str. KSF (GCA\_001700775)* {#about-cladophialophora-carrionii-str.-ksf-gca_001700775 .first}
+About *Cladophialophora carrionii str. KSF (GCA\_001700775)* 
 ------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Cladophialophora_carrionii)
+
 
 ***Cladophialophora carrionii*** is a melanized fungus in the genus
 *Cladophialophora* that is associated with decaying plant material like

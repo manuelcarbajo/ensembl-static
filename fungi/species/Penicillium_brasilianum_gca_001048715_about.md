@@ -1,7 +1,7 @@
-About *Penicillium brasilianum str. MG11 (GCA\_001048715)* {#about-penicillium-brasilianum-str.-mg11-gca_001048715 .first}
+About *Penicillium brasilianum str. MG11 (GCA\_001048715)* 
 ----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_brasilianum)
+
 
 ***Penicillium brasilianum*** is a fungus species of the genus of
 *Penicillium*. *Penicillium brasilianum* produces the compounds

@@ -1,7 +1,7 @@
-About *Nosema apis BRL 01 (GCA\_000447185)* {#about-nosema-apis-brl-01-gca_000447185 .first}
+About *Nosema apis BRL 01 (GCA\_000447185)* 
 -------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Nosema_apis)
+
 
 ***Nosema apis*** is a microsporidian, a small, unicellular parasite
 recently reclassified as a fungus that mainly affects honey bees. It

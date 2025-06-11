@@ -1,7 +1,7 @@
-About *Aspergillus lentulus (GCA\_001445615)* {#about-aspergillus-lentulus-gca_001445615 .first}
+About *Aspergillus lentulus (GCA\_001445615)* 
 ---------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_lentulus)
+
 
 ***Aspergillus lentulus*** is a species of *Aspergillus* fungus. It is a
 close relative of *Aspergillus fumigatus*. It has smaller conidial heads

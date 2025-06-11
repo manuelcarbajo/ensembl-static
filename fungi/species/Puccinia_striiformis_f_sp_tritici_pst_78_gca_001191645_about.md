@@ -1,7 +1,7 @@
-About *Puccinia striiformis f. sp. tritici PST-78 (GCA\_001191645)* {#about-puccinia-striiformis-f.-sp.-tritici-pst-78-gca_001191645 .first}
+About *Puccinia striiformis f. sp. tritici PST-78 (GCA\_001191645)* 
 -------------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Puccinia_striiformis_var._striiformis)
+
 
 ***Puccinia striiformis* var. *striiformis*** is a plant pathogen. It
 causes stripe rust on wheat, but has other hosts as well. The species is

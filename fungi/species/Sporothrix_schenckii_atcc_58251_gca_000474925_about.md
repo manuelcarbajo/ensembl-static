@@ -1,7 +1,7 @@
-About *Sporothrix schenckii ATCC 58251 (GCA\_000474925)* {#about-sporothrix-schenckii-atcc-58251-gca_000474925 .first}
+About *Sporothrix schenckii ATCC 58251 (GCA\_000474925)* 
 --------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Sporothrix_schenckii)
+
 
 ***Sporothrix schenckii*** is a fungus that can be found worldwide in
 the environment. The species is present in soil as well as in and on

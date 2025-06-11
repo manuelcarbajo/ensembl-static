@@ -1,7 +1,7 @@
-About *Grifola frondosa str. 9006-11 (GCA\_001683735)* {#about-grifola-frondosa-str.-9006-11-gca_001683735 .first}
+About *Grifola frondosa str. 9006-11 (GCA\_001683735)* 
 ------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Grifola_frondosa)
+
 
 ***Grifola frondosa*** is a polypore mushroom that grows in clusters at
 the base of trees, particularly oaks. The mushroom is commonly known

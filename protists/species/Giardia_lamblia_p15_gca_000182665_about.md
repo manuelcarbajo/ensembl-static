@@ -1,7 +1,7 @@
-About *Giardia lamblia P15* {#about-giardia-lamblia-p15 .first}
+About *Giardia lamblia P15* 
 ---------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Giardia_lamblia)
+
 
 ***Giardia lamblia***, also known as ***Giardia intestinalis***, is a
 flagellated parasitic microorganism, that colonizes and reproduces in

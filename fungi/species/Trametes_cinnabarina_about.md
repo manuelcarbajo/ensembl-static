@@ -1,7 +1,7 @@
-About *Trametes cinnabarina* {#about-trametes-cinnabarina .first}
+About *Trametes cinnabarina* 
 ----------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trametes_cinnabarina)
+
 
 1.  redirectPycnoporus sanguineus
 

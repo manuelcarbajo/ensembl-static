@@ -1,7 +1,7 @@
-About *Verticillium longisporum (GCA\_001268165)* {#about-verticillium-longisporum-gca_001268165 .first}
+About *Verticillium longisporum (GCA\_001268165)* 
 -------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Verticillium_longisporum)
+
 
 ***Verticillium longisporum,*** also known as Verticillium Wilt, is a
 fungal plant pathogen that commonly infects canola. *V. longisporum* can

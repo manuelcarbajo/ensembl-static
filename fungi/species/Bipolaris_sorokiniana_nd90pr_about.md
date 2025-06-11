@@ -1,7 +1,7 @@
-About *Bipolaris sorokiniana ND90Pr* {#about-bipolaris-sorokiniana-nd90pr .first}
+About *Bipolaris sorokiniana ND90Pr* 
 ------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Cochliobolus_sativus)
+
 
 The fungus ***Cochliobolus sativus*** is the teleomorph (sexual stage)
 of ***Bipolaris sorokiniana*** (anamorph) which is the causal agent of a

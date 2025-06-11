@@ -1,7 +1,7 @@
-About *Cryptosporidium parvum* {#about-cryptosporidium-parvum .first}
+About *Cryptosporidium parvum* 
 ------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Cryptosporidium_parvum)
+
 
 ***Cryptosporidium parvum*** is one of several protozoal species that
 cause cryptosporidiosis, a parasitic disease of the mammalian intestinal

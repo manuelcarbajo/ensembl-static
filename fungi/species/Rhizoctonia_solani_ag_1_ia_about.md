@@ -1,7 +1,7 @@
-About *Rhizoctonia solani AG-1 IA* {#about-rhizoctonia-solani-ag-1-ia .first}
+About *Rhizoctonia solani AG-1 IA* 
 ----------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Rhizoctonia_solani)
+
 
 ***Rhizoctonia solani*** (teleomorph: ***Thanatephorus* spp.**) is a
 plant pathogenic fungus with a wide host range and worldwide

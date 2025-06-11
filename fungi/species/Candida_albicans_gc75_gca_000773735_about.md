@@ -1,7 +1,7 @@
-About *Candida albicans GC75 (GCA\_000773735)* {#about-candida-albicans-gc75-gca_000773735 .first}
+About *Candida albicans GC75 (GCA\_000773735)* 
 ----------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Candida_albicans)
+
 
 ***Candida albicans*** is an opportunistic pathogenic yeast It is one of
 the few species of the genus *Candida* that causes the human infection

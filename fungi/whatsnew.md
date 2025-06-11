@@ -1,8 +1,21 @@
 - Genomes
-    - EnsemblFungi currently has 1014 genomes in total
-		- No new or updated genomes from last release
+  - EnsemblFungi has 1504 genomes
 
-- Updated data
-    - Updated protein features for all species using [InterProScan](http://www.ebi.ac.uk/interpro/search/sequence-search) with version 88 of [InterPro](https://www.ebi.ac.uk/interpro/)
-    - Updated BioMarts for all gene and variation data
-    - Updated pan-taxonomic gene trees and homologies
+- In release 61, the following genomes were updated with data from [VEuPathDB](https://veupathdb.org/veupathdb/app)
+  - [*Aspergillus fischeri*](https://fungi.ensembl.org/Aspergillus_fischeri)  (GCA_000149645.4, previously known as _Neosartorya fischeri_)
+  - [*Aspergillus flavus NRRL3357*](https://fungi.ensembl.org/Aspergillus_flavus) (GCA_000006275.3)
+  - [*Aspergillus fumigatus*](https://fungi.ensembl.org/Aspergillus_fumigatus) (GCA_000002655.1)
+  - [*Aspergillus lentulus*](https://fungi.ensembl.org/Aspergillus_lentulus) (GCA_001445615.2)
+  - [*Fusarium graminearum*](https://fungi.ensembl.org/Fusarium_graminearum) (GCA_900044135.1)
+  - [*Mucor lusitanicus*](https://fungi.ensembl.org/Mucor_lusitanicus) (GCA_001638945.1)
+  - [*Puccinia triticina*](https://fungi.ensembl.org/Puccinia_triticina) (GCA_000151525.2)
+  - [*Schizophyllum commune*](https://fungi.ensembl.org/Schizophyllum_commune) (GCA_000143185.2)
+  - [*Trichoderma reesei*](https://fungi.ensembl.org/Trichoderma_reesei) (GCA_000167675.2)
+
+- Other data
+  - Updated BioMarts for gene and variation data
+  - Updated pan-taxonomic gene trees and homologies
+  - Updated fungal gene trees and homologies
+  - Updated annotation of molecular interactions involving fungal genes
+  - Updated protein features for all species using [InterProScan](https://www.ebi.ac.uk/interpro/)
+  - Updated taxonomic classification of various species to reflect the latest changes from [NCBI](https://www.ncbi.nlm.nih.gov/taxonomy)

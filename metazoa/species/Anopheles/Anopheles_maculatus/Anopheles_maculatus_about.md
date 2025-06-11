@@ -76,4 +76,4 @@ performed on preserved females donated by Lee Han Lim. No colony is
 available.
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-maculatus)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000473185.1)

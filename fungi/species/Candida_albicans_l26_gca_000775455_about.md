@@ -1,7 +1,7 @@
-About *Candida albicans L26 (GCA\_000775455)* {#about-candida-albicans-l26-gca_000775455 .first}
+About *Candida albicans L26 (GCA\_000775455)* 
 ---------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Candida_albicans)
+
 
 ***Candida albicans*** is an opportunistic pathogenic yeast It is one of
 the few species of the genus *Candida* that causes the human infection

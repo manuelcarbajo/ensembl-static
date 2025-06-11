@@ -1,7 +1,7 @@
-About *Saccharomyces cerevisiae Vin13* {#about-saccharomyces-cerevisiae-vin13 .first}
+About *Saccharomyces cerevisiae Vin13* 
 --------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)
+
 
 ***Saccharomyces cerevisiae*** is a species of yeast. It has been
 instrumental to winemaking, baking, and brewing since ancient times. It

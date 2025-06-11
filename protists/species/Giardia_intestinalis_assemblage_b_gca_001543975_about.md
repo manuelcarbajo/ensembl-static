@@ -1,7 +1,7 @@
-About *Giardia intestinalis assemblage B str. BAH15c1* {#about-giardia-intestinalis-assemblage-b-str.-bah15c1 .first}
+About *Giardia intestinalis assemblage B str. BAH15c1* 
 ------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Giardia_lamblia)
+
 
 ***Giardia lamblia***, also known as ***Giardia intestinalis***, is a
 flagellated parasitic microorganism, that colonizes and reproduces in

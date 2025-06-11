@@ -1,7 +1,7 @@
-About *Scedosporium apiospermum* {#about-scedosporium-apiospermum .first}
+About *Scedosporium apiospermum* 
 --------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Pseudallescheria_boydii)
+
 
 ***Pseudallescheria boydii*** is a species of fungus classified in the
 Ascomycota. and pseudallescheriasis. Typically found in stagnant and

@@ -1,7 +1,7 @@
-About *Aspergillus candidus str. CBS 102.13 (GCA\_002847045)* {#about-aspergillus-candidus-str.-cbs-102.13-gca_002847045 .first}
+About *Aspergillus candidus str. CBS 102.13 (GCA\_002847045)* 
 -------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_candidus)
+
 
 ***Aspergillus candidus*** is a white-spored species of *Aspergillus*.
 Despite its lack of pigmentation, it is closely related to the most

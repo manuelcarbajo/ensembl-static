@@ -1,7 +1,7 @@
-About *Phytophthora cactorum str. 10300* {#about-phytophthora-cactorum-str.-10300 .first}
+About *Phytophthora cactorum str. 10300* 
 ----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Phytophthora_cactorum)
+
 
 ***Phytophthora cactorum*** is a plant pathogen that causes root rot on
 rhododendron and many other species.

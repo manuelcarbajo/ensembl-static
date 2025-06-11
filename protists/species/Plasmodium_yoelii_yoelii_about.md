@@ -1,7 +1,7 @@
-About *Plasmodium yoelii yoelii* {#about-plasmodium-yoelii-yoelii .first}
+About *Plasmodium yoelii yoelii* 
 --------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_yoelii)
+
 
 ***Plasmodium yoelii*** is a parasite of the genus *Plasmodium* subgenus
 *Vinckeia*.

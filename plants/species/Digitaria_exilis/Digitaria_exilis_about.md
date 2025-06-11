@@ -1,0 +1,4 @@
+About *Digitaria exilis*
+---------------------
+White fonio (*Digitaria exilis* (Kippist) Stapf) is an indigenous West African millet species with a great potential for agriculture in marginal environments. Fonio is a small annual herbaceous C4 plant, which produces very small (∼1 mm) grains that are tightly surrounded by a husk. Fonio is cultivated under a large range of environmental conditions, from a tropical monsoon climate in western Guinea to a hot, arid desert climate in the Sahel zone. Some extra-early maturing fonio varieties produce mature grains in only 70–90 days, which makes fonio one of the fastest maturing cereals. Because of its quick maturation, fonio is often grown to avoid food shortage during the lean season (period before main harvest), which is why fonio is also referred to as ‘hungry rice’. In addition, fonio is drought tolerant and adapted to nutrient-poor, sandy soils.
+

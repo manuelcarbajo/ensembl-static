@@ -1,7 +1,7 @@
-About *Malassezia sympodialis ATCC 42132* {#about-malassezia-sympodialis-atcc-42132 .first}
+About *Malassezia sympodialis ATCC 42132* 
 -----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Malassezia_sympodialis)
+
 
 ***Malassezia sympodialis*** is a fungus which can cause opportunistic
 infections in animals, such as atopic eczema and granulomatous

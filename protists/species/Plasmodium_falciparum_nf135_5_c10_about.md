@@ -1,7 +1,7 @@
-About *Plasmodium falciparum NF135/5.C10* {#about-plasmodium-falciparum-nf1355.c10 .first}
+About *Plasmodium falciparum NF135/5.C10* 
 -----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_falciparum)
+
 
 ***Plasmodium falciparum*** is a protozoan parasite, one of the species
 of *Plasmodium* that cause malaria in humans. It is transmitted by the

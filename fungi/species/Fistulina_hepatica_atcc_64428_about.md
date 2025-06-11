@@ -1,7 +1,7 @@
-About *Fistulina hepatica ATCC 64428* {#about-fistulina-hepatica-atcc-64428 .first}
+About *Fistulina hepatica ATCC 64428* 
 -------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Fistulina_hepatica)
+
 
 ***Fistulina hepatica*** (**beefsteak fungus**, also known as
 **beefsteak polypore** or **ox tongue**) is an unusual bracket fungus

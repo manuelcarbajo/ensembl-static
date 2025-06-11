@@ -9,6 +9,12 @@ major vector of *American visceral leishmaniasis*. Studies suggest that
 *L. longipalpis* may be a single heterogeneous species or a species
 complex.
 
+Picture credit: Ray Wilson, Liverpool School of Tropical Medicine
+ - (2009) PLoS Pathogens Issue Image - Vol. 5(8) August 2009. PLoS Pathog 5(8): ev05.i08.
+[//doi.org/10.1371/image.ppat.v05.i08](https://doi.org/10.1371/image.ppat.v05.i08)
+[CC BY 2.5](https://creativecommons.org/licenses/by/2.5) 
+via [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=7805367)
+
 *Jacobina* strain
 -----------------
 
@@ -32,4 +38,4 @@ species. This knowledge is vital to understand the epidemiology and
 control of this neglected disease in South and Central America
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/lutzomyia-longipalpis)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000265325.1)

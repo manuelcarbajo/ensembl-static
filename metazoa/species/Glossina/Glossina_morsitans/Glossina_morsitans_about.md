@@ -23,6 +23,8 @@ Mozambique, Zimbabwe, Zambia and Malawi. The boundary separating the two
 subspecies *G. morsitans centralis* and *G. morsitans morsitans*
 corresponds roughly with the Atlantic/Indian Ocean watershed.
 
+Taxonomy ID [37546](https://www.uniprot.org/taxonomy/37546)
+
 *Yale* strain
 -------------
 
@@ -33,4 +35,7 @@ in the [Aksoy
 lab](http://medicine.yale.edu/lab/aksoy/ "http://medicine.yale.edu/labs/aksoy/").
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/glossina-morsitans)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_001077435.1)
+
+Picture credit:
+Geoffrey M. Attardo [Creative Commons Attribution 2.5](https://creativecommons.org/licenses/by-sa/2.5) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Glossina_morsitans_morsitans-pregnant_female.jpg)

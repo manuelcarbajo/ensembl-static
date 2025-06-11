@@ -1,7 +1,7 @@
-About *Baudoinia compniacensis UAMH 10762* {#about-baudoinia-compniacensis-uamh-10762 .first}
+About *Baudoinia compniacensis UAMH 10762* 
 ------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Baudoinia_compniacensis)
+
 
 ***Baudoinia compniacensis*** is a sac fungus that has been observed on
 a wide range of substrates in the vicinity of distilleries, spirits

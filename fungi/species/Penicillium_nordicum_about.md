@@ -1,7 +1,7 @@
-About *Penicillium nordicum* {#about-penicillium-nordicum .first}
+About *Penicillium nordicum* 
 ----------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_nordicum)
+
 
 ***Penicillium nordicum*** is an anamorph species of the genus of
 *Penicillium* which produces ochratoxin A.

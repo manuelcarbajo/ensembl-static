@@ -50,4 +50,7 @@ isofemale selection was performed prior to genome sequencing. This
 strain is available from [BEI resources](http://www.beiresources.org/).
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-merus)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000473845.2)
+
+Picture credit: 
+James Gathany, CDC [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Anopheles-merus.png)

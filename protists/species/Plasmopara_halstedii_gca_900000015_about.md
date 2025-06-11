@@ -1,7 +1,7 @@
-About *Plasmopara halstedii* {#about-plasmopara-halstedii .first}
+About *Plasmopara halstedii* 
 ----------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmopara_halstedii)
+
 
 ***Plasmopara halstedii*** is a plant pathogen infecting sunflowers. The
 species is one of many pathogens commonly referred to as downy mildew.

@@ -1,10 +1,8 @@
 Assembly
 --------
 
-Ensembl Metazoa uses the Berkeley Drosophila Genome Project
-([BDGP](http://www.fruitfly.org)) assembly [release
-6](http://flybase.org/static_pages/feature/previous/articles/2014_07/FB2014_04.html)
-(July 2014). In contrast to release 5, regions without a chromosome
-assignment are stored as distinct scaffolds, rather than on a single
-pseudo-chromosome, and heterochromatin regions are incorporated in the
-chromosomal arms.
+The assembly presented here has been imported from [INSDC](http://www.insdc.org) and is linked to the assembly accession [[GCA\_000001215.4](http://www.ebi.ac.uk/ena/data/view/GCA_000001215.4)].
+
+The total length of the assembly is 143706478 bp contained within 1869 scaffolds.
+The scaffold N50 value is 25286936, the scaffold L50 value is 3.
+The GC% content of the assembly is 42.0%.

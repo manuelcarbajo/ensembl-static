@@ -1,7 +1,7 @@
-About *Kluyveromyces lactis str. NRRL Y-1140 (GCA\_000002515)* {#about-kluyveromyces-lactis-str.-nrrl-y-1140-gca_000002515 .first}
+About *Kluyveromyces lactis str. NRRL Y-1140 (GCA\_000002515)* 
 --------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Kluyveromyces_lactis)
+
 
 ***Kluyveromyces lactis*** is a *Kluyveromyces* yeast commonly used for
 genetic studies and industrial applications. Its name comes from the

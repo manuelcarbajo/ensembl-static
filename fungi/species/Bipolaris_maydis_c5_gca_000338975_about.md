@@ -1,7 +1,7 @@
-About *Bipolaris maydis C5 (GCA\_000338975)* {#about-bipolaris-maydis-c5-gca_000338975 .first}
+About *Bipolaris maydis C5 (GCA\_000338975)* 
 --------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Cochliobolus_heterostrophus)
+
 
 ***Cochliobolus heterostrophus*** is a fungal plant pathogen. It can
 cause southern corn leaf blight in maize.

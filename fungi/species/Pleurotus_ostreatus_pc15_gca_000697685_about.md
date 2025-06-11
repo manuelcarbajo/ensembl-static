@@ -1,7 +1,7 @@
-About *Pleurotus ostreatus PC15 (GCA\_000697685)* {#about-pleurotus-ostreatus-pc15-gca_000697685 .first}
+About *Pleurotus ostreatus PC15 (GCA\_000697685)* 
 -------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Pleurotus_ostreatus)
+
 
 ***Pleurotus ostreatus***, the **oyster mushroom**, is a common edible
 mushroom. It was first cultivated in Germany as a subsistence measure

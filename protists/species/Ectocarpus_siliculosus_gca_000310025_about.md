@@ -1,7 +1,7 @@
-About *Ectocarpus siliculosus str. Ec 32 (CCAP 1310/04)* {#about-ectocarpus-siliculosus-str.-ec-32-ccap-131004 .first}
+About *Ectocarpus siliculosus str. Ec 32 (CCAP 1310/04)* 
 --------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Ectocarpus_siliculosus)
+
 
 ***Ectocarpus siliculosus*** is a filamentous brown alga
 (Heterokontophyta). Its genome was the first brown macroalgal genome to

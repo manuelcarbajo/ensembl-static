@@ -1,7 +1,7 @@
-About *Trichophyton interdigitale H6 (GCA\_000616785)* {#about-trichophyton-interdigitale-h6-gca_000616785 .first}
+About *Trichophyton interdigitale H6 (GCA\_000616785)* 
 ------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trichophyton_interdigitale)
+
 
 ***Trichophyton interdigitale*** is a species of *Trichophyton*. It can
 produce penicillin.

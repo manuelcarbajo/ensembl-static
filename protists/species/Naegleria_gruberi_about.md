@@ -1,7 +1,7 @@
-About *Naegleria gruberi* {#about-naegleria-gruberi .first}
+About *Naegleria gruberi* 
 -------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Naegleria_gruberi)
+
 
 ***Naegleria gruberi*** is a species of *Naegleria*. It is famous for
 its ability to change from an amoeba, which lacks a cytoplasmic

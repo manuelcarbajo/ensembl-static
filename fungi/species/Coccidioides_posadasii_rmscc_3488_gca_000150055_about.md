@@ -1,7 +1,7 @@
-About *Coccidioides posadasii RMSCC 3488 (GCA\_000150055)* {#about-coccidioides-posadasii-rmscc-3488-gca_000150055 .first}
+About *Coccidioides posadasii RMSCC 3488 (GCA\_000150055)* 
 ----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Coccidioides_posadasii)
+
 
 ***Coccidioides posadasii*** is a pathogenic fungus that, along with
 *Coccidioides immitis*, is the causative agent of coccidioidomycosis, or

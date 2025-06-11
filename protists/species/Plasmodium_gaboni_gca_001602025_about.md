@@ -1,7 +1,7 @@
-About *Plasmodium gaboni* {#about-plasmodium-gaboni .first}
+About *Plasmodium gaboni* 
 -------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_gaboni)
+
 
 ***Plasmodium gaboni*** is a parasite of the genus *Plasmodium* subgenus
 *Laverania*.

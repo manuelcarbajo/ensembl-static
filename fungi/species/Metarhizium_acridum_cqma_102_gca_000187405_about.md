@@ -1,7 +1,7 @@
-About *Metarhizium acridum CQMa 102 (GCA\_000187405)* {#about-metarhizium-acridum-cqma-102-gca_000187405 .first}
+About *Metarhizium acridum CQMa 102 (GCA\_000187405)* 
 -----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Metarhizium_acridum)
+
 
 ***Metarhizium acridum*** is the new name given to a group of fungal
 isolates that are known to be virulent and specific to the Acrididea.

@@ -1,7 +1,7 @@
-About *Penicillium freii* {#about-penicillium-freii .first}
+About *Penicillium freii* 
 -------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_freii)
+
 
 ***Penicillium freii*** is a psychrophilic species of the genus of
 *Penicillium* which produces xanthomegnin and patulin. *Penicillium

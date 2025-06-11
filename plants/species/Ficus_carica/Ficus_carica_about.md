@@ -1,0 +1,4 @@
+About *Ficus carica*
+------------------------
+
+The fig tree (*Ficus carica L.*, *Moraceae*) is a heterozygous diploid (2n=2x=26) species widely grown for its fruit throughout the temperate world. This crop is one of the oldest known domesticated species. Fig has valuable nutritional characteristics and the ability to adapt to marginal soils and difficult environmental conditions. However, rapid perishability of its fresh fruits, and deficiencies to its responses to abiotic stresses and new diseases, restricts its world distribution and commercial success. The availability of a high-quality reference genome would provide an important resource to genetic improvement and breeding programmes, to improve the fig’s ability to be cultivated and distribute its fruit on a more extensive global scale. This is the genome sequence of ancient Italian cultivar Dottato.

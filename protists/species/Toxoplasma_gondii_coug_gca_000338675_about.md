@@ -1,7 +1,7 @@
-About *Toxoplasma gondii COUG* {#about-toxoplasma-gondii-coug .first}
+About *Toxoplasma gondii COUG* 
 ------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Toxoplasma_gondii)
+
 
 ***Toxoplasma gondii*** () is an obligate intracellular parasitic
 one-celled eukaryote (specifically an apicomplexan) that causes the

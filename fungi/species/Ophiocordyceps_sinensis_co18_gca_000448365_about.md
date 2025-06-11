@@ -1,7 +1,7 @@
-About *Ophiocordyceps sinensis CO18 (GCA\_000448365)* {#about-ophiocordyceps-sinensis-co18-gca_000448365 .first}
+About *Ophiocordyceps sinensis CO18 (GCA\_000448365)* 
 -----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Ophiocordyceps_sinensis)
+
 
 ***Ophiocordyceps sinensis*** (formerly known as ***Cordyceps
 sinensis***) or Yarsa-gumba, Yarsha-gumba or Yarcha-gumba, यार्सागुम्बा

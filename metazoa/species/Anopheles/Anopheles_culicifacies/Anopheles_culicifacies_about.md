@@ -79,5 +79,7 @@ Originally isolated from wild individuals collected in Iran (Ghoran
 village, May 2010), mosquitoes were donated by Mohammad Oshagi and Igor
 Sharakhov (Virginia Tech). There is no colony.
 
+Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Anopheles_culicifacies.jpg)
+
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-culicifacies)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000473375.1)

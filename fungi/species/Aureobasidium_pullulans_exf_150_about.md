@@ -1,7 +1,7 @@
-About *Aureobasidium pullulans EXF-150* {#about-aureobasidium-pullulans-exf-150 .first}
+About *Aureobasidium pullulans EXF-150* 
 ---------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aureobasidium_pullulans)
+
 
 \_\_NOTOC\_\_
 

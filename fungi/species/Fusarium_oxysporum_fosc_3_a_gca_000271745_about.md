@@ -1,7 +1,7 @@
-About *Fusarium oxysporum FOSC 3-a (GCA\_000271745)* {#about-fusarium-oxysporum-fosc-3-a-gca_000271745 .first}
+About *Fusarium oxysporum FOSC 3-a (GCA\_000271745)* 
 ----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Fusarium_oxysporum)
+
 
 ***Fusarium oxysporum*** (Schlecht as emended by Snyder and Hansen), an
 ascomycete fungus, comprises all the species, varieties and forms

@@ -1,7 +1,7 @@
-About *Chaetomium globosum CBS 148.51 (GCA\_000143365)* {#about-chaetomium-globosum-cbs-148.51-gca_000143365 .first}
+About *Chaetomium globosum CBS 148.51 (GCA\_000143365)* 
 -------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Chaetomium_globosum)
+
 
 ***Chaetomium globosum*** is a well-known mesophilic member of the
 Chaetomiaceae family of molds. It is a saprophytic fungus that primarily

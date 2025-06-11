@@ -9,7 +9,7 @@
     Visser RichardGF, Bachem ChristianWB, Boer JanMde, Bryan GlennJ,
     Chakrabati SwarupK, Feingold Sergio, Gromadka Robert, Ham
     RoelandCHJvan, Huang Sanwen, Jacobs JeanneME et al. 2009. Am. J.
-    Potato Res.. 86:417-429.
+    Potato Res. 86:417-429.
 3.  [Analyzing the potato abiotic stress transcriptome using expressed
     sequence tags](http://europepmc.org/abstract/MED/16094426).\
     Rensink W, Hart A, Liu J, Ouyang S, Zismann V, Buell CR. 2005.
@@ -18,5 +18,5 @@
     salt stress](http://europepmc.org/abstract/MED/15856349).\
     Rensink WA, Iobst S, Hart A, Stegalkina S, Liu J, Buell CR. 2005.
     Funct. Integr. Genomics. 5:201-207.
-5.  Image credit: Scott Bauer, USDA ARS \[Public domain\], via Wikimedia
+5.  Image credit: Scott Bauer, USDA ARS [Public domain], via Wikimedia
     Commons.\

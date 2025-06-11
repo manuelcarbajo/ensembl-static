@@ -1,0 +1,4 @@
+About *Aegilops umbellulata*
+-------------------------
+
+*Aegilops umbellulata* (2n = 2x = 14, UU genome) is the only diploid *Aegilops* species containing the U genome. Compared to the bread wheat A, B and D genomes, the U genome contains several large chromosome rearrangements and is a source of disease resistance genes that have been transferred into wheat. The genus *Aegilops* contains several grass species, commonly referred to as goatgrass. The genus comprises at least 23 diploid and polyploid species and six different genomes (C, D, M, N, S, and U). *Aegilops* species belong to the same tribe as the major cereal crops bread wheat (*Triticum aestivum*, 2n = 6x = 42; AABBDD genome), durum wheat (*Triticum durum*, 2n = 4x = 28; AABB genome) and barley (*Hordeum vulgare*, 2n = 2x = 14). The genus has thus been explored to increase genetic diversity of wheat via wide hybridization and chromosome recombination.

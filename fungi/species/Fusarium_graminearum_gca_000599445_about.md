@@ -1,7 +1,7 @@
-About *Fusarium graminearum str. CS3005 (GCA\_000599445)* {#about-fusarium-graminearum-str.-cs3005-gca_000599445 .first}
+About *Fusarium graminearum str. CS3005 (GCA\_000599445)* 
 ---------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Gibberella_zeae)
+
 
 ***Gibberella zeae***, also known by the name of its anamorph
 ***Fusarium graminearum***, is a plant pathogen which causes fusarium

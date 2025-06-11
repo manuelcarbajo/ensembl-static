@@ -1,7 +1,7 @@
-About *Eimeria maxima* {#about-eimeria-maxima .first}
+About *Eimeria maxima* 
 ----------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Eimeria_maxima)
+
 
 ***Eimeria maxima*** is a species of *Eimeria* that causes coccidiosis
 in poultry. It is located in the middle part of the intestine, on either

@@ -1,7 +1,7 @@
-About *Sporothrix schenckii 1099-18 (GCA\_000961545)* {#about-sporothrix-schenckii-1099-18-gca_000961545 .first}
+About *Sporothrix schenckii 1099-18 (GCA\_000961545)* 
 -----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Sporothrix_schenckii)
+
 
 ***Sporothrix schenckii*** is a fungus that can be found worldwide in
 the environment. The species is present in soil as well as in and on

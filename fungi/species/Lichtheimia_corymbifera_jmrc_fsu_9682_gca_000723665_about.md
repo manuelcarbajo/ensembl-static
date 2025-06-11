@@ -1,7 +1,7 @@
-About *Lichtheimia corymbifera JMRC:FSU:9682 (GCA\_000723665)* {#about-lichtheimia-corymbifera-jmrcfsu9682-gca_000723665 .first}
+About *Lichtheimia corymbifera JMRC:FSU:9682 (GCA\_000723665)* 
 --------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Lichtheimia_corymbifera)
+
 
 ***Lichtheimia corymbifera*** is a thermophilic fungus in the phylum
 Zygomycota. It normally lives as a saprotrophic mold, but can also be an

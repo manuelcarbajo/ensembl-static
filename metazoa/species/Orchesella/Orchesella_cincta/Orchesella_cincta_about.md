@@ -10,3 +10,6 @@ such as mining sites, have evolved tolerance to heavy metals.
 Further details about *Orchesella cincta* can be obtained from the
 genome portal ([www.collembolomics.nl](http://www.collembolomics.nl)) at
 the Department of Ecological Science, Vrije Universiteit Amsterdam.
+
+Picture credit:
+Andy Murray [Creative Commons Attribution 2.0](https://creativecommons.org/licenses/by-sa/2.0) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Orchesella_cincta_(6875710316).jpg)

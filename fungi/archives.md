@@ -1,7 +1,8 @@
 ## Archive sites
 
-Archive of release 45 of EnsemblFungi: [eg45-fungi.ensembl.org](http://eg45-fungi.ensembl.org) (Sep 2019)
-
-Archive of release 40 of EnsemblFungi: [eg40-fungi.ensembl.org](http://eg40-fungi.ensembl.org) (July 2018)
-
-Archive of release 37 of EnsemblFungi: [eg37-fungi.ensembl.org](http://eg37-fungi.ensembl.org) (October 2017)
+- The following archive sites are available to access previous versions of data:
+  - Release 59, May 2024       [eg59-fungi.ensembl.org](https://eg59-fungi.ensembl.org)
+  - Release 56, February 2023  [eg56-fungi.ensembl.org](https://eg56-fungi.ensembl.org)
+  - Release 52, December 2021  [eg52-fungi.ensembl.org](https://eg52-fungi.ensembl.org)  
+  - Release 49, December 2020  [eg49-fungi.ensembl.org](https://eg49-fungi.ensembl.org)
+  - Release 45, September 2019 [eg45-fungi.ensembl.org](https://eg45-fungi.ensembl.org)

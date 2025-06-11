@@ -1,7 +1,7 @@
-About *Capsaspora owczarzaki ATCC 30864* {#about-capsaspora-owczarzaki-atcc-30864 .first}
+About *Capsaspora owczarzaki ATCC 30864* 
 ----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Capsaspora)
+
 
 ***Capsaspora*** is a monotypic genus containing the single species
 ***Capsaspora owczarzaki.*** C. owczarzaki is a single-celled eukaryote

@@ -1,12 +1,10 @@
 About *Chondrus crispus*
 ------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Chondrus_crispus)
-
-***Chondrus crispus*** - commonly called **Irish moss** or **carrageen
-moss** (Irish *carraigín*, \"little rock\") - is a species of red algae
+**Chondrus crispus**,  commonly called Irish moss or carrageen moss, 
+is a common edible red seaweed
 which grows abundantly along the rocky parts of the Atlantic coast of
-Europe and North America. In its fresh condition this protist is soft
+Europe and North America. In its fresh condition this protist algae is soft
 and cartilaginous, varying in color from a greenish-yellow, through red,
 to a dark purple or purplish-brown. The principal constituent is a
 mucilaginous body, made of the polysaccharide carrageenan, which

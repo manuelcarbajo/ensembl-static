@@ -1,7 +1,7 @@
-About *Babesia bigemina* {#about-babesia-bigemina .first}
+About *Babesia bigemina* 
 ------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Babesia_bigemina)
+
 
 ***Babesia bigemina*** is a protist belonging to Chromalveolata kingdom,
 family Babesiidae.

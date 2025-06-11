@@ -1,7 +1,7 @@
-About *Saitoella complicata NRRL Y-17804* {#about-saitoella-complicata-nrrl-y-17804 .first}
+About *Saitoella complicata NRRL Y-17804* 
 -----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Saitoella_complicata)
+
 
 ***Saitoella complicata*** is a rare fungus that is one of the nearest
 relatives of *S. pombe*, a widely used model species. While related

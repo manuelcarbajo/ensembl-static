@@ -1,7 +1,7 @@
-About *Aspergillus aculeatus ATCC 16872 (GCA\_001890905)* {#about-aspergillus-aculeatus-atcc-16872-gca_001890905 .first}
+About *Aspergillus aculeatus ATCC 16872 (GCA\_001890905)* 
 ---------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_aculeatus)
+
 
 ***Aspergillus aculeatus*** is a fungus species in the genus
 *Aspergillus*. It has been implicated as the causative agent in plant

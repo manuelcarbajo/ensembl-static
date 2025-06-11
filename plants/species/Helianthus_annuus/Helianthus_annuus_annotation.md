@@ -6,4 +6,5 @@ and it detected 92% of complete gene models (590 complete single copy
 and 291 duplicated, respectively) plus 10 additional fragmented gene
 models.
 
-Repeats were annotated with the [Ensembl Genomes repeat feature pipeline](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). There are: 3,564,833 Low complexity (Dust) features, covering 238 Mb (7.9% of the genome); 1,722,940 RepeatMasker features (with the nrTEplants library), covering 2131 Mb (70.4% of the genome); 1,612,551 Repeats: Red features, covering 2136 Mb (70.5% of the genome); 2057518 Tandem repeats (TRF) features, covering 194 Mb (6.4% of the genome).
+Repeated sequences called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](http://plants.ensembl.or
+g/info/genome/annotation/repeat_features.html), cover 2.25 Gb (74.8% of the genome). Low complexity (Dust) features cover 196 Mb, RepeatMasker features (with the nrTEplants library) cover 1.94 Gb, Tandem repeats (TRF) features cover 143 Mb.

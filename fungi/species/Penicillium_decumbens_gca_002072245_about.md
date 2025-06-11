@@ -1,7 +1,7 @@
-About *Penicillium decumbens (GCA\_002072245)* {#about-penicillium-decumbens-gca_002072245 .first}
+About *Penicillium decumbens (GCA\_002072245)* 
 ----------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_decumbens)
+
 
 ***Penicillium decumbens*** is an anamorph species of the genus of
 *Penicillium* which occurs widespread in nature, mainly in subtropical

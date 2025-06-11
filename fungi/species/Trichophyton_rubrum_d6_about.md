@@ -1,7 +1,7 @@
-About *Trichophyton rubrum D6* {#about-trichophyton-rubrum-d6 .first}
+About *Trichophyton rubrum D6* 
 ------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trichophyton_rubrum)
+
 
 ***Trichophyton rubrum*** is a dermatophytic fungus in the phylum
 Ascomycota, class Euascomycetes. It is an exclusively clonal,

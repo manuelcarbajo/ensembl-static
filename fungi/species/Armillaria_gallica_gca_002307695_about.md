@@ -1,7 +1,7 @@
-About *Armillaria gallica str. Ar21-2 (GCA\_002307695)* {#about-armillaria-gallica-str.-ar21-2-gca_002307695 .first}
+About *Armillaria gallica str. Ar21-2 (GCA\_002307695)* 
 -------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Armillaria_gallica)
+
 
 ***Armillaria gallica*** (synonymous with *A. bulbosa* and *A. lutea*)
 is a species of honey mushroom in the family Physalacriaceae of the

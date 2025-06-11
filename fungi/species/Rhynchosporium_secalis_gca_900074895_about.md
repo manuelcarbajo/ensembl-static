@@ -1,7 +1,7 @@
-About *Rhynchosporium secalis (GCA\_900074895)* {#about-rhynchosporium-secalis-gca_900074895 .first}
+About *Rhynchosporium secalis (GCA\_900074895)* 
 -----------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Rhynchosporium_secalis)
+
 
 **Rhynchosporium secalis** is an ascomycete fungus that is the causal
 agent of barley and rye scald.

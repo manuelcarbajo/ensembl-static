@@ -1,7 +1,7 @@
-About *Penicillium griseofulvum str. PG3 (GCA\_001561935)* {#about-penicillium-griseofulvum-str.-pg3-gca_001561935 .first}
+About *Penicillium griseofulvum str. PG3 (GCA\_001561935)* 
 ----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_griseofulvum)
+
 
 ***Penicillium griseofulvum*** is a species of the genus of
 *Penicillium* which produces patulin, penifulvin A, cyclopiazonic acid,

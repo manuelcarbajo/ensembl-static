@@ -1,7 +1,7 @@
-About *Paracoccidioides brasiliensis str. Pb300 (GCA\_001713645)* {#about-paracoccidioides-brasiliensis-str.-pb300-gca_001713645 .first}
+About *Paracoccidioides brasiliensis str. Pb300 (GCA\_001713645)* 
 -----------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Paracoccidioides_brasiliensis)
+
 
 ***Paracoccidioides brasiliensis*** is a dimorphic fungus and the
 causative agent of the disease paracoccidioidomycosis. The fungus has

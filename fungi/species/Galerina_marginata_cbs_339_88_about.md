@@ -1,7 +1,7 @@
-About *Galerina marginata CBS 339.88* {#about-galerina-marginata-cbs-339.88 .first}
+About *Galerina marginata CBS 339.88* 
 -------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Galerina_marginata)
+
 
 ***Galerina marginata*** is a species of poisonous fungus in the family
 Hymenogastraceae of the order Agaricales. Prior to 2001, the species

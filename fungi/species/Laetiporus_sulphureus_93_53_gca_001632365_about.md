@@ -1,7 +1,7 @@
-About *Laetiporus sulphureus 93-53 (GCA\_001632365)* {#about-laetiporus-sulphureus-93-53-gca_001632365 .first}
+About *Laetiporus sulphureus 93-53 (GCA\_001632365)* 
 ----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Laetiporus_sulphureus)
+
 
 ***Laetiporus sulphureus*** is a species of bracket fungus (fungi that
 grow on trees) found in Europe and North America. Its common names are

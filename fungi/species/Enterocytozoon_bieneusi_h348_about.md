@@ -1,7 +1,7 @@
-About *Enterocytozoon bieneusi H348* {#about-enterocytozoon-bieneusi-h348 .first}
+About *Enterocytozoon bieneusi H348* 
 ------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Enterocytozoon_bieneusi)
+
 
 ***Enterocytozoon bieneusi***, common Name: Microsporidia, is a species
 of the order microsporida which infects the intestinal epithelial cells.

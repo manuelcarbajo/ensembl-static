@@ -1,7 +1,7 @@
-About *Clavispora lusitaniae ATCC 42720 (GCA\_000003835)* {#about-clavispora-lusitaniae-atcc-42720-gca_000003835 .first}
+About *Clavispora lusitaniae ATCC 42720 (GCA\_000003835)* 
 ---------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Candida_lusitaniae_)
+
 
 ***Candida lusitaniae*** is a species of yeast in the genus *Candida*.
 

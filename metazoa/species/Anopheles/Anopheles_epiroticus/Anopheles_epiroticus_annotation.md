@@ -1,4 +1,4 @@
-*AepiE1.7* gene set
+*AepiE1.8* gene set
 -------------------
 
-Community annotation patch build for October 2018
+Community annotation patch build for July 2019.

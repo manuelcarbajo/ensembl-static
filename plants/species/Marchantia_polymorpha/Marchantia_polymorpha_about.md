@@ -1,8 +1,3 @@
-*Marchantia polymorpha* is a liverwort from a basal land plant lineage.
-It is almost cosmopolitan and can be found around human habitats in
-temperate regions. It is a model plant which has been studied for nearly
-200 years. It has a short life cycle, it's easy to propagate, cross and
-transform and has a small haploid genome. Its life cycle alternates
-between multicellular haploid gametophyte and diploid sporophyte
-generations. Compared to other land plants exhibits low genetic
-redundancy.
+**About *Marchantia polymorpha subsp. ruderalis***
+-------------------------
+Marchantia polymorpha is a species of large thalloid liverwort in the class Marchantiopsida. M. polymorpha is highly variable in appearance and contains several subspecies. This species is dioicous, having separate male and female plants. M. polymorpha has a wide distribution and is found worldwide. Common names include common liverwort or umbrella liverwort.

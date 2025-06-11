@@ -1,7 +1,7 @@
-About *Wallemia ichthyophaga EXF-994 (GCA\_000400465)* {#about-wallemia-ichthyophaga-exf-994-gca_000400465 .first}
+About *Wallemia ichthyophaga EXF-994 (GCA\_000400465)* 
 ------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Wallemia_ichthyophaga)
+
 
 ***Wallemia ichthyophaga*** is one of the three species of fungi in the
 genus *Wallemia*, which in turn is the only genus of the class

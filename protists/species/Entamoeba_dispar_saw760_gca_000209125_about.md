@@ -1,7 +1,7 @@
-About *Entamoeba dispar SAW760* {#about-entamoeba-dispar-saw760 .first}
+About *Entamoeba dispar SAW760* 
 -------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Entamoeba)
+
 
 ***Entamoeba*** is a genus of Amoebozoa found as internal parasites or
 commensals of animals.

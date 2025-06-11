@@ -1,7 +1,7 @@
-About *Aspergillus calidoustus* {#about-aspergillus-calidoustus .first}
+About *Aspergillus calidoustus* 
 -------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_calidoustus)
+
 
 ***Aspergillus calidoustus*** is a species in the section Ustus, which
 grows at 37° C (formerly called A. ustus, a species that fails to grow

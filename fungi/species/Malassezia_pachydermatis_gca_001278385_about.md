@@ -1,7 +1,7 @@
-About *Malassezia pachydermatis (GCA\_001278385)* {#about-malassezia-pachydermatis-gca_001278385 .first}
+About *Malassezia pachydermatis (GCA\_001278385)* 
 -------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Malassezia_pachydermatis)
+
 
 ***Malassezia pachydermatis*** is a zoophilic yeast in the division
 Basidiomycota. It was first isolated in 1925 by Fred Weidman, and has

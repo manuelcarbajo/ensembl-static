@@ -1,7 +1,7 @@
-About *Emmonsia parva str. UAMH130 (GCA\_002572885)* {#about-emmonsia-parva-str.-uamh130-gca_002572885 .first}
+About *Emmonsia parva str. UAMH130 (GCA\_002572885)* 
 ----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Emmonsia_parva)
+
 
 ***Emmonsia parva*** (formerly *Chrysosporium parvum*) is a filamentous,
 saprotrophic fungus and one of three species within the genus

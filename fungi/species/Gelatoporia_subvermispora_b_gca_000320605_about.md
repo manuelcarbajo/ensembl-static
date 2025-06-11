@@ -1,7 +1,7 @@
-About *Gelatoporia subvermispora B (GCA\_000320605)* {#about-gelatoporia-subvermispora-b-gca_000320605 .first}
+About *Gelatoporia subvermispora B (GCA\_000320605)* 
 ----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Gelatoporia)
+
 
 ***Gelatoporia*** is a fungal genus in the family Gelatoporiaceae. This
 is a monotypic genus, containing the single widely distributed species

@@ -1,52 +1,22 @@
 ### Annotation
 
-#### Nomenclature of Maize RefGen\_V4 gene models
+The gene annotations were produced with the CSHL gene pipeline developed under the [NAM project](https://nam-genomes.org). 
+In summary, it is an automated, evidence-based method combining third-party software including Mikado, BRAKER and PASA. 
+Gene models were filtered by conservation and Maker Annotation Edit Distance (AED) score, 
+and then classified into protein_coding and misc_non-coding sets.
 
-The gene models of Maize RefGen\_V4 were named following the standard of
-[Maize Genetics
-Nomenclature](http://www.maizegdb.org/nomenclature#GENEMODEL). Previous
-identifiers (e.g. GRMZM) are retained as synonyms and can be searched.
+Gene models from version B73_RefGen_v4 have been mapped to the current Zm-B73-REFERENCE-NAM-5.0 and can be retrieved with the
+[ID History Converter](http://plants.ensembl.org/Oryza_sativa/Tools/IDMapper)
 
-#### Method
+Evidence-based predictions were directly inferred from assembled transcripts, which were generated using five different genome-guided transcript assembly programs and processed using Mikado to pick the optimal set of transcripts for each locus. To generate assembled transcripts, quality inspected RNA-seq reads were mapped to the genome. In order to pick the final transcripts, Mikado uses assembled transcripts combined with high-confidence splice junctions with the mapped reads as input, predicted ORFs for the assembled transcripts generated and homology results of transcripts to SwissProt (Viridiplantae) sequences.
 
-Gene annotation was performed in the laboratory of Doreen Ware
-(CSHL/USDA). Protein-coding genes were identified using
-[MAKER-P](http://europepmc.org/abstract/MED/24306534) software version
-3.1 with the following transcript evidence: 111,151 [PacBio
-Iso-seq](http://europepmc.org/abstract/MED/27339440) long-reads from six
-tissues, 69,163 full-length cDNAs deposited in Genbank ([Alexandrov *et
-al*. 2008](http://europepmc.org/abstract/MED/18937034); [Soderlund *et
-al*. 2009](http://europepmc.org/abstract/MED/19936069)), 1,574,442
-Trinity-assembled transcripts from [94 B73 RNA-seq
-experiments](http://europepmc.org/abstract/MED/25384563), and 112,963
-transcripts assembled from [deep sequencing of a B73
-seedling](http://europepmc.org/abstract/MED/24682209). Additional
-evidence included annotated proteins from *Sorghum bicolor*, *Oryza
-sativa*, *Setaria italica*, *Brachypodium distachyon*, and *Arabidopsis
-thaliana* downloaded from Ensembl Plants Release 29 (Oct-2015). Gene
-calling was assisted by
-[Augustus](http://europepmc.org/abstract/MED/21216780) and
-[FGENESH](http://europepmc.org/abstract/MED/10779491) trained on maize
-and monocots, respectively. Low-confidence gene calls were filtered on
-the basis of AED score and other criteria and are viewable as a separate
-track. In the end, the higher confidence set (called filtered gene set)
-has 39,324 protein coding genes. Gene annotations from B73 RefGen\_v3
-were mapped to the new assembly and are also available as a separate
-track. In addition, 2,532 Long non-coding RNA (lncRNA) genes were mapped
-and annotated from prior studies ([Li *et al*.,
-2014](http://europepmc.org/abstract/MED/24576388); [Wang *et al*.,
-2016](http://europepmc.org/abstract/MED/27339440)), while 2,290 tRNA
-genes were identified using
-[tRNAScan-SE](http://europepmc.org/articles/PMC146525), and 154 miRNA
-genes mapped from [miRBase](http://europepmc.org/abstract/MED/24275495).
+Ab initio predictions were performed using BRAKER with both evidence-based predicted proteins and mapped RNA-seq reads as input. 
+
+A working set (WS) of models was generated to capture the complete gene space by combining evidence based and non-overlapping BRAKER gene models using BEDtools. Additional structural improvements on the WS models were completed using the software PASA. Transposable element related genes were filtered from the evidence and non-overlapping BRAKER sets using the TEsorter tool, which uses the REXdb database of TEs.
+
+The TE filtered WS models were given AED scores using MAKER-P (v.3.0). Only models with AED < 0.75 passed to the high-confidence set (HCS). The HCS gene models were further classified based on homology to related species, and assigned coding and non-coding biotypes. The HCS gene models were checked for missing start and stop codons. The CDS boundaries of the transcripts were modified based on conserved start codon positions or extended to a start or stop codon whenever possible. All conserved genes in addition to lineage-specific genes that had a complete CDS were marked as protein-coding. The remaining lineage-specific genes were marked as non-coding. HCS gene models were checked and potentially split or merged using the GFF3toolkit. Gene ID assignment was made as per [MaizeGDB nomenclature schema](https://www.maizegdb.org/nomenclature). 
 
 #### Repeats
 
-Repeats were annotated with the [Ensembl Genomes repeat feature
-pipeline](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). There
-are: 1,335,693 Low complexity (Dust) features, covering 56 Mb (2.6% of
-the genome); 787,462 RepeatMasker features (with the [reDAT
-library](http://pgsb.helmholtz-muenchen.de/plant/recat/)), covering
-1,417 Mb (66.3% of the genome); 1,105,314 RepeatMasker features (with
-the RepBase library), covering 1,646 Mb (77.1% of the genome); 950,012
-Tandem repeats (TRF) features, covering 103 Mb (4.8% of the genome).
+Repeat features were annotated with the RepeatMasker pipeline with 
+RepBase and wessler-bennetzen-2015/TE_12-Feb-2015_15-35 libraries.

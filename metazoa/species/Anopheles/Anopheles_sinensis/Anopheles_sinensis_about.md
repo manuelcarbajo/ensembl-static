@@ -66,4 +66,8 @@ genomes of 16 Anopheles mosquitoes. Science. Published Online November
 27 2014
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-sinensis)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000472065.2)
+
+Picture credit: 
+James Gathany, CDC [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Anopheles-sinensis.png)
+

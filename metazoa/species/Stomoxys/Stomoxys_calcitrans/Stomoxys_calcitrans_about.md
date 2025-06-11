@@ -11,4 +11,7 @@ undertaken on pooled multiple male (F7 generation from inbred line
 *8C7A2A5H3J4*) individual DNA isolates.
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/stomoxys-calcitrans)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_001015335.1)
+
+Photo credit:
+Peterwchen [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by-sa/4.0) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Stomoxys_calcitrans-sucking_blood.jpg)

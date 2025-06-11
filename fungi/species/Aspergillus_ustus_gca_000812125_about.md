@@ -1,7 +1,7 @@
-About *Aspergillus ustus str. 3.3904 (GCA\_000812125)* {#about-aspergillus-ustus-str.-3.3904-gca_000812125 .first}
+About *Aspergillus ustus str. 3.3904 (GCA\_000812125)* 
 ------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_ustus)
+
 
 ***Aspergillus ustus*** is a microfungus and member of the division
 Ascomycota. It is commonly found in indoor environments and soil.

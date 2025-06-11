@@ -1,7 +1,7 @@
-About *Fonsecaea pedrosoi CBS 271.37 (GCA\_000835455)* {#about-fonsecaea-pedrosoi-cbs-271.37-gca_000835455 .first}
+About *Fonsecaea pedrosoi CBS 271.37 (GCA\_000835455)* 
 ------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Fonsecaea_pedrosoi)
+
 
 ***Fonsecaea pedrosoi*** is a fungal species in the family
 Herpotrichiellaceae, and the major causative agent of

@@ -1,7 +1,7 @@
-About *Plasmodium malariae* {#about-plasmodium-malariae .first}
+About *Plasmodium malariae* 
 ---------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_malariae)
+
 
 ***Plasmodium malariae*** is a parasitic protozoa that causes malaria in
 humans. It is one of several species of *Plasmodium* parasites that

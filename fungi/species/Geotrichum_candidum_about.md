@@ -1,7 +1,7 @@
-About *Geotrichum candidum* {#about-geotrichum-candidum .first}
+About *Geotrichum candidum* 
 ---------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Geotrichum_candidum)
+
 
 ***Geotrichum candidum*** is a plant pathogenic fungus that causes sour
 rot of citrus fruits, tomatoes, carrot and some vegetables.

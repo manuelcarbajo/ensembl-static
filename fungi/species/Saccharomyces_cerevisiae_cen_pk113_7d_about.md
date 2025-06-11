@@ -1,7 +1,7 @@
-About *Saccharomyces cerevisiae CEN.PK113-7D* {#about-saccharomyces-cerevisiae-cen.pk113-7d .first}
+About *Saccharomyces cerevisiae CEN.PK113-7D* 
 ---------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)
+
 
 ***Saccharomyces cerevisiae*** is a species of yeast. It has been
 instrumental to winemaking, baking, and brewing since ancient times. It

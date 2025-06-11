@@ -1,7 +1,7 @@
-About *Eutypa lata UCREL1* {#about-eutypa-lata-ucrel1 .first}
+About *Eutypa lata UCREL1* 
 --------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Dead_arm_of_grapevine)
+
 
 **Dead-arm**, sometimes **grape canker**, is a disease of grapes caused
 by a deep-seated wood rot of the arms or trunk of the grapevine. As the

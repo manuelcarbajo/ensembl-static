@@ -1,7 +1,7 @@
-About *Aspergillus ustus* {#about-aspergillus-ustus .first}
+About *Aspergillus ustus* 
 -------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_ustus)
+
 
 ***Aspergillus ustus*** is a microfungus and member of the division
 Ascomycota. It is commonly found in indoor environments and soil.

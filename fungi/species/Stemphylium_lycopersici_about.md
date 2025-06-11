@@ -1,7 +1,7 @@
-About *Stemphylium lycopersici* {#about-stemphylium-lycopersici .first}
+About *Stemphylium lycopersici* 
 -------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Stemphylium_lycopersici)
+
 
 ***Stemphylium lycopersici*** is a plant pathogen infecting tomatoes,
 *Capsicum* and papayas.

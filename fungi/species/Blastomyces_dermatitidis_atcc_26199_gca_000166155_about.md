@@ -1,7 +1,7 @@
-About *Blastomyces dermatitidis ATCC 26199 (GCA\_000166155)* {#about-blastomyces-dermatitidis-atcc-26199-gca_000166155 .first}
+About *Blastomyces dermatitidis ATCC 26199 (GCA\_000166155)* 
 ------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Blastomyces_dermatitidis)
+
 
 ***Blastomyces dermatitidis*** is the causal agent of blastomycosis, an
 invasive and often serious fungal infection found occasionally in humans

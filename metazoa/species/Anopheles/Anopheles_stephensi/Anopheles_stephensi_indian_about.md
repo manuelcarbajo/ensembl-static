@@ -83,4 +83,8 @@ vector mosquito, Anopheles stephensi* . Genome Biol. 2014 Sep
 23;15(9):459.
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-stephensi)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000300775.2)
+
+Picture credit: 
+Jim Gathany, CDC [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Anopheles_stephensi.jpeg)
+

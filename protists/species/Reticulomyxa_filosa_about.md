@@ -1,7 +1,7 @@
-About *Reticulomyxa filosa* {#about-reticulomyxa-filosa .first}
+About *Reticulomyxa filosa* 
 ---------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Reticulomyxa_filosa)
+
 
 1.  REDIRECT Reticulomyxa
 

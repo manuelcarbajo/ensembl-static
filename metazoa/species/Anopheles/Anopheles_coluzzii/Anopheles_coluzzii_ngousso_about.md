@@ -25,4 +25,4 @@ colony is partially inbred, and has been used extensively in
 experimental infection studies.
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-coluzzii)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_004136515.2)

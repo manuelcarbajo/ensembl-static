@@ -1,0 +1,3 @@
+### Annotation
+
+The structural annotation of the genome yielded 79,752 genes, with complete open reading frames, and 83,814 transcripts. The number of transcripts with a valid functional annotation varied with the database used, and the maximum number was 69,218, when searching against InterPro signatures, which represented 82.6% of the total. Finally, using a validation approach based on the RNA-Seq data available for five cork oak tissues, a total of 33,658 predicted genes could be confirmed and classified as high confidence genes, since they presented assembled transcripts within the genome annotation coordinates.

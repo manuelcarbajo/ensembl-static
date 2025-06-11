@@ -1,7 +1,7 @@
-About *Sclerotinia borealis F-4128 (GCA\_000503235)* {#about-sclerotinia-borealis-f-4128-gca_000503235 .first}
+About *Sclerotinia borealis F-4128 (GCA\_000503235)* 
 ----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Sclerotinia_borealis)
+
 
 ***Sclerotinia borealis*** is a plant pathogen infecting barley, rye and
 wheat.

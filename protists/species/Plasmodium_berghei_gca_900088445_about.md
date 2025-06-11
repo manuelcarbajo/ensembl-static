@@ -1,7 +1,7 @@
-About *Plasmodium berghei* {#about-plasmodium-berghei .first}
+About *Plasmodium berghei* 
 --------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_berghei)
+
 
 ***Plasmodium berghei*** is a species in the genus *Plasmodium* subgenus
 *Vinckeia*.

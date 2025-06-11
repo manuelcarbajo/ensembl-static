@@ -1,7 +1,7 @@
-About *Aureobasidium namibiae CBS 147.97 (GCA\_000721765)* {#about-aureobasidium-namibiae-cbs-147.97-gca_000721765 .first}
+About *Aureobasidium namibiae CBS 147.97 (GCA\_000721765)* 
 ----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aureobasidium_namibiae)
+
 
 ***Aureobasidium namibiae***, formerly known as *Aureobasidium
 pullulans* var. *namibiae* is a ubiquitous black, yeast-like fungus. It

@@ -1,7 +1,7 @@
-About *Agaricus bisporus var. bisporus H97* {#about-agaricus-bisporus-var.-bisporus-h97 .first}
+About *Agaricus bisporus var. bisporus H97* 
 -------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Agaricus_bisporus)
+
 
 ***Agaricus bisporus*** is an edible basidiomycete mushroom native to
 grasslands in Europe and North America. It has two color states while

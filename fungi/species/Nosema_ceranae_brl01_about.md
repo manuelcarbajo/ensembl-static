@@ -1,7 +1,7 @@
-About *Nosema ceranae BRL01* {#about-nosema-ceranae-brl01 .first}
+About *Nosema ceranae BRL01* 
 ----------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Nosema_ceranae)
+
 
 ***Nosema ceranae*** is a microsporidian, a small, unicellular parasite
 that mainly affects *Apis cerana*, the Asiatic honey bee. It may cause

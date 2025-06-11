@@ -1,7 +1,7 @@
-About *Leishmania donovani* {#about-leishmania-donovani .first}
+About *Leishmania donovani* 
 ---------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Leishmania_donovani)
+
 
 ***Leishmania donovani*** is a species of intracellular parasitic
 protozoan belonging to the genus *Leishmania*, a group of

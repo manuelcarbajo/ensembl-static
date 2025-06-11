@@ -1,7 +1,7 @@
-About *Saccharomyces cerevisiae Lalvin QA23 (GCA\_000325965)* {#about-saccharomyces-cerevisiae-lalvin-qa23-gca_000325965 .first}
+About *Saccharomyces cerevisiae Lalvin QA23 (GCA\_000325965)* 
 -------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)
+
 
 ***Saccharomyces cerevisiae*** () is a species of yeast. It has been
 instrumental to winemaking, baking, and brewing since ancient times. It

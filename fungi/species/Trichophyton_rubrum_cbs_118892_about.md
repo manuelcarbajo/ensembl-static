@@ -1,7 +1,7 @@
-About *Trichophyton rubrum CBS 118892* {#about-trichophyton-rubrum-cbs-118892 .first}
+About *Trichophyton rubrum CBS 118892* 
 --------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trichophyton_rubrum)
+
 
 ***Trichophyton rubrum*** is a dermatophytic fungus in the phylum
 Ascomycota, class Euascomycetes. It is an exclusively clonal,

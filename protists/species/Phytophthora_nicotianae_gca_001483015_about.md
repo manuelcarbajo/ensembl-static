@@ -1,7 +1,7 @@
-About *Phytophthora nicotianae* {#about-phytophthora-nicotianae .first}
+About *Phytophthora nicotianae* 
 -------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Phytophthora_nicotianae)
+
 
 ***Phytophthora nicotianae*** or **Black Shank** is an oomycete
 belonging to the order Peronosprales and family Peronosporaceae.

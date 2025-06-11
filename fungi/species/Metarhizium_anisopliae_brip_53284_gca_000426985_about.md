@@ -1,7 +1,7 @@
-About *Metarhizium anisopliae BRIP 53284 (GCA\_000426985)* {#about-metarhizium-anisopliae-brip-53284-gca_000426985 .first}
+About *Metarhizium anisopliae BRIP 53284 (GCA\_000426985)* 
 ----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Metarhizium_anisopliae)
+
 
 ***Metarhizium anisopliae***, formerly known as *Entomophthora
 anisopliae* (basionym), is a fungus that grows naturally in soils

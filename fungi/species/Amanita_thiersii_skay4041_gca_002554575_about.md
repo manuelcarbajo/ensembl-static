@@ -1,7 +1,7 @@
-About *Amanita thiersii Skay4041 (GCA\_002554575)* {#about-amanita-thiersii-skay4041-gca_002554575 .first}
+About *Amanita thiersii Skay4041 (GCA\_002554575)* 
 --------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Saproamanita_thiersii)
+
 
 ***Amanita thiersii*** or ***Saproamanita thiersii***, commonly called
 **Thiers\' lepidella**, is a North-American saprotrophic basidiomycete

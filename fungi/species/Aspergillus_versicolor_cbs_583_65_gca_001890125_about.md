@@ -1,7 +1,7 @@
-About *Aspergillus versicolor CBS 583.65 (GCA\_001890125)* {#about-aspergillus-versicolor-cbs-583.65-gca_001890125 .first}
+About *Aspergillus versicolor CBS 583.65 (GCA\_001890125)* 
 ----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_versicolor)
+
 
 ***Aspergillus versicolor*** is a slow-growing filamentous fungus
 commonly found in damp indoor environments and on food products. It has

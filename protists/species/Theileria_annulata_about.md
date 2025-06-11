@@ -1,7 +1,7 @@
 About *Theileria annulata*
 --------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Tropical_theileriosis)
+
 
 **Tropical theileriosis** or **Mediterranean theileriosis** is a
 

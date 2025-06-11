@@ -1,7 +1,7 @@
-About *Trichophyton violaceum str. CMCC(F)T3l (GCA\_001651435)* {#about-trichophyton-violaceum-str.-cmccft3l-gca_001651435 .first}
+About *Trichophyton violaceum str. CMCC(F)T3l (GCA\_001651435)* 
 ---------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trichophyton)
+
 
 *Trichophyton* is a genus of fungi, which includes the parasitic
 varieties that cause tinea, including athlete\'s foot, ringworm, jock

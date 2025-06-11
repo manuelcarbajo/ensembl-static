@@ -1,7 +1,7 @@
-About *Hammondia hammondi str. H.H.34* {#about-hammondia-hammondi-str.-h.h.34 .first}
+About *Hammondia hammondi str. H.H.34* 
 --------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Hammondia_hammondi)
+
 
 ***Hammondia hammondi*** is a species of obligate heteroxenous parasitic
 alveolates of domestic cats (final host). Intracellular cysts develop

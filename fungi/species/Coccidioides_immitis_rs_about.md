@@ -1,7 +1,7 @@
-About *Coccidioides immitis RS* {#about-coccidioides-immitis-rs .first}
+About *Coccidioides immitis RS* 
 -------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Coccidioides_immitis)
+
 
 \[\[File:Coccidioides immitis on Sabouraud\'s
 medium.jpg\|thumb\|right\|200px\|

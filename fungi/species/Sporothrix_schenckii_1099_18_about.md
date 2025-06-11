@@ -1,7 +1,7 @@
-About *Sporothrix schenckii 1099-18* {#about-sporothrix-schenckii-1099-18 .first}
+About *Sporothrix schenckii 1099-18* 
 ------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Sporothrix_schenckii)
+
 
 ***Sporothrix schenckii*** is a fungus that can be found world-wide in
 the environment. The species is present in soil as well as in and on

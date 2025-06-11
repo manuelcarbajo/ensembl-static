@@ -1,4 +1,4 @@
-*ScalU1.5* gene set
+*ScalU1.6* gene set
 -------------------
 
-Community annotation patch build for February 2019
+Community annotation patch build for July 2019

@@ -77,4 +77,8 @@ Neafsey et al (121 authors). 2015. Highly evolvable malaria vectors:
 November 27 2014
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-stephensi)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000349045.1)
+
+Picture credit: 
+Jim Gathany, CDC [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Anopheles_stephensi.jpeg)
+

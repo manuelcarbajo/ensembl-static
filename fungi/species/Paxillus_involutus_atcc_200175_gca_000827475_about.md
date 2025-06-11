@@ -1,7 +1,7 @@
-About *Paxillus involutus ATCC 200175 (GCA\_000827475)* {#about-paxillus-involutus-atcc-200175-gca_000827475 .first}
+About *Paxillus involutus ATCC 200175 (GCA\_000827475)* 
 -------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Paxillus_involutus)
+
 
 *Paxillus involutus*, commonly known as the **brown roll-rim**, **common
 roll-rim**, or **poison pax**, is a basidiomycete fungus widely

@@ -1,7 +1,7 @@
-About *Aspergillus oryzae str. BCC7051 (GCA\_002007945)* {#about-aspergillus-oryzae-str.-bcc7051-gca_002007945 .first}
+About *Aspergillus oryzae str. BCC7051 (GCA\_002007945)* 
 --------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_oryzae)
+
 
 ***Aspergillus oryzae***, known in English as , is a filamentous fungus
 (a mold) used in Chinese and other East Asian cuisines to ferment

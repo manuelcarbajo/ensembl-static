@@ -1,7 +1,7 @@
-About *Ustilago hordei* {#about-ustilago-hordei .first}
+About *Ustilago hordei* 
 -----------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Ustilago_hordei)
+
 
 1.  Redirect Covered smut (barley)
 

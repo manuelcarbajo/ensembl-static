@@ -1,7 +1,7 @@
-About *Saccharomyces eubayanus str. FM1318 (GCA\_001298625)* {#about-saccharomyces-eubayanus-str.-fm1318-gca_001298625 .first}
+About *Saccharomyces eubayanus str. FM1318 (GCA\_001298625)* 
 ------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Saccharomyces_eubayanus)
+
 
 ***Saccharomyces eubayanus***, a type of yeast, is a likely parent of
 the lager brewing yeast, *Saccharomyces pastorianus*.

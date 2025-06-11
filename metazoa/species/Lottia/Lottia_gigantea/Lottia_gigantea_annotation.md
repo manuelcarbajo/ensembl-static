@@ -4,7 +4,7 @@ Annotation
 The protein-coding genes displayed in Ensembl Genomes are imported from
 [JGI](http://genome.jgi.doe.gov/Lotgi1/Lotgi1.home.html). Non-coding RNA
 genes were added using the [Ensembl Genomes
-pipeline](http://ensemblgenomes.org/info/data/ncrna), and BLAST hits and
+pipeline](https://metazoa.ensembl.org/info/genome/annotation/ncrna.html), and BLAST hits and
 protein features have been computed. The IDs of genes, transcripts and
 translations must be unique across species in Ensembl Genomes (to allow
 cross-species comparisons), which means that the JGI IDs cannot be used

@@ -1,5 +1,4 @@
-AfunF3.1 gene set
+AfunF3.2 gene set
 -----------------
 
-Gene set *AfunF1.10* projected from *AfunF1* assembly to new *AfunF3*
-assembly, and RNAgenes analysis performed.
+Community annotation patch build for July 2019.

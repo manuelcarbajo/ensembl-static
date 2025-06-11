@@ -1,7 +1,7 @@
-About *Laccaria amethystina LaAM-08-1* {#about-laccaria-amethystina-laam-08-1 .first}
+About *Laccaria amethystina LaAM-08-1* 
 --------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Laccaria_amethystina)
+
 
 ***Laccaria amethystina***, commonly known as the **amethyst deceiver**,
 is a small brightly colored, edible mushroom, that grows in deciduous as

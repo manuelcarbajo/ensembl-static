@@ -1,7 +1,7 @@
-About *Phanerochaete carnosa HHB-10118-sp* {#about-phanerochaete-carnosa-hhb-10118-sp .first}
+About *Phanerochaete carnosa HHB-10118-sp* 
 ------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Phanerochaete_carnosa)
+
 
 ***Phanerochaete carnosa*** is a plant pathogen infecting plane trees.
 

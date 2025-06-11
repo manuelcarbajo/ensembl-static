@@ -1,7 +1,7 @@
-About *Stereum hirsutum FP-91666 SS1* {#about-stereum-hirsutum-fp-91666-ss1 .first}
+About *Stereum hirsutum FP-91666 SS1* 
 -------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Stereum_hirsutum)
+
 
 ***Stereum hirsutum***, also called False Turkey Tail, is a fungus
 typically forming multiple brackets on dead wood. It is also a plant

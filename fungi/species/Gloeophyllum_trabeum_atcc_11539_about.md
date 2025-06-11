@@ -1,7 +1,7 @@
-About *Gloeophyllum trabeum ATCC 11539* {#about-gloeophyllum-trabeum-atcc-11539 .first}
+About *Gloeophyllum trabeum ATCC 11539* 
 ---------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Gloeophyllum_trabeum)
+
 
 ***Gloeophyllum trabeum*** is a plant fungal pathogen. It is a common
 type of brown rot fungi, which lives mostly anywhere but is prevalent in

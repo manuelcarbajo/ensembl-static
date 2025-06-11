@@ -1,7 +1,7 @@
-About *Candida albicans SC5314* {#about-candida-albicans-sc5314 .first}
+About *Candida albicans SC5314* 
 -------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Candida_albicans)
+
 
 ***Candida albicans*** is a dimorphic fungus that grows both as yeast
 and filamentous cells and one of the few species of the *Candida* genus

@@ -1,7 +1,7 @@
-About *Fusarium graminearum PH-1* {#about-fusarium-graminearum-ph-1 .first}
+About *Fusarium graminearum PH-1* 
 ---------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Gibberella_zeae)
+
 
 ***Gibberella zeae***, also known by the name of its anamorph
 ***Fusarium graminearum***, is a plant pathogen which causes fusarium

@@ -1,4 +1,4 @@
-*AmerM2.9* gene set
+*AmerM2.10* gene set
 -------------------
 
-Community annotation patch build for February 2019
+Community annotation patch build for July 2019

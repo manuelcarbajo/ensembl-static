@@ -1,7 +1,7 @@
-About *Penicillium expansum* {#about-penicillium-expansum .first}
+About *Penicillium expansum* 
 ----------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_expansum)
+
 
 ***Penicillium expansum*** is one of the most prevalent post harvest
 rots that infects apples.

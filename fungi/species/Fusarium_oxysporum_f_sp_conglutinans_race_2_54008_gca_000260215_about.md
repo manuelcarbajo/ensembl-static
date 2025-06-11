@@ -1,7 +1,7 @@
-About *Fusarium oxysporum f. sp. conglutinans race 2 54008 str. 54008 (PHW808) (GCA\_000260215)* {#about-fusarium-oxysporum-f.-sp.-conglutinans-race-2-54008-str.-54008-phw808-gca_000260215 .first}
+About *Fusarium oxysporum f. sp. conglutinans race 2 54008 str. 54008 (PHW808) (GCA\_000260215)* 
 ------------------------------------------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Fusarium_oxysporum)
+
 
 ***Fusarium oxysporum*** (Schlecht as emended by Snyder and Hansen), an
 ascomycete fungus, comprises all the species, varieties and forms

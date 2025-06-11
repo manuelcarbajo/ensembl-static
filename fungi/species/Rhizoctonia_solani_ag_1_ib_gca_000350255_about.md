@@ -1,7 +1,7 @@
-About *Rhizoctonia solani AG-1 IB (GCA\_000350255)* {#about-rhizoctonia-solani-ag-1-ib-gca_000350255 .first}
+About *Rhizoctonia solani AG-1 IB (GCA\_000350255)* 
 ---------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Rhizoctonia_solani)
+
 
 ***Rhizoctonia solani*** (teleomorph: ***Thanatephorus cucumeris***) is
 a plant pathogenic fungus with a wide host range and worldwide

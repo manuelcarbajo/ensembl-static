@@ -1,7 +1,7 @@
-About *Dactylellina haptotyla CBS 200.50 (GCA\_000441935)* {#about-dactylellina-haptotyla-cbs-200.50-gca_000441935 .first}
+About *Dactylellina haptotyla CBS 200.50 (GCA\_000441935)* 
 ----------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Dactylellina_haptotyla)
+
 
 ***Dactylellina haptotyla*** is a common soil-living fungus that
 develops structures to capture nematodes as nutrient source. In the

@@ -1,7 +1,7 @@
-About *Penicillium griseofulvum* {#about-penicillium-griseofulvum .first}
+About *Penicillium griseofulvum* 
 --------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_griseofulvum)
+
 
 ***Penicillium griseofulvum*** is a species of the genus of
 *Penicillium* which produces patulin, penifulvin A, cyclopiazonic acid,

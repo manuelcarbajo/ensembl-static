@@ -1,7 +1,7 @@
-About *Ustilaginoidea virens str. UV-8b (GCA\_000687475)* {#about-ustilaginoidea-virens-str.-uv-8b-gca_000687475 .first}
+About *Ustilaginoidea virens str. UV-8b (GCA\_000687475)* 
 ---------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Ustilaginoidea_virens)
+
 
 ***Ustilaginoidea virens***, perfect sexual stage *Villosiclava virens*,
 is a plant pathogen which causes the disease False Smut of rice which

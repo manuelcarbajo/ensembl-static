@@ -1,7 +1,7 @@
-About *Coccidioides posadasii C735 delta SOWgp* {#about-coccidioides-posadasii-c735-delta-sowgp .first}
+About *Coccidioides posadasii C735 delta SOWgp* 
 -----------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Coccidioides_posadasii)
+
 
 ***Coccidioides posadasii*** is a pathogenic fungus that, along with
 *Coccidioides immitis*, is the causative agent of coccidioidomycosis, or

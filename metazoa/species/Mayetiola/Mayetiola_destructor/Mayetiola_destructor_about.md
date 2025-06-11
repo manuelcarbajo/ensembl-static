@@ -11,8 +11,8 @@ dark-coloured female lays about 250 to 300 reddish eggs on plants,
 usually where the stems are covered by leaves; the larvae feed on the
 sap and weaken the plants so that they cannot bear grain.
 
-([Text](http://en.wikipedia.org/wiki/Hessian_fly) from
-[Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+([Text](https://en.wikipedia.org/wiki/Hessian_fly) from
+[Wikipedia](https://en.wikipedia.org/), the free encyclopaedia.)
 
 Picture credit (public domain): Scott Bauer
 ([ARS](https://commons.wikimedia.org/wiki/File:Hessian_Fly.jpg))

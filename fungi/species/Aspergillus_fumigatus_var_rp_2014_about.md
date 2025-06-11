@@ -1,7 +1,7 @@
-About *Aspergillus fumigatus var. RP-2014* {#about-aspergillus-fumigatus-var.-rp-2014 .first}
+About *Aspergillus fumigatus var. RP-2014* 
 ------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_fumigatus)
+
 
 ***Aspergillus fumigatus*** is a fungus of the genus *Aspergillus*, and
 is one of the most common *Aspergillus* species to cause disease in

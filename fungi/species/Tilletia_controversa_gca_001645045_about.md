@@ -1,7 +1,7 @@
-About *Tilletia controversa str. DAOM 236426 (GCA\_001645045)* {#about-tilletia-controversa-str.-daom-236426-gca_001645045 .first}
+About *Tilletia controversa str. DAOM 236426 (GCA\_001645045)* 
 --------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Tilletia_controversa)
+
 
 ***Tilletia controversa*** is a plant pathogen. It is a fungus known to
 cause the smut disease **TCK smut** in soft white and hard red winter

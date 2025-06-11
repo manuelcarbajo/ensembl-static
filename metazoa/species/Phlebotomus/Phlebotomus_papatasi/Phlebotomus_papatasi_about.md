@@ -15,4 +15,7 @@ over time, experiencing several bottlenecks. The colony was expanded
 from a small number of flies at the University of Notre Dame.
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/phlebotomus-papatasi)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000262795.1)
+
+Picture credit: 
+James Gathany [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Phlebotomus_pappatasi_bloodmeal_begin.jpg)

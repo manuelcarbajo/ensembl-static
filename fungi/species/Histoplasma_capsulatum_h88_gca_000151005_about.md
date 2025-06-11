@@ -1,7 +1,7 @@
-About *Histoplasma capsulatum H88 (GCA\_000151005)* {#about-histoplasma-capsulatum-h88-gca_000151005 .first}
+About *Histoplasma capsulatum H88 (GCA\_000151005)* 
 ---------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Histoplasma_capsulatum)
+
 
 ***Histoplasma capsulatum*** is a species of dimorphic fungi.
 

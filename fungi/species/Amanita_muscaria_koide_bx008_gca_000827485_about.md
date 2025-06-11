@@ -1,7 +1,7 @@
-About *Amanita muscaria Koide BX008 (GCA\_000827485)* {#about-amanita-muscaria-koide-bx008-gca_000827485 .first}
+About *Amanita muscaria Koide BX008 (GCA\_000827485)* 
 -----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Amanita_muscaria)
+
 
 ***Amanita muscaria***, commonly known as the **fly agaric** or **fly
 amanita**, is a basidiomycete mushroom, one of many in the genus

@@ -1,7 +1,7 @@
-About *Rhodosporidium toruloides* {#about-rhodosporidium-toruloides .first}
+About *Rhodosporidium toruloides* 
 ---------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Rhodosporidium_toruloides)
+
 
 ***Rhodosporidium toruloides*** is an oleaginous yeast. It is a red
 basidiomycetous isolated from wood pulp from conifers. *Rhodosporidium

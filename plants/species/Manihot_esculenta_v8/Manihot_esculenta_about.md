@@ -1,0 +1,4 @@
+About *Manihot esculenta*
+-----------------------
+
+Cassava (*Manihot esculenta* Crantz) is grown throughout tropical Africa, Asia, and the Americas for its starchy storage roots, and feeds an estimated 1 billion people each day. Farmers choose it for its high productivity and its ability to withstand a variety of environmental conditions (including significant water stress) in which other crops fail. However, it has low protein content and is susceptible to a range of biotic stresses. Despite these problems, the crop production potential for cassava is enormous, and its capacity to grow in a variety of environmental conditions makes it a plant of the future for emerging tropical nations. Cassava is also an excellent energy source-its roots contain 20-40% starch that costs 15-30% less to produce per hectare than starch from corn, making it an attractive and strategic source of renewable energy.

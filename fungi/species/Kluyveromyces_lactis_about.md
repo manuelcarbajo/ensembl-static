@@ -1,7 +1,7 @@
-About *Kluyveromyces lactis* {#about-kluyveromyces-lactis .first}
+About *Kluyveromyces lactis* 
 ----------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Kluyveromyces_lactis)
+
 
 ***Kluyveromyces lactis*** is a *Kluyveromyces* yeast commonly used for
 genetic studies and industrial applications. Its name comes from the

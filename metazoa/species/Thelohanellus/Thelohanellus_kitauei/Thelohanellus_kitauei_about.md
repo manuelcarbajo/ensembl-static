@@ -10,8 +10,8 @@ releases a different type of spore. The two forms of spore are so
 different that until recently they were treated as belonging to
 different classes within the Myxozoa.
 
-([Text](http://en.wikipedia.org/wiki/Myxosporea) from
-[Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+([Text](https://en.wikipedia.org/wiki/Myxosporea) from
+[Wikipedia](https://en.wikipedia.org/), the free encyclopaedia.)
 
 Picture credit: [K.
 Ogawa](http://fishparasite.fs.a.u-tokyo.ac.jp/Thelohanellus-kitauei/T-kitauei-eng.html)

@@ -1,7 +1,7 @@
-About *Calocera cornea HHB12733 (GCA\_001632435)* {#about-calocera-cornea-hhb12733-gca_001632435 .first}
+About *Calocera cornea HHB12733 (GCA\_001632435)* 
 -------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Calocera_cornea)
+
 
 ***Calocera cornea*** is a jelly fungus that grows on decaying wood. It
 is a member of the Dacrymycetales, an order of fungi characterized by

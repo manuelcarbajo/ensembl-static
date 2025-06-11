@@ -1,7 +1,7 @@
-About *Penicillium vulpinum (GCA\_002072255)* {#about-penicillium-vulpinum-gca_002072255 .first}
+About *Penicillium vulpinum (GCA\_002072255)* 
 ---------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_claviforme)
+
 
 ***Penicillium claviforme*** is a species of *Penicillium* within the
 phylum Ascomycota.

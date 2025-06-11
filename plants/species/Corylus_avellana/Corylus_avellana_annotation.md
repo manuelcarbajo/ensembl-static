@@ -1,0 +1,5 @@
+
+Augustus was used to generate ab initio gene predictions from the masked Tombul genome based on hidden Markov models optimized for *Arabidopsis thaliana*. These predictions were tested by aligning the gene models with the Tombul transcriptome assembly to provide evidence for gene expression. Gene models were also assigned to the Viridiplantae OGs conserved and recorded in OrthoMCL-DB. Low-quality matches were eliminated from the annotation and gene models in some OGs. Where the intron–exon structure of *C. avellana* gene models was inconsistent with orthologues from other plants, fresh predictions were generated using fgenesh, with training parameters from *Betula* nana and the most consistent gene model retained.
+
+Repeated sequences called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](http://plants.ensembl.or
+g/info/genome/annotation/repeat_features.html), cover 151 Mb (40.8% of the genome). Low complexity (Dust) features cover 31.7 Mb, RepeatMasker features (with the nrTEplants library) cover 40 Mb, Tandem repeats (TRF) features cover 15.5 Mb.

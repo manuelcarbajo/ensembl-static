@@ -1,7 +1,7 @@
-About *Moniliophthora roreri str. MCA 2952 (GCA\_001466705)* {#about-moniliophthora-roreri-str.-mca-2952-gca_001466705 .first}
+About *Moniliophthora roreri str. MCA 2952 (GCA\_001466705)* 
 ------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Moniliophthora_roreri)
+
 
 ***Moniliophthora roreri*** is a basidiomycete fungus that causes frosty
 pod rot disease, one of the most serious problems for cacao (*Theobroma

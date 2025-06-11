@@ -1,7 +1,7 @@
-About *Aspergillus parasiticus SU-1 (GCA\_000956085)* {#about-aspergillus-parasiticus-su-1-gca_000956085 .first}
+About *Aspergillus parasiticus SU-1 (GCA\_000956085)* 
 -----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_parasiticus)
+
 
 ***Aspergillus parasiticus*** is a fungus belonging to the genus
 *Aspergillus*. This species is an unspecialized saprophytic mold, mostly

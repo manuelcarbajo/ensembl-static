@@ -1,7 +1,7 @@
-About *Saccharomyces cerevisiae YJM1434 (GCA\_000977835)* {#about-saccharomyces-cerevisiae-yjm1434-gca_000977835 .first}
+About *Saccharomyces cerevisiae YJM1434 (GCA\_000977835)* 
 ---------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)
+
 
 ***Saccharomyces cerevisiae*** () is a species of yeast. It has been
 instrumental to winemaking, baking, and brewing since ancient times. It

@@ -1,7 +1,7 @@
-About *Penicillium italicum* {#about-penicillium-italicum .first}
+About *Penicillium italicum* 
 ----------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_italicum)
+
 
 ***Penicillium italicum*** is a plant pathogen. It is a common post
 harvest disease commonly associated with citrus fruits.

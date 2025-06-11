@@ -1,7 +1,7 @@
-About *Aspergillus niger ATCC 1015 (GCA\_000230395)* {#about-aspergillus-niger-atcc-1015-gca_000230395 .first}
+About *Aspergillus niger ATCC 1015 (GCA\_000230395)* 
 ----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_niger)
+
 
 ***Aspergillus niger*** is a fungus and one of the most common species
 of the genus *Aspergillus*.

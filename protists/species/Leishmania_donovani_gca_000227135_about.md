@@ -1,7 +1,7 @@
-About *Leishmania donovani str. BPK282A1* {#about-leishmania-donovani-str.-bpk282a1 .first}
+About *Leishmania donovani str. BPK282A1* 
 -----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Leishmania_donovani)
+
 
 ***Leishmania donovani*** is a species of intracellular parasites
 belonging to the genus *Leishmania*, a group of haemoflagellate

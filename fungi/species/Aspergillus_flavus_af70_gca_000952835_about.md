@@ -1,7 +1,7 @@
-About *Aspergillus flavus AF70 (GCA\_000952835)* {#about-aspergillus-flavus-af70-gca_000952835 .first}
+About *Aspergillus flavus AF70 (GCA\_000952835)* 
 ------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_flavus)
+
 
 ***Aspergillus flavus*** is a saprotrophic and pathogenic fungus with a
 cosmopolitan distribution. It is best known for its colonization of

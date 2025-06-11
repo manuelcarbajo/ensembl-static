@@ -1,7 +1,7 @@
-About *Blastocystis hominis* {#about-blastocystis-hominis .first}
+About *Blastocystis hominis* 
 ----------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Blastocystis_hominis)
+
 
 1.  REDIRECT Blastocystis
 

@@ -1,7 +1,7 @@
-About *Mycosphaerella eumusae* {#about-mycosphaerella-eumusae .first}
+About *Mycosphaerella eumusae* 
 ------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Mycosphaerella_eumusae)
+
 
 ***Mycosphaerella eumusae*** is a fungal plant pathogen.
 

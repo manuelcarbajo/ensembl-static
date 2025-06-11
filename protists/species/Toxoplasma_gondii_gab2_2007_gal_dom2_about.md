@@ -1,7 +1,7 @@
-About *Toxoplasma gondii GAB2-2007-GAL-DOM2* {#about-toxoplasma-gondii-gab2-2007-gal-dom2 .first}
+About *Toxoplasma gondii GAB2-2007-GAL-DOM2* 
 --------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Toxoplasma_gondii)
+
 
 ***Toxoplasma gondii*** () is an
 

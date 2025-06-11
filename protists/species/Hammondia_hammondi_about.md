@@ -1,7 +1,7 @@
-About *Hammondia hammondi* {#about-hammondia-hammondi .first}
+About *Hammondia hammondi* 
 --------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Hammondia_hammondi)
+
 
 **Hammondia hammondi** is an obligate heteroxenous protozoon of domestic
 cats (final host). Intracellular cysts develop mainly in striated

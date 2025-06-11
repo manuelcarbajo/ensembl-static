@@ -1,7 +1,7 @@
-About *Talaromyces islandicus (GCA\_000985935)* {#about-talaromyces-islandicus-gca_000985935 .first}
+About *Talaromyces islandicus (GCA\_000985935)* 
 -----------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_islandicum)
+
 
 ***Penicillium islandicum*** is an anamorph species of the genus of
 *Penicillium* which produces luteoskyrin, simatoxin, cyclochlorotine,

@@ -1,4 +1,4 @@
-*AmacM1.5* gene set
+*AmacM1.6* gene set
 -------------------
 
-Community annotation patch build for October 2017.
+Community annotation patch build for July 2019.

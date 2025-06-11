@@ -1,7 +1,7 @@
-About *Trichophyton tonsurans CBS 112818* {#about-trichophyton-tonsurans-cbs-112818 .first}
+About *Trichophyton tonsurans CBS 112818* 
 -----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trichophyton_tonsurans)
+
 
 ***Trichophyton tonsurans*** is a fungus in the family Arthrodermataceae
 that causes ringworm infection of the scalp. It was first recognized by

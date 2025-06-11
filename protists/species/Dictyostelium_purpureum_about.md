@@ -1,7 +1,7 @@
 About *Dictyostelium purpureum*
 -------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Dictyostelium_purpureum)
+
 
 ***Dictyostelium purpureum*** is a species of *Dictyostelium*.
 

@@ -1,7 +1,7 @@
-About *Trichoderma harzianum str. TR274 (GCA\_002838845)* {#about-trichoderma-harzianum-str.-tr274-gca_002838845 .first}
+About *Trichoderma harzianum str. TR274 (GCA\_002838845)* 
 ---------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trichoderma_harzianum)
+
 
 ***Trichoderma harzianum*** is a fungus that is also used as a
 fungicide. It is used for foliar application, seed treatment and soil

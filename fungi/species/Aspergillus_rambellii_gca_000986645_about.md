@@ -1,7 +1,7 @@
-About *Aspergillus rambellii str. SRRC1468 (GCA\_000986645)* {#about-aspergillus-rambellii-str.-srrc1468-gca_000986645 .first}
+About *Aspergillus rambellii str. SRRC1468 (GCA\_000986645)* 
 ------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_rambellii)
+
 
 ***Aspergillus rambellii*** is a species of fungus in the genus
 *Aspergillus*. It is from the *Ochraceorosei* section. It accumulates

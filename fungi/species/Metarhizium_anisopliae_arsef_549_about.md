@@ -1,7 +1,7 @@
-About *Metarhizium anisopliae ARSEF 549* {#about-metarhizium-anisopliae-arsef-549 .first}
+About *Metarhizium anisopliae ARSEF 549* 
 ----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Metarhizium_anisopliae)
+
 
 ***Metarhizium anisopliae***, formerly known as *Entomophthora
 anisopliae* (basionym), is a fungus that grows naturally in soils

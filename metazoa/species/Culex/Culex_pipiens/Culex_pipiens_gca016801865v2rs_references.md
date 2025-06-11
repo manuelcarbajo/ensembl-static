@@ -1,0 +1,2 @@
+*References*
+ 1. Farajollahi, Ary; Fonseca, Dina M.; Kramer, Laura D.; Kilpatrick, A. Marm (October 2011). '"Bird biting" mosquitoes and human disease: A review of the role of Culex pipiens complex mosquitoes in epidemiology'. Infection, Genetics and Evolution. 11 (7): 1577–1585. doi:10.1016/j.meegid.2011.08.013. ISSN 1567-1348. PMC 3190018. PMID 21875691.

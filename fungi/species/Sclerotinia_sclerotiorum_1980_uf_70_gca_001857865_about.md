@@ -1,7 +1,7 @@
-About *Sclerotinia sclerotiorum 1980 UF-70 (GCA\_001857865)* {#about-sclerotinia-sclerotiorum-1980-uf-70-gca_001857865 .first}
+About *Sclerotinia sclerotiorum 1980 UF-70 (GCA\_001857865)* 
 ------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Sclerotinia_sclerotiorum)
+
 
 ***Sclerotinia sclerotiorum*** is a plant pathogenic fungus and can
 cause a disease called white mold if conditions are conducive. *S.

@@ -1,7 +1,7 @@
-About *Fusarium oxysporum f. sp. cubense race 4 (GCA\_000350365)* {#about-fusarium-oxysporum-f.-sp.-cubense-race-4-gca_000350365 .first}
+About *Fusarium oxysporum f. sp. cubense race 4 (GCA\_000350365)* 
 -----------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Fusarium_oxysporum)
+
 
 ***Fusarium oxysporum*** (Schlecht as emended by Snyder and Hansen), an
 ascomycete fungus, comprises all the species, varieties and forms

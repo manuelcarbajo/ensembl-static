@@ -1,7 +1,7 @@
-About *Plasmodium ovale* {#about-plasmodium-ovale .first}
+About *Plasmodium ovale* 
 ------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_ovale)
+
 
 ***Plasmodium ovale*** is a species of parasitic protozoa that causes
 tertian malaria in humans. It is one of several species of *Plasmodium*

@@ -1,7 +1,7 @@
-About *Toxoplasma gondii CAST* {#about-toxoplasma-gondii-cast .first}
+About *Toxoplasma gondii CAST* 
 ------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Toxoplasma_gondii)
+
 
 ***Toxoplasma gondii*** () is an obligate intracellular parasitic
 one-celled eukaryote (specifically an apicomplexan) that causes the

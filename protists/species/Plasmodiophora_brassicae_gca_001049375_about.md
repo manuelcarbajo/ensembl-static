@@ -1,7 +1,7 @@
-About *Plasmodiophora brassicae* {#about-plasmodiophora-brassicae .first}
+About *Plasmodiophora brassicae* 
 --------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Clubroot)
+
 
 220px\|thumb\|Clubroot on cauliflower **Clubroot** is a common disease
 of cabbages, broccoli, cauliflower, Brussels sprouts, radishes, turnips,

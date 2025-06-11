@@ -1,7 +1,7 @@
-About *Trichomonas vaginalis G3* {#about-trichomonas-vaginalis-g3 .first}
+About *Trichomonas vaginalis G3* 
 --------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trichomonas_vaginalis)
+
 
 ***Trichomonas vaginalis*** is an anaerobic, flagellated protozoan
 parasite and the causative agent of trichomoniasis. It is the most

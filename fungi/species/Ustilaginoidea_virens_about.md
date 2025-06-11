@@ -1,7 +1,7 @@
-About *Ustilaginoidea virens* {#about-ustilaginoidea-virens .first}
+About *Ustilaginoidea virens* 
 -----------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Ustilaginoidea_virens)
+
 
 **Ustilaginoidea virens**, perfect sexual stage *Villosiclava virens*,
 is a plant pathogen which causes the disease False Smut of rice which

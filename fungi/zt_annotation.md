@@ -1,3 +1,0 @@
-## Join the _Zymoseptoria tritici_ gene annotation team!
-
-The gene set for _Zymoseptoria tritici_, a wheat plant pathogen causing septoria leaf blotch, is currently under review by a team of _Z. tritici_ researchers. This is a collaborative effort supported by EnsemblFungi with the aim of consolidating and improving the existing gene sets. If you would like to get involved, please contact Marc-Henri Lebrun from the National Institute of Agricultural Research (INRA) in France ([marc-henri.lebrun@inra.fr](mailto:marc-henri.lebrun@inra.fr)) or Ensembl Fungi ([helpdesk@ensemblgenomes.org](mailto:helpdesk@ensemblgenomes.org)) to get started.

@@ -1,7 +1,7 @@
-About *Wallemia ichthyophaga EXF-994* {#about-wallemia-ichthyophaga-exf-994 .first}
+About *Wallemia ichthyophaga EXF-994* 
 -------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Wallemia_ichthyophaga)
+
 
 ***Wallemia ichthyophaga*** is one of the three species of the genus
 *Wallemia*, which in turn is the only genus of the class

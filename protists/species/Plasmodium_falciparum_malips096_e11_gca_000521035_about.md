@@ -1,7 +1,7 @@
-About *Plasmodium falciparum MaliPS096\_E11* {#about-plasmodium-falciparum-malips096_e11 .first}
+About *Plasmodium falciparum MaliPS096\_E11* 
 --------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_falciparum)
+
 
 ***Plasmodium falciparum*** is a unicellular protozoan parasite of
 humans, and the deadliest species of *Plasmodium* that cause malaria in

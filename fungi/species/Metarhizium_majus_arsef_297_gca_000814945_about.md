@@ -1,7 +1,7 @@
-About *Metarhizium majus ARSEF 297 (GCA\_000814945)* {#about-metarhizium-majus-arsef-297-gca_000814945 .first}
+About *Metarhizium majus ARSEF 297 (GCA\_000814945)* 
 ----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Metarhizium_majus)
+
 
 ***Metarhizium majus*** is the new name given to a group of fungal
 isolates that are known to be virulent against Scarabaeidae, a family of

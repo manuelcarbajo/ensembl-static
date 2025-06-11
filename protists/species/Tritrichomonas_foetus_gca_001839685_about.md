@@ -1,7 +1,7 @@
-About *Tritrichomonas foetus str. K* {#about-tritrichomonas-foetus-str.-k .first}
+About *Tritrichomonas foetus str. K* 
 ------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Tritrichomonas_foetus)
+
 
 ***Tritrichomonas foetus*** is a species of single-celled flagellated
 parasites that is known to be a pathogen of the bovine reproductive

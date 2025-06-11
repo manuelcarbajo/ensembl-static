@@ -19,3 +19,5 @@ whose encoded peptide contained more than 30% Pfam transposon element
 domains were removed. The resulting annotation includes 28134
 protein-coding loci. Most of these genes (91%) were retained in synteny
 blocks with soybean.
+
+Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). Repeats length: 197689120 - Repeats content: 37.9%

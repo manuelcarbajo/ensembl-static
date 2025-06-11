@@ -1,7 +1,7 @@
-About *Phytophthora kernoviae* {#about-phytophthora-kernoviae .first}
+About *Phytophthora kernoviae* 
 ------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Phytophthora_kernoviae)
+
 
 ***Phytophthora kernoviae*** is a plant pathogen that mainly infects
 European beech (*Fagus sylvatica*) and *Rhododendron ponticum*. It was

@@ -1,7 +1,7 @@
-About *Aspergillus oryzae 100-8 (GCA\_000691885)* {#about-aspergillus-oryzae-100-8-gca_000691885 .first}
+About *Aspergillus oryzae 100-8 (GCA\_000691885)* 
 -------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Aspergillus_oryzae)
+
 
 ***Aspergillus oryzae***, known in English as , is a filamentous fungus
 (a mold) used in Chinese and other East Asian cuisines to ferment

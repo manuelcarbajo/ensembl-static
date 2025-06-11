@@ -1,7 +1,7 @@
-About *Cryptococcus neoformans var. neoformans B-3501A (GCA\_000149385)* {#about-cryptococcus-neoformans-var.-neoformans-b-3501a-gca_000149385 .first}
+About *Cryptococcus neoformans var. neoformans B-3501A (GCA\_000149385)* 
 ------------------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Cryptococcus_neoformans)
+
 
 ***Cryptococcus neoformans*** is an encapsulated yeast and an obligate
 aerobe that can live in both plants and animals. Its teleomorph is

@@ -1,7 +1,7 @@
-About *Plasmodium falciparum RAJ116* {#about-plasmodium-falciparum-raj116 .first}
+About *Plasmodium falciparum RAJ116* 
 ------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_falciparum)
+
 
 ***Plasmodium falciparum*** is a unicellular protozoan parasite of
 humans, and the deadliest species of *Plasmodium* that cause malaria in

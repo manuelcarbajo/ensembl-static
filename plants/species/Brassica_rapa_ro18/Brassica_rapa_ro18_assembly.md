@@ -1,0 +1,8 @@
+### Assembly
+
+**Scaffold Assembly**
+DNA was extracted from leaves of the homozygous inbred line *Brassica rapa* subsp. *trilocularis* line R-o-18 
+(Biosample [SAMN16250067](https://www.ebi.ac.uk/biosamples/samples/SAMN16250067)). Sequencing data were generated from the following: four paired-end (PE) libraries with various insert sizes (255, 255, 250, 150 bps) sequenced on the Illumina MiSeq platform; one PE library and three mate-pair libraries (MP, with 3kb, 5kb and 10kb insert sizes) sequenced on the Illumina HiSeq platform; and PacBio Sequel Sequencing Plate v1.2.1 sequencing chemistry used with the Instrument Control Software version 4.0.0.189873. All sequencing reads are deposited in NCBI SRA and listed under NCBI Bioproject PRJNA649364. The reads were assembled using MaSuRCA v 3.2.2. Read error-correction was not carried out as MaSuRCA does the error correction internally. The initial scaffold-scale assembly was further improved using the SSPace scaffolder with information from the MP libraries.
+
+Chromosome-scale assembly 
+A high-density genetic linkage map based on GBS marker segregation in the BraRCRI recombinant inbred population derived from an F1 of R-o-18 x Chiifu-401 was used to assign the assembled scaffolds and contigs to specific chromosomes. Sequences of 12,500 markers on the linkage map were aligned against the assembled scaffolds and contigs using BLASTN. Finally, the ALLMAPS software was used to anchor the scaffolds and contigs to the 10 *B. rapa* A genome chromosomes with identity and orientation confirmed by comparison to existing published genomes that include minor corrections as described in [2]. The final assembly contains 10 chromosomes and 295 scaffolds.

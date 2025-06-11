@@ -24,4 +24,4 @@ gambiae* M Mali-NIH colony is currently maintained from the [BEI
 resources](https://www.beiresources.org) web portal.
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-coluzzii)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000150765.1)

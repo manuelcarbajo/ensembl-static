@@ -1,7 +1,7 @@
-About *Trichophyton interdigitale MR816* {#about-trichophyton-interdigitale-mr816 .first}
+About *Trichophyton interdigitale MR816* 
 ----------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trichophyton_interdigitale)
+
 
 ***Trichophyton interdigitale*** is a species of *Trichophyton*. It can
 produce penicillin.

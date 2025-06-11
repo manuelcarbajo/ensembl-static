@@ -1,7 +1,7 @@
 About *Plasmodium vivax Brazil I*
 ---------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_vivax)
+
 
 ***Plasmodium vivax*** is a protozoal parasite and a human pathogen. The
 most frequent and widely distributed cause of recurring (Benign tertian)

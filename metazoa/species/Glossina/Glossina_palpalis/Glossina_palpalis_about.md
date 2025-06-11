@@ -15,4 +15,4 @@ Sequenced strain originating from colony maintained in IAEA laboratories
 in Seibersdorf, Austria
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/glossina-palpalis)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000818775.1)

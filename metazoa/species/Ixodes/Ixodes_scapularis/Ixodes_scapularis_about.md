@@ -24,7 +24,7 @@ isolates. Dr. D. Sonenshine at Old Dominion University also maintains a
 satellite colony of the Wikel strain.
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/ixodes-scapularis)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000208615.1)
 
 Picture credit (public domain): [Scott
 Bauer](http://commons.wikimedia.org/wiki/File:Adult_deer_tick.jpg)

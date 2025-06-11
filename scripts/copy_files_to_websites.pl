@@ -1,6 +1,5 @@
 #!/usr/bin/perl 
-# Copyright [1999-2015] Wellcome Trust Sanger Institute and the EMBL-European Bioinformatics Institute
-# Copyright [2016-2020] EMBL-European Bioinformatics Institute
+# Copyright [2020-2022] EMBL-European Bioinformatics Institute
 # 
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -37,13 +36,15 @@ copy_files_to_websites.pl --release=101-48 --division=plants --species-only
 
 =cut
 
-my ($SCRIPT_ROOT, $help, $verbose, $dryrun, $version, $release, $site, $division, $home_only, $species_only);
+my ($SCRIPT_ROOT, $help, $auto, $version, $release, $site, $division, $home_only, $species_only);
+our ($dryrun, $verbose);
 
 BEGIN{
   &GetOptions(
               'help|h'          => \$help,
               'verbose|v'       => \$verbose,
               'dryrun|d'        => \$dryrun,
+              'auto|a'          => \$auto,
               'release|r=s'     => \$release,
               'site:s'          => \$site,
               'division|div:s'  => \$division,
@@ -86,7 +87,27 @@ else {
   ($OUT_ROOT = $SCRIPT_ROOT) =~ s#/ensembl-static##;
 }
 
-## TODO - check that ensembl-static is on same branch as desired eg-version 
+## General warning, as this script is unavoidably noisy!
+
+print "\n\n##################################################\n";
+print "\n";
+print "\nIMPORTANT NOTE: Ignore any 'cannot stat' or 'omitting directory' messages\n";
+print "\nThese are to be expected, as the input is structured differently from the output.\n";
+print "\n";
+print "\n\n###################################################\n";
+
+## Check that ensembl-static is on same branch as desired eg-version 
+## and pull any updates from github
+my $branch = sprintf('release/eg/%s', $eg_version);
+chdir $SCRIPT_ROOT;
+my $cmd = "git checkout $branch && git pull";
+if ($dryrun) {
+  print "\n Dryrun: Would update this repo using '$cmd'...\n\n";
+}
+else {
+  print "\n Updating static repo: '$cmd'...\n\n";
+}
+system($cmd) unless $dryrun;
 
 ## Define input directories for each type of content
 my $home_text_in  = '';
@@ -127,10 +148,12 @@ foreach my $div (@divisions) {
 
   $div_out_dir .= "/eg-web-$div/";
 
-  print "Copying files into $div_out_dir\nIs this correct? [y/n]\n\n";
+  unless ($auto) {
+    print "Copying files into $div_out_dir\nIs this correct? [y/n]\n\n";
 
-  my $response = <STDIN>;
-  die "Aborting!\n\n" unless ($response =~ /^y/i); 
+    my $response = <STDIN>;
+    die "Aborting!\n\n" unless ($response =~ /^y/i); 
+  }
 
   ## The SSI directory is not present in Git, so create it
   my $out_path = $div_out_dir.$home_text_out;
@@ -182,17 +205,23 @@ foreach my $div (@divisions) {
 sub copy_files {
   my ($in, $out, $recurse) = @_;
 
-  my $cmd = "cp $in/* $out";
-  print "Executing $cmd\n" if $verbose;
-  system($cmd) unless $dryrun;
+  ## Note - do not use -a as we don't want to recurse automatically
+  my $cmd = "rsync ";
+  $cmd .= $dryrun ? '-n' : '-W';
+  $cmd .= 'v' if $verbose;
+  $cmd .= " --exclude='deprecated'";
+
+  my $paths = "$in/* $out";
+  print "Executing $cmd $paths\n" if $verbose;
+  system("$cmd $paths");
 
   if ($recurse) {
-    $cmd = "cp $in/*/* $out";
-    print "Executing: $cmd\n" if $verbose;
-    system($cmd) unless $dryrun;
-    $cmd = "cp $in/*/*/* $out";
-    print "Executing: $cmd\n" if $verbose;
-    system($cmd) unless $dryrun;
+    $paths = "$in/*/* $out";
+    print "Executing: $cmd $paths\n" if $verbose;
+    system("$cmd $paths");
+    $paths = "$in/*/*/* $out";
+    print "Executing: $cmd $paths\n" if $verbose;
+    system("$cmd $paths");
   }
 
 }

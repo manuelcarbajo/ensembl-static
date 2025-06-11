@@ -1,7 +1,7 @@
-About *Cryptococcus neoformans var. grubii H99* {#about-cryptococcus-neoformans-var.-grubii-h99 .first}
+About *Cryptococcus neoformans var. grubii H99* 
 -----------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Cryptococcus_neoformans)
+
 
 ***Cryptococcus neoformans*** is an encapsulated yeast that can live in
 both plants and animals. Its teleomorph is *Filobasidiella neoformans*,

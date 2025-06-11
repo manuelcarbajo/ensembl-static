@@ -1,7 +1,7 @@
-About *Candida albicans WO-1 (GCA\_000149445)* {#about-candida-albicans-wo-1-gca_000149445 .first}
+About *Candida albicans WO-1 (GCA\_000149445)* 
 ----------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Candida_albicans)
+
 
 ***Candida albicans*** is an opportunistic pathogenic yeast It is one of
 the few species of the genus *Candida* that causes the human infection

@@ -1,7 +1,7 @@
-About *Plasmodium relictum* {#about-plasmodium-relictum .first}
+About *Plasmodium relictum* 
 ---------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_relictum)
+
 
 ***Plasmodium relictum*** is a species in the genus *Plasmodium*
 subgenus *Haemamoeba*.

@@ -1,7 +1,7 @@
-About *Penicillium camemberti FM 013 (GCA\_000513335)* {#about-penicillium-camemberti-fm-013-gca_000513335 .first}
+About *Penicillium camemberti FM 013 (GCA\_000513335)* 
 ------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Penicillium_camemberti)
+
 
 ***Penicillium camemberti*** is a species of fungus in the genus
 *Penicillium*. It is used in the production of Camembert, Brie, Langres,

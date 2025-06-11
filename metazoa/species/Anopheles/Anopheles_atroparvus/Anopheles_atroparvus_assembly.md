@@ -6,7 +6,7 @@ hybridization of genomic scaffolds and synteny information from the
 paper [\"Partial-arm translocations in evolution of malaria mosquitoes
 revealed by high- coverage physical mapping of the Anopheles atroparvus
 genome\", Artemov et al, BMC
-Genomics](https://www.vectorbase.org/publications/partial-arm-translocations-evolution-malaria-mosquitoes-revealed-high-coverage-physical).
+Genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4663-4).
 The assembly differs from the *Aatre2* version by the inclusion of
 spacer sequences between scaffolds, and the presence of a 1MB gap of
 chromosome 2L. No sequences have changed, and the order of assembly

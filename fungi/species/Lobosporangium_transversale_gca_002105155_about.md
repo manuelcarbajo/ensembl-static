@@ -1,7 +1,7 @@
-About *Lobosporangium transversale str. NRRL 3116* {#about-lobosporangium-transversale-str.-nrrl-3116 .first}
+About *Lobosporangium transversale str. NRRL 3116* 
 --------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Lobosporangium_)
+
 
 ***Lobosporangium*** is a fungal genus in the Mortierellaceae family of
 the Zygomycota. The genus is monotypic, containing the single species

@@ -1,7 +1,7 @@
-About *Schizophyllum commune H4-8 (GCA\_000143185)* {#about-schizophyllum-commune-h4-8-gca_000143185 .first}
+About *Schizophyllum commune H4-8 (GCA\_000143185)* 
 ---------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Schizophyllum_commune)
+
 
 ***Schizophyllum commune*** is a species of fungus in the genus
 *Schizophyllum*. The mushroom resembles undulating waves of tightly

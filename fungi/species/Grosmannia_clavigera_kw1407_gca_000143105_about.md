@@ -1,7 +1,7 @@
-About *Grosmannia clavigera kw1407 (GCA\_000143105)* {#about-grosmannia-clavigera-kw1407-gca_000143105 .first}
+About *Grosmannia clavigera kw1407 (GCA\_000143105)* 
 ----------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Grosmannia_clavigera)
+
 
 ***Grosmannia clavigera*** is a species of sac fungus that causes blue
 stain in wood. It spreads to lodgepole pine, ponderosa pine,

@@ -1,0 +1,3 @@
+### Assembly
+
+This assembly, MtrunA17r5.0-ANR, of *Medicago truncatula*  was sequenced using the high-depth (more than 100×) long-read (PacBio) sequencing technique as well as using the optical maps. A highly contiguous reference genome of 430 Mb (termed Mt5.0) was generated in only 64 sequence contigs (including 3.59 Mb in 32 unanchored contigs). This assembly spans chromosome arms from telomeres to centromeres, with half of the eight *M.truncatula* pseudo-chromosomes containing a single sequence gap at the centromere position. This genome assembly was produced by the [INRA/CNRS](https://www.inrae.fr/en).

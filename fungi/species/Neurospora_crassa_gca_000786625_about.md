@@ -1,7 +1,7 @@
-About *Neurospora crassa str. 73 (GCA\_000786625)* {#about-neurospora-crassa-str.-73-gca_000786625 .first}
+About *Neurospora crassa str. 73 (GCA\_000786625)* 
 --------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Neurospora_crassa)
+
 
 ***Neurospora crassa*** is a type of red bread mold of the phylum
 Ascomycota. The genus name, meaning \"nerve spore\" in Greek, refers to

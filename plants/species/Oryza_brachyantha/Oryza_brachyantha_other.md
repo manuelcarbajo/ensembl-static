@@ -15,9 +15,3 @@ project include:
 -   Identification of various repeat features by programs such as
     RepeatMasker with MIPS and AGI repeat libraries, and Dust, TRF.
 
-### 
-
-### Links
-
--   [*O. brachyantha* at Rice Knowledge
-    Bank](http://www.knowledgebank.irri.org/extension/oryza-brachyantha-a-chev-et-roehr.html)

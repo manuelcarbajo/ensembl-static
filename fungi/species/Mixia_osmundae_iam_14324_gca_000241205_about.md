@@ -1,7 +1,7 @@
-About *Mixia osmundae IAM 14324 (GCA\_000241205)* {#about-mixia-osmundae-iam-14324-gca_000241205 .first}
+About *Mixia osmundae IAM 14324 (GCA\_000241205)* 
 -------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Mixiomycetes)
+
 
 The **Mixiomycetes** are class of fungi in the Pucciniomycotina
 subdivision of the Basidiomycota. The class contains a single order, the

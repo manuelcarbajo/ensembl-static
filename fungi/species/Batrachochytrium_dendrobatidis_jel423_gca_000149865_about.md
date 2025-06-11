@@ -1,7 +1,7 @@
-About *Batrachochytrium dendrobatidis JEL423 (GCA\_000149865)* {#about-batrachochytrium-dendrobatidis-jel423-gca_000149865 .first}
+About *Batrachochytrium dendrobatidis JEL423 (GCA\_000149865)* 
 --------------------------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Batrachochytrium_dendrobatidis)
+
 
 ***Batrachochytrium dendrobatidis*** ( ), also known as ***Bd*** or the
 **amphibian chytrid fungus**, is a fungus that causes the disease

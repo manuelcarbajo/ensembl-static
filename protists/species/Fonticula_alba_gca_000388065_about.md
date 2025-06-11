@@ -1,7 +1,7 @@
-About *Fonticula alba str. ATCC 38817* {#about-fonticula-alba-str.-atcc-38817 .first}
+About *Fonticula alba str. ATCC 38817* 
 --------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Fonticula)
+
 
 ***Fonticula*** is a genus of cellular slime mold which forms a fruiting
 body in a volcano shape. In 1979, *Fonticula* was made a new genus of

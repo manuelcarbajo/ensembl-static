@@ -1,7 +1,7 @@
-About *Salpingoeca rosetta str. ATCC 50818* {#about-salpingoeca-rosetta-str.-atcc-50818 .first}
+About *Salpingoeca rosetta str. ATCC 50818* 
 -------------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Salpingoeca_rosetta)
+
 
 ***Salpingoeca rosetta*** is a species of Similar low level Unlike *S.
 rosetta*, sponges also have other cell-types that can perform different
