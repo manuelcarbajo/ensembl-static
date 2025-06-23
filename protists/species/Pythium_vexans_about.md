@@ -1,10 +1,12 @@
-About the *Pythium vexans* Genome
----------------------------------
+**About *Pythium vexans DAOM BR484***
+-------------------------
+!!!!!! PLACEHOLDER SUMMARY. MANUAL EDIT REQUIRED HERE !!!!!!
 
-*Pythium vexans* is a plant pathogen and it causes canker, damping-off
-and rot disease in many economically important crops including rubber
-trees, potato and sugar cane. It belongs to the group oomycetes which
-was originally classified among the fungi, due to its morphological and
-functional similarities. They are now classifed as protists based on
-modern insights on phylogentic relationship with photosynthetic
-organisms such as brown algae and diatoms.
+Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
+
+Taxonomy ID [1223560](https://www.uniprot.org/taxonomy/1223560)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/pythium_vexans_daom_br484)

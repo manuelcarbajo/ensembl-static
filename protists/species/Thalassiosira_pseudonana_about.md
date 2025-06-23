@@ -1,10 +1,12 @@
-About the *Thalassiosira pseudonana* genome
--------------------------------------------
+**About *Thalassiosira pseudonana CCMP1335***
+-------------------------
+!!!!!! PLACEHOLDER SUMMARY. MANUAL EDIT REQUIRED HERE !!!!!!
 
-*Thalassiosira pseudonana*is a centric diatom that belongs to the
-diverse algal group, likely arose from a common secondary endosymbiotic
-event, involving at least five different genomes. Diatoms are involved
-in various biogeochemical cycles most notably involving carbon, nitrogen
-and silicon, and contribute 30% to 40% of marine primary productivity.
-Consequently, they are responsible for approximately one fifth of the
-oxygen that is generated each year through global photosynthesis.
+Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
+
+Taxonomy ID [296543](https://www.uniprot.org/taxonomy/296543)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/thalassiosira_pseudonana_ccmp1335)

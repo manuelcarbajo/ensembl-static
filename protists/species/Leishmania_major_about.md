@@ -1,10 +1,18 @@
-About the *Leishmania major* genome
------------------------------------
+**About *Leishmania major***
+-------------------------
+*Leishmania major* is a species of parasite found in the genus 
+Leishmania, and is associated with the disease zoonotic cutaneous 
+leishmaniasis. L. major is an intracellular pathogen which infects the 
+macrophages and dendritic cells of the immune system. Though 
+Leishmania species are found on every continent aside from Antarctica, 
+Leishmania major is found only in the Eastern Hemisphere, specifically 
+in Northern Africa, the Middle East, Northwestern China, and 
+Northwestern India.
 
-Leishmania is a Tryanosomatid protozoa and is the parasite responsible
-for the disease Leishmaniasia. Leishmania is transmitted by the bite of
-certain species of sand fly and affects the populations of 88 tropical
-and sub-tropical countries worldwide. The symptoms are cutaneous and
-muco-cutaneous lesions initially around the bite, the parasite can also
-migrate causing visceral leishmaniasis affecting the haemopoietic
-organs. The current genome corresponds to the Friedlin strain.
+
+Picture credit: [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Leishmania_major_promastigotes.jpg)Taxonomy ID [347515](https://www.uniprot.org/taxonomy/347515)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Leishmania_major)

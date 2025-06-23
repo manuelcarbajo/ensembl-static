@@ -1,9 +1,13 @@
-About the *Plasmodium berghei* genome
-------------------------------------------------------------------------------------
+**About *Plasmodium berghei***
+-------------------------
+*Plasmodium berghei* is a single-celled parasite causing rodent 
+malaria. It is in the Plasmodium subgenus Vinckeia.
 
-*Plasmodium berghei* is one of four malarial parasites that infect
-rodents. *P. berghei* infects murine rodents from Central Africa, and
-are also infectious to laboratory rodents and easily maintained by
-*Anopheles stephensi* in the laboratory. It serves as a good model for
-the human parasites with which it shares many similarities in essential
-aspects of structure, biochemistry and life cycle.
+
+Picture credit: [Creative Commons Attribution-Share Alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Berghei_01.png)
+Taxonomy ID [5823](https://www.uniprot.org/taxonomy/5823)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Plasmodium_berghei)

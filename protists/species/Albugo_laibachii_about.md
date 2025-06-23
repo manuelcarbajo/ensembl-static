@@ -1,11 +1,17 @@
-About the *Albugo laibachii* genome
------------------------------------
+**About *Albugo laibachii***
+-------------------------
+* (*Albugo laibachii*)* is a species of oomycete, whose genome has 
+recently (2011) been sequenced. It is a plant pathogen of Arabidopsis 
+thaliana. Albugo laibachii also causes the host plant to become more 
+susceptible to other parasites, when it normally would be more 
+resistant, wearing down the host plant's immune system.
 
-Albugo laibachii is a pathogen of the model plant *Arabidopsis
-thaliana*. This pathogen and *[Hyaloperonospora
-arabidopsidis](http://protists.ensembl.org/Hyaloperonospora_arabidopsidis/Info/Index/)*
-are regularly found to co-infect plants and sporulate on the same leaf.
-A remarkable consequence of infection by *Albugo* sp. is enhanced host
-plant susceptibility to other parasites to which the host is resistant
-in the absence of *Albugo* infection, and also impairment of cell death
-mechanisms.
+
+Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
+
+Taxonomy ID [](https://www.uniprot.org/taxonomy/)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Albugo_laibachii)

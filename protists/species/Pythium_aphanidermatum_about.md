@@ -1,21 +1,12 @@
-About the *Pythium aphanidermatum* Genome
------------------------------------------
+**About *Pythium aphanidermatum DAOM BR444***
+-------------------------
+!!!!!! PLACEHOLDER SUMMARY. MANUAL EDIT REQUIRED HERE !!!!!!
 
-*Pythium aphanidermatum* is a plant pathogen causing damping off, root
-and stem rots, and blights of grasses and fruits. *P. aphanidermatum*
-have wide rage of hosts, including the economically important crops like
-beets, pepper and cotton. It is a major cause of root rot in papaya. It
-requires warmer temperatures, it is often seen in greenhouses. *P.
-aphanidermatum* is responsible for pre and post emergence damping off.
-Pre-emergence damping off is when the seed is infected prior to
-germination. This can result in poor or no germination, and is
-observable as a browning or rotting of the seed. Post emergence damping
-off takes place after germination and results in a thinning,
-water-soaked stem near the plant collar, which eventually causes the
-collapse of the plant.
+Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
-It belongs to the group oomycetes which was originally classified among
-the fungi, due to its morphological and functional similarities. They
-are now classifed as protists based on modern insights on phylogentic
-relationship with photosynthetic organisms such as brown algae and
-diatoms.
+Taxonomy ID [1223555](https://www.uniprot.org/taxonomy/1223555)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/pythium_aphanidermatum_daom_br444)

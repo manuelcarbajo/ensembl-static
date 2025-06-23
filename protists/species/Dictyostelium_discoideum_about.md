@@ -1,11 +1,12 @@
-About the *Dictyostelium discoideum* genome 
--------------------------------------------
+**About *Dictyostelium discoideum AX4***
+-------------------------
+!!!!!! PLACEHOLDER SUMMARY. MANUAL EDIT REQUIRED HERE !!!!!!
 
-*Dictyostelium discoideum* belongs to the group dictyostelids. It is a
-remarkable protist that can alternate long periods of life as single
-cells with stages of participation in multicellular assemblies. These
-assemblies display striking similarities with multicellular organisms
-including co-ordinated cell movements, differential cell adhesion, cell
-type specialization and organization into tissues. *Dictyostelium* is a
-popular system to study the evolution of social behaviour and of
-developmental strategies.
+Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
+
+Taxonomy ID [352472](https://www.uniprot.org/taxonomy/352472)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/dictyostelium_discoideum_ax4)
