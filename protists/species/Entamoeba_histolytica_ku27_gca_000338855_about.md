@@ -18,5 +18,5 @@ The word *histolysis* literally means disintegration and dissolution of
 organic tissues.
 
 ([Text](http://en.wikipedia.org/wiki/Entamoeba_histolytica) and
-[image](https://commons.wikimedia.org/wiki/File:Entamoeba_histolytica.jpg)
+[image](https://en.wikipedia.org/wiki/File:Entamoeba_histolytica_in_blood.jpg)
 from [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)

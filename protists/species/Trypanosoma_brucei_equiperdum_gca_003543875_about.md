@@ -36,5 +36,6 @@ are thought to be members of the *brucei* clade.
 The parasite was discovered in 1894 by Sir David Bruce, after whom the
 scientific name was given in 1899.
 
-([Text](http://en.wikipedia.org/wiki/Trypanosoma_brucei) from
+([Text](http://en.wikipedia.org/wiki/Trypanosoma_brucei) and
+[image](https://en.wikipedia.org/wiki/File:Tb_brucei.jpg) from
 [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)

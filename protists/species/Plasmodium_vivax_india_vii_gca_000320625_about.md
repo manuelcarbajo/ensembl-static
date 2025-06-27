@@ -13,5 +13,6 @@ severe disease and death, often due to splenomegaly (a pathologically
 enlarged spleen). *P. vivax* is carried by the female *Anopheles*
 mosquito; the males do not bite.
 
-([Text](http://en.wikipedia.org/wiki/Plasmodium_vivax) from
-[Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+([Text](http://en.wikipedia.org/wiki/Plasmodium_vivax) and
+[image](https://en.wikipedia.org/wiki/File:Plasmodium_vivax_01.png) 
+from [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)

@@ -18,6 +18,6 @@ tropical countries with an incidence of 300 million per year and
 mortality of 1 to 2 million per year. Roughly 50% of all malarial
 infections are caused by *P. falciparum*.
 
-([Text](http://en.wikipedia.org/wiki/Plasmodium_falciparum) and
-[image](https://commons.wikimedia.org/wiki/File:Plasmodium_falciparum_01.png)
+([Text](https://en.wikipedia.org/wiki/Plasmodium_falciparum) and
+[image](https://en.wikipedia.org/wiki/Plasmodium_falciparum#/media/File:Plasmodium_falciparum_01.png)
 from [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)

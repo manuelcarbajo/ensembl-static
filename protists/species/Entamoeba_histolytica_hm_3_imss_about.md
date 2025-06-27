@@ -17,5 +17,5 @@ but are not thought to contribute significantly to transmission.
 The word *histolytic* literally means \"Tissue destroyer\"
 
 ([Text](http://en.wikipedia.org/wiki/Entamoeba_histolytica) and
-[image](https://commons.wikimedia.org/wiki/File:Entamoeba_histolytica_01.jpg)
+[image](https://en.wikipedia.org/wiki/File:Entamoeba_histolytica_in_blood.jpg)
 from [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)

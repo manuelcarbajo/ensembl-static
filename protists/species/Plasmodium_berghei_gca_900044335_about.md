@@ -14,5 +14,6 @@ vinckei*, and *Plasmodium yoelii*. Due to its ability to infect rodents
 and relative ease of genetic engineering, *P. berghei* is a popular
 model organism for the study of human malaria.
 
-([Text](http://en.wikipedia.org/wiki/Plasmodium_berghei) from
-[Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+([Text](http://en.wikipedia.org/wiki/Plasmodium_berghei) and
+[image](https://en.wikipedia.org/wiki/File:Berghei_01.png) 
+from [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)

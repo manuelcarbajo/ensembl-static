@@ -12,7 +12,7 @@ become infected transiently, but are not thought to contribute
 significantly to transmission.
 
 
-Picture credit: [Creative Commons Zero Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/deed.en) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Entamoeba_histolytica_trophozoite.png)Taxonomy ID [294381](https://www.uniprot.org/taxonomy/294381)
+Picture credit: [Creative Commons Zero Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/deed.en) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Entamoeba_histolytica_in_blood.jpg)Taxonomy ID [294381](https://www.uniprot.org/taxonomy/294381)
 
 (Text from [Wikipedia](https://en.wikipedia.org/).)
 
