@@ -24,3 +24,5 @@ been imported from China.
 
 ([Text](http://en.wikipedia.org/wiki/Aspergillus_oryzae) from
 [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+[image](https://commons.wikimedia.org/wiki/File:Aspergillus_oryzae_(%E9%BA%B9).jpg)
+

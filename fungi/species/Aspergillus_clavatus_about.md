@@ -6,7 +6,7 @@ animal manure. The fungus was first described scientifically in 1834
 by the French mycologist John Baptiste Henri Joseph Desmazières.
 
 
-Picture credit: [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Aspergillus_clavatus.jpg)
+Picture credit: [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Aspergillus_clavatus.jpg)
 Taxonomy ID [344612](https://www.uniprot.org/taxonomy/344612)
 
 (Text from [Wikipedia](https://en.wikipedia.org/).)

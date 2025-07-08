@@ -9,10 +9,11 @@ the split-gill mushroom because of the unique, longitudinally divided
 nature of the namesake gills on the underside of the cap.
 
 
-Picture credit: [Creative Commons Zero Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/deed.en) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Schizophyllum_commune_(Split_gill)_(33389628036).jpg)
+Picture credit: [Creative Commons Zero Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/deed.en) via Wikimedia Commons [image](https://commons.wikimedia.org/wiki/File:Schizophyllum_commune_(Split_gill)_(33389628036).jpg)
 Taxonomy ID [578458](https://www.uniprot.org/taxonomy/578458)
 
 (Text from [Wikipedia](https://en.wikipedia.org/).)
 
 **More information**
 General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Schizophyllum_commune)
+

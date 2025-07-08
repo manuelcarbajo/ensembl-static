@@ -17,3 +17,4 @@ in immunocompromised individuals.
 
 ([Text](http://en.wikipedia.org/wiki/Aspergillus_flavus) from
 [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+[image](https://commons.wikimedia.org/wiki/File:Aspergillus_flavus.jpg)

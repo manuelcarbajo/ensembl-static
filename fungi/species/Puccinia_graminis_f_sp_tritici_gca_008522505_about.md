@@ -17,4 +17,4 @@ data, has pointed out the potential of the re-emergence of stem wheat rust in
 UK.
 
 ([Text](https://en.wikipedia.org/wiki/Stem_rust_) from [Wikipedia](http://en.wikipedia.org/) 
-
+[image](https://commons.wikimedia.org/wiki/File:Stem_rust_close_up.jpg)

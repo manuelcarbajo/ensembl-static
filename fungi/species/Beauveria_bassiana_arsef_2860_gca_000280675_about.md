@@ -13,3 +13,4 @@ malaria-transmitting mosquitos is under investigation.
 
 ([Text](http://en.wikipedia.org/wiki/Beauveria_bassiana) from
 [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+[image](https://commons.wikimedia.org/wiki/File:Beauveria.jpg)

@@ -10,4 +10,4 @@ species in the genus Blumeria. It has also been called Erysiphe graminis and (by
 its anamorph) Oidium monilioides or Oidium tritici.
 
 ([Text](http://en.wikipedia.org/wiki/Blumeria_graminis) from [Wikipedia](http://en.wikipedia.org/) 
-and [image] (https://commons.wikimedia.org/wiki/File:Barleypowderymildew.jpg) from [Wikipedia] (http://en.wikipedia.org), the free encyclopaedia.
+and [image](https://commons.wikimedia.org/wiki/File:Barleypowderymildew.jpg) from [Wikipedia] (http://en.wikipedia.org), the free encyclopaedia.

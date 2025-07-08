@@ -32,5 +32,5 @@ It is common in rotting wood, but can also cause disease in humans.
 Hydrophobin was first isolated from *Schizophyllum commune*.
 
 ([Text](http://en.wikipedia.org/wiki/Schizophyllum_commune) and
-[image](http://commons.wikimedia.org/wiki/File:Fuzzy_Fungi_(Schizophyllum_commune).jpg)
+[image](https://commons.wikimedia.org/wiki/File:Schizophyllum_commune_(Split_gill)_(33389628036).jpg)
 from [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)

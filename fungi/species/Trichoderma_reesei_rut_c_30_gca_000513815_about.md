@@ -13,3 +13,4 @@ hydrolysis.
 
 ([Text](http://en.wikipedia.org/wiki/Trichoderma_reesei) from
 [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+[image](https://commons.wikimedia.org/wiki/File:Trichoderma.reesei.jpg)

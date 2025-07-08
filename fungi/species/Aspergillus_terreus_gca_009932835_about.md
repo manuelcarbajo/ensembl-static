@@ -15,4 +15,4 @@ antifungal drug.  Aspergillus terreus also produces aspterric acid and
 6-hydroxymellein, inhibitors of pollen development in Arabidopsis thaliana.
 
 ([Text](http://en.wikipedia.org/wiki/Aspergillus_terreus) from [Wikipedia](http://en.wikipedia.org/) 
-
+[image](https://commons.wikimedia.org/wiki/File:Aspergillus_terreus.jpg)

@@ -11,4 +11,4 @@ described as mating population A of the Fusarium fujikuroi species complex
 (formally known as Gibberella fujikuroi species complex).
 
 ([Text](http://en.wikipedia.org/wiki/Fusarium_verticillioides) from [Wikipedia](http://en.wikipedia.org/) 
-
+[image](https://commons.wikimedia.org/wiki/File:Fusarium_verticillioides_01.jpg)

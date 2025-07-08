@@ -25,5 +25,5 @@ Crohn\'s disease and 10--15% of patients with ulcerative colitis (and 8%
 of healthy controls).
 
 ([Text](http://en.wikipedia.org/wiki/Saccharomyces_cerevisiae) and
-[image](https://commons.wikimedia.org/wiki/File:S_cerevisiae_under_DIC_microscopy.jpg)
+[image](https://commons.wikimedia.org/wiki/File:Saccharomyces_cerevisiae_SEM.jpg)
 from [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)

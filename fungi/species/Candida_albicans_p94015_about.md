@@ -31,5 +31,5 @@ prolonged when the original sensitive strain is replaced by the
 antibiotic-resistant strain.
 
 ([Text](http://en.wikipedia.org/wiki/Candida_albicans) and
-[image](https://commons.wikimedia.org/wiki/File:Candida_albicans_2.jpg)
+[image](https://commons.wikimedia.org/wiki/File:SEM_of_C_albicans.tif)
 from [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)

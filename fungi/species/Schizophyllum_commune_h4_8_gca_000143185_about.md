@@ -23,3 +23,4 @@ carbohydrate.
 
 ([Text](http://en.wikipedia.org/wiki/Schizophyllum_commune) from
 [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+[image](https://commons.wikimedia.org/wiki/File:Schizophyllum_commune_(Split_gill)_(33389628036).jpg)

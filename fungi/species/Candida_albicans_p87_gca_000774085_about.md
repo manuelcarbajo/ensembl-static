@@ -30,3 +30,4 @@ be used to identify different species of candida.
 
 ([Text](http://en.wikipedia.org/wiki/Candida_albicans) from
 [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+[image](https://commons.wikimedia.org/wiki/File:SEM_of_C_albicans.tif)

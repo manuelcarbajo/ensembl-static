@@ -15,3 +15,4 @@ called \"black mould\"). It also produces the isoflavone orobol.
 
 ([Text](http://en.wikipedia.org/wiki/Aspergillus_niger) from
 [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+[image](https://commons.wikimedia.org/wiki/File:Aspergillus_niger_01.jpg)

@@ -13,4 +13,4 @@ its black colonies can be confused with those of Stachybotrys (species of which
 have also been called "black mold"). It also produces the isoflavone orobol.
 
 ([Text](http://en.wikipedia.org/wiki/Aspergillus_niger) from [Wikipedia](http://en.wikipedia.org/) 
-
+[image](https://commons.wikimedia.org/wiki/File:Aspergillus_niger_01.jpg)

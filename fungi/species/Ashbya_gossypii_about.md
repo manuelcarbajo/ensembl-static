@@ -6,20 +6,20 @@ filamentous way. It was originally isolated from cotton as a pathogen
 causing stigmatomycosis by Ashby and Nowell in 1926. This disease 
 affects the development of hair cells in cotton bolls and can be 
 transmitted to citrus fruits, which thereupon dry out and collapse 
-(dry rot disease). In the first part of the 20th century, E. gossypii 
+(dry rot disease). In the first part of the 20th century, E.Â gossypii 
 and two other fungi causing stigmatomycosis (Eremothecium coryli, 
 Aureobasidium pullulans) made it virtually impossible to grow cotton 
 in certain regions of the subtropics, causing severe economical 
 losses. Control of the spore-transmitting insects - cotton stainer 
 (Dysdercus suturellus) and Antestiopsis (antestia bugs) - permitted 
-full eradication of infections. E. gossypii was recognized as a 
+full eradication of infections. E.Â gossypii was recognized as a 
 natural overproducer of riboflavin (vitamin B2), which protects its 
 spores against ultraviolet light. This made it an interesting organism 
 for industries, where genetically modified strains are still used to 
 produce this vitamin.
 
 
-Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:A_gossypii.jpg)
+Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:A_gossypii.jpg)
 Taxonomy ID [284811](https://www.uniprot.org/taxonomy/284811)
 
 (Text from [Wikipedia](https://en.wikipedia.org/).)

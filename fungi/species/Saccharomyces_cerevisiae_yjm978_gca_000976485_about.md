@@ -26,3 +26,5 @@ of healthy controls).
 
 ([Text](http://en.wikipedia.org/wiki/Saccharomyces_cerevisiae) from
 [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+
+[image](https://commons.wikimedia.org/wiki/File:Saccharomyces_cerevisiae_SEM.jpg)

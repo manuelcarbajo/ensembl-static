@@ -9,4 +9,4 @@ many plant species, causing leaves to curl and discolor.  It may cause death in
 some plants. Over 400 plant species are affected by Verticillium complex.
 
 ([Text](http://en.wikipedia.org/wiki/Verticillium_dahliae) from [Wikipedia](http://en.wikipedia.org/) 
-and [image] (https://commons.wikimedia.org/wiki/File:Verticillium_dahliae.jpg) from [Wikipedia] (http://en.wikipedia.org), the free encyclopaedia.
+and [image](https://commons.wikimedia.org/wiki/File:Verticillium_dahliae.jpg) from [Wikipedia](http://en.wikipedia.org), the free encyclopaedia.

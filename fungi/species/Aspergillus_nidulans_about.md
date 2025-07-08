@@ -20,7 +20,7 @@ spores, while mutations in the pigmentation pathway can produce other
 spore colours.
 
 
-Picture credit: [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Aspergillus_nidulans_wildtype.jpg)
+Picture credit: [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Aspergillus_nidulans_wildtype.jpg)
 Taxonomy ID [227321](https://www.uniprot.org/taxonomy/227321)
 
 (Text from [Wikipedia](https://en.wikipedia.org/).)

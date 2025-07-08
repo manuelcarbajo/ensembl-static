@@ -6,7 +6,7 @@ Dothideomycetes, a large fungal taxon that includes many important
 plant pathogens affecting all major crop plant families.
 
 
-Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Stagonospora-nodorum-wheat.jpg)
+Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Stagonospora-nodorum-wheat.jpg)
 Taxonomy ID [321614](https://www.uniprot.org/taxonomy/321614)
 
 (Text from [Wikipedia](https://en.wikipedia.org/).)

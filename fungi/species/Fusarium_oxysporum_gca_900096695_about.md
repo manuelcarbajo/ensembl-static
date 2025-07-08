@@ -15,3 +15,4 @@ agricultural settings.
 
 ([Text](http://en.wikipedia.org/wiki/Fusarium_oxysporum) from
 [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+[image](https://commons.wikimedia.org/wiki/File:K7725-1-sm.jpg)

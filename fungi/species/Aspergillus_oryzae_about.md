@@ -14,3 +14,4 @@ Taxonomy ID [510516](https://www.uniprot.org/taxonomy/510516)
 
 **More information**
 General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Aspergillus_oryzae)
+

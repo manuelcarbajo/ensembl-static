@@ -14,3 +14,4 @@ Taxonomy ID [675120](https://www.uniprot.org/taxonomy/675120)
 
 **More information**
 General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Dothistroma_septosporum)
+

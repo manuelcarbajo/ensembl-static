@@ -6,4 +6,4 @@ About *Fusarium fujikuroi (GCA\_009663095.1)*
 
 
 ([Text](http://en.wikipedia.org) from [Wikipedia](http://en.wikipedia.org/) 
-
+[image](https://commons.wikimedia.org/wiki/File:Gibberella_fujikuroi.jpg)

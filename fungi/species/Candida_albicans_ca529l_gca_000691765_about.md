@@ -30,4 +30,4 @@ influences the morphological state of C. albicans. A special type of medium is
 CHROMagar™ Candida, which can be used to identify different species of candida.
 
 ([Text](http://en.wikipedia.org/wiki/Candida_albicans) from [Wikipedia](http://en.wikipedia.org/) 
-
+[image](https://commons.wikimedia.org/wiki/File:SEM_of_C_albicans.tif)

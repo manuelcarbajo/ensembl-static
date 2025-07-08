@@ -18,4 +18,4 @@ consumed, are toxic to mammals. A. flavus is also an opportunistic human and
 animal pathogen, causing aspergillosis in immunocompromised individuals.
 
 ([Text](http://en.wikipedia.org/wiki/Aspergillus_flavus) from [Wikipedia](http://en.wikipedia.org/) 
-
+[image](https://commons.wikimedia.org/wiki/File:Aspergillus_flavus.jpg)

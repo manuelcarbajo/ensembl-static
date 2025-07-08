@@ -14,3 +14,4 @@ Taxonomy ID [660122](https://www.uniprot.org/taxonomy/660122)
 
 **More information**
 General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Fusarium_solani)
+

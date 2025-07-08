@@ -3,7 +3,7 @@
 Fusarium culmorum is a fungal plant pathogen and the causal agent of 
 seedling blight, foot rot, ear blight, stalk rot, common root rot and 
 other diseases of cereals, grasses, and a wide variety of monocots and 
-dicots. In coastal dunegrass, F. culmorum is a nonpathogenic symbiont 
+dicots. In coastal dunegrass, F.Â culmorum is a nonpathogenic symbiont 
 conferring both salt and drought tolerance to the plant.
 
 
