@@ -2,8 +2,8 @@
 -------------------------
 *Aspergillus lentulus* is a species of Aspergillus fungus. It is a 
 close relative of Aspergillus fumigatus. It has smaller conidial heads 
-with diminutive vesicles compared to A. fumigatus, and cannot survive 
-at 48 °C (118 °F). It also has decreased in vitro susceptibilities to 
+with diminutive vesicles compared to A.ï¿½fumigatus, and cannot survive 
+at 48ï¿½ï¿½C (118ï¿½ï¿½F). It also has decreased in vitro susceptibilities to 
 multiple antifungals, including amphotericin B, itraconazole, 
 voriconazole, and caspofungin. Aspergillus lentulus is an 
 opportunistic human pathogen that causes invasive aspergillosis with 
@@ -14,11 +14,7 @@ Swilaiman et al. (2013) found that A. lentulus has a functional sexual
 cycle. During this cycle cleistothecia are produced that, when mature, 
 contain heat-resistant ascospores.
 
-
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
-
 Taxonomy ID [293939](https://www.uniprot.org/taxonomy/293939)
-
 (Text from [Wikipedia](https://en.wikipedia.org/).)
 
 **More information**
